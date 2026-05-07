@@ -29,7 +29,7 @@
 
 ---
 
-# P.G. 200-02 — Mission, Vision, and Values of the New York City Police Department
+# Section 200 — Mission, Vision, and Values of the New York City Police Department
 
 > **Date Effective:** 10/24/25 | **Last Revision:** R.O. 107 | **Page:** 1 of 1
 
@@ -476,16 +476,48 @@ This is a high-priority area for sergeants. NST teams may NOT deploy without a s
 
 ---
 
-## P.G. 202-06: Administrative Quality of Life Officer
+## P.G. 202-06: Administrative Quality of Life Officer (05/05/26)
 
 **Key Duties:**
-- Process quality-of-life summonses and related administrative paperwork
-- Maintain accurate records of summons activity within the command
-- Coordinate with the Quality of Life Sergeant on enforcement priorities
-- Ensure proper documentation and filing of all QOL-related materials
+- Report to Quality of Life Team Sergeant
+- Perform duty in uniform
+- Assist QOL Team Sergeant by preparing statistical reports under guidance of Chief of Department's Office
+- Maintain master file of contact information for key community members/groups
+- Advise team members on traffic related issues and concerns
+- Review and analyze all Police Crash Reports (MV-104P); note deficiencies and bring to training sergeant's attention
+- Duplicate and forward collision reports daily to Highway Unit for collisions on limited access highways
+- Duplicate and forward collision reports to other agencies (DMV, TLC, etc.) when necessary
+- Fax copy of all "crossover" collision reports to Corporation Counsel and Highway District
+  - **Crossover collision:** Motor vehicle collision on surface road/highway where vehicle strikes/crosses median (jersey barrier, guard rail, divider, fence, etc.) separating opposing traffic
+- Analyze and process TRAFFIC INTELLIGENCE REPORTS (PD178-150)
+- Forward TRAFFIC INTELLIGENCE REPORTS that cannot be addressed at precinct level to Patrol Borough Traffic Safety Coordinator
+- Identify collision-prone locations and determine contributing factors
+- Survey all collision-prone locations and determine contributing factors
+- Recommend necessary engineering, enforcement, and education strategies for collision reduction
+- Forward enforcement information (days/hours collisions occurring, contributing factors) to other units (SRG, Highway Units, Citywide Traffic Task Force)
+- Maintain liaison with DOT regarding engineering recommendations
+- Issue appropriate summonses at collision-prone locations
+- Count, record by category (red lights, improper turn, etc.), and process relevant summonses
+- Enter Moving summons info into FORMS using "Paper" option daily
+- Maintain and update precinct Traffic Safety Plan and Emergency Plans "A," "B," and "C"
+- Evaluate and monitor precinct Pedestrian Safety Program
+- Attend patrol borough traffic safety meetings
+- Compile statistical data for Traffic Stat meetings; attend with executive officer when precinct scheduled
+- Attend community council and Safety Board meetings to discuss traffic safety (as directed by CO)
+- Coordinate activities with Community Affairs Officer to reduce collisions involving children
+- Coordinate traffic-related training with training sergeant
+- Prepare and/or forward all traffic-related reports
+- Review HIGHWAY CONDITION RECORD (PD311-151) for conditions requiring agency notification
+- Prepare MISSING TRAFFIC CONTROL DEVICE REPORT (PD620-150) and forward to appropriate DOT Borough Commissioner
+- Maintain and update precinct traffic safety bulletin board
+- Serve on Precinct Vehicle Pursuit and Collision Safety Review Board
+- Review summonses for moving violations and violations returnable to Criminal Court/OATH
+  - Identify summonses issued to TLC-licensed vehicles/owners
+  - Reproduce 2 photocopies, enter sequential number from "Report of Violation" log
+  - Forward 1 photocopy to TLC; file remaining copy in "Report of Violation" log
 
 **Sergeant Relevance:**
-Supervisors should verify that QOL paperwork is accurate and timely. This role supports the command's overall quality-of-life enforcement strategy, which is coordinated at the supervisor level by the QOL Sergeant (P.G. 202-39).
+This is a critical administrative role supporting the command's traffic safety program. The Administrative QOL Officer must NOT be used as backfill for other assignments without CO authorization. Key exam points: crossover collision definition, FORMS entry requirements, Traffic Safety Plan maintenance, and the prohibition on using this officer for unrelated duties. Supervisors should verify summonses are processed correctly and TLC notifications are made.
 
 ---
 
@@ -5236,7 +5268,7 @@ Covers procedures when a person wanted by another command or agency is apprehend
 
 ---
 
-# P.G. 208-24 — Identification Lineups/Showups
+# Section 208 — Identification Lineups/Showups
 
 > **Date Issued:** 06/23/20 | **Date Effective:** 06/23/20 | **Pages:** 1–3
 
@@ -31542,14 +31574,16 @@ NYCEM (NYC Emergency Management) has authority to designate the Liaison Officer.
 | P.G. 221-08 | Use of Conducted Electrical Weapons (CEW) | completed |
 | P.G. 221-09 | Use of Tear Gas | completed |
 | P.G. 221-10 | Use and Issuance of Shotguns/Long Guns/Automatic Weapons | completed |
-| P.G. 221-11 | Guidelines and Approval Process for Distraction Devices | completed |
+| P.G. 221-11 | Guidelines and Approval Process Pertaining to the Use of Distraction Devices | completed |
 | P.G. 221-13 | Mentally Ill or Emotionally Disturbed Persons | completed |
 | P.G. 221-15 | Vehicle Pursuits | completed |
 | P.G. 221-16 | Vehicle Checkpoints | completed |
 | P.G. 221-18 | Use of Department Canine Teams | completed |
 | P.G. 221-21 | School Safety Agent — Victim of an Offense While Performing Duty | completed |
 | P.G. 221-22 | Traffic Enforcement Agent Victim of an Offense While Performing Duty | completed |
-| P.G. 221-23 | Alcohol Testing for UMOS Involved in Firearms Discharges | completed |
+| P.G. 221-23 | Alcohol Testing for UMOS Involved in Firearms Discharges Resulting in Injury, Death, or Likelihood of Injury or Death | completed |
+
+> **Note:** Procedure numbers not listed above (221-12, 221-14, 221-17, 221-19, 221-20) are not covered in the public Patrol Guide. P.G. 221-14 (Hostage/Barricaded) is referenced in the EDP section but its content is not included.
 
 ## Chapter Files
 
@@ -31578,17 +31612,17 @@ NYCEM (NYC Emergency Management) has authority to designate the Liaison Officer.
 
 ---
 
-# P.G. 221-15 — Vehicle Pursuits
+# Section 221 — Vehicle Pursuits
 
-> **Date Effective:** 10/30/25 | **Last Revision:** R.O. 114 | **Page:** 1 of 8
+## P.G. 221-15: Vehicle Pursuits
 
----
+**Date Effective:** 10/30/25 | **Last Revision:** R.O. 114 | **Pages:** 8
 
-## Purpose
+### Purpose
 
 To determine the necessity of initiating a vehicle pursuit and the method to be employed in conducting such a pursuit.
 
-## Scope
+### Scope
 
 **Vehicle pursuits are NOT authorized** when the most serious offense committed, or suspected of being committed, is a:
 - Traffic infraction
@@ -31597,9 +31631,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 
 > **NOTE:** Reckless Driving (VTL § 1212) constitutes a **non-violent misdemeanor** and **cannot** be the basis for a vehicle pursuit.
 
----
-
-## Definitions
+### Definitions
 
 | Term | Definition |
 |------|------------|
@@ -31613,11 +31645,9 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Roadblock** | **PROHIBITED** — Vehicle/barrier intentionally placed to encourage stop. |
 | **Traffic Control** | **PERMISSIBLE** — Techniques to slow pursuit, induce voluntary stop, minimize risk. May direct to preferred path (less populated, StarChase, Aviation). |
 
----
+### Procedure: Before Initiating Pursuit
 
-## Procedure: Before Initiating Pursuit
-
-### UNIFORMED MEMBER / PRIMARY VEHICLE
+**UNIFORMED MEMBER / PRIMARY VEHICLE**
 
 1. **Initiate vehicle stop** (when feasible)
 2. **Determine necessity** by considering:
@@ -31638,11 +31668,24 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
    - Vehicle description
    - Occupant information
 
----
+> **Memory Aid — P.U.R.S.U.I.T.:**
+> - **P**opulation density
+> - **U**rgency of offense
+> - **R**oad/weather conditions
+> - **S**peed of pursuit
+> - **U**nit capabilities
+> - **I**dentity known?
+> - **T**raffic conditions
 
-## Procedure: During Pursuit
+> **Memory Aid — NO STOP:**
+> - **N**on-violent misdemeanor = No pursuit
+> - **O**ffense must justify risk
+> - **S**top if danger > benefit
+> - **T**raffic control OK, roadblock prohibited
 
-### PRIMARY VEHICLE
+### Procedure: During Pursuit
+
+**PRIMARY VEHICLE**
 
 | Step | Action |
 |------|--------|
@@ -31651,7 +31694,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 3 | **Terminate if**: Danger to public outweighs benefit of apprehension |
 | 4 | Notify dispatcher of **any change** in circumstances |
 
-### SECONDARY VEHICLE
+**SECONDARY VEHICLE**
 
 | Step | Action |
 |------|--------|
@@ -31660,7 +31703,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 3 | Assist with communication and coordination |
 | 4 | Be prepared to become primary if needed |
 
-### SUPERVISOR
+**SUPERVISOR**
 
 | Step | Action |
 |------|--------|
@@ -31671,7 +31714,13 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 5 | Coordinate additional resources (Aviation, StarChase, Highway) |
 | 6 | **Notify Duty Captain** of ongoing pursuit |
 
-### DUTY CAPTAIN
+> **Sergeant Focus:** As a supervisor, you must **respond to the scene** when feasible and **actively monitor** the pursuit via radio. You have the **authority and responsibility** to direct termination if the danger to the public outweighs the benefit of apprehension.
+
+> **Sergeant Focus:** Know the **prohibited tactics** — Forcible stopping and roadblocks are **NEVER authorized** during a vehicle pursuit. Officers may confuse these with permissible tactics like traffic control or PIM (which is only allowed on **stationary** vehicles).
+
+> **Sergeant Focus:** **Reckless Driving (VTL § 1212)** is explicitly defined as a **non-violent misdemeanor** — pursuits for this offense alone are **NOT authorized**. This is heavily tested.
+
+**DUTY CAPTAIN**
 
 | Step | Action |
 |------|--------|
@@ -31680,11 +31729,9 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | 3 | **Authorize/deauthorize** continuation based on risk assessment |
 | 4 | Ensure proper documentation |
 
----
+### Pursuit Termination
 
-## Pursuit Termination
-
-### When to Terminate
+**When to Terminate**
 
 | Factor | Consideration |
 |--------|---------------|
@@ -31696,42 +31743,40 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Operator identity known** | Can apprehend later = terminate |
 | **Length of pursuit** | Extended pursuit = increasing risk |
 
-### How to Terminate
+**How to Terminate**
 
 1. **Deactivate emergency signaling devices**
 2. **Notify radio dispatcher** — "Terminating pursuit"
 3. **Resume patrol** (do not follow unless normal traffic)
 4. **Document** all actions taken
 
----
-
-## Prohibited Tactics
+### Prohibited Tactics
 
 | Tactic | Status | Notes |
 |--------|--------|-------|
-| **Forcible Stopping** (ramming, PIM, pinning) | ❌ PROHIBITED | During vehicle pursuit |
-| **Roadblock** | ❌ PROHIBITED | During vehicle pursuit |
-| **Firearms discharge** | ❌ PROHIBITED | From moving vehicle |
-| **Two-wheeled motorcycle pursuit** | ⚠️ Limited | Must disengage when marked RMP joins |
-| **Unmarked RMP pursuit** | ⚠️ Limited | Must disengage when marked RMP joins |
-| **Department van pursuit** | ⚠️ Limited | Must disengage when another Dept vehicle joins |
+| **Forcible Stopping** (ramming, PIM, pinning) | PROHIBITED | During vehicle pursuit |
+| **Roadblock** | PROHIBITED | During vehicle pursuit |
+| **Firearms discharge** | PROHIBITED | From moving vehicle |
+| **Two-wheeled motorcycle pursuit** | Limited | Must disengage when marked RMP joins |
+| **Unmarked RMP pursuit** | Limited | Must disengage when marked RMP joins |
+| **Department van pursuit** | Limited | Must disengage when any other Dept vehicle joins |
 
----
+> **Exam Alert:** The distinction between **permissible traffic control** vs. **prohibited roadblock** is tested. Traffic control **slows/redirects**; roadblock **blocks all escape**.
 
-## Permissible Tactics
+> **Exam Alert:** **Unmarked RMPs and motorcycles** must disengage when a **marked RMP** joins. Department vans must disengage when **any other Department vehicle** joins.
+
+### Permissible Tactics
 
 | Tactic | Status | Notes |
 |--------|--------|-------|
-| **Traffic control** | ✅ ALLOWED | Slow down, redirect to safer area |
-| **StarChase** | ✅ ALLOWED | GPS tagging system |
-| **Aviation Unit** | ✅ ALLOWED | Monitor and broadcast (non-emergency) |
-| **Precision Immobilization** | ✅ ALLOWED | **Only** when pursuit has ended and suspect is stationary |
+| **Traffic control** | ALLOWED | Slow down, redirect to safer area |
+| **StarChase** | ALLOWED | GPS tagging system |
+| **Aviation Unit** | ALLOWED | Monitor and broadcast (non-emergency) |
+| **Precision Immobilization** | ALLOWED | **Only** when pursuit has ended and suspect is stationary |
 
----
+### Post-Pursuit Requirements
 
-## Post-Pursuit Requirements
-
-### UNIFORMED MEMBER
+**UNIFORMED MEMBER**
 
 | Action | Deadline |
 |--------|----------|
@@ -31740,7 +31785,7 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Safeguard BWC footage** | Immediately |
 | **Do not view BWC** if injury/death | Await IAB/FID |
 
-### SUPERVISOR
+**SUPERVISOR**
 
 | Action | Deadline |
 |--------|----------|
@@ -31749,65 +31794,19 @@ To determine the necessity of initiating a vehicle pursuit and the method to be 
 | **Notify FID** if death/serious injury | Immediately |
 | Conduct **preliminary investigation** | Within 48 hours |
 
----
+> **Exam Alert:** **BWC rules** — If injury or death occurs, supervisor **DO NOT VIEW** footage. Safeguard and await IAB/FID.
 
-## Sergeant Focus
+> **Exam Alert:** **Extraordinary circumstances** for false statements (A.G. 304-10) — Only the **Police Commissioner** can determine on a case-by-case basis.
 
-> **Sergeant Focus:** As a supervisor, you must **respond to the scene** when feasible and **actively monitor** the pursuit via radio. You have the **authority and responsibility** to direct termination if the danger to the public outweighs the benefit of apprehension.
-
-> **Sergeant Focus:** Know the **prohibited tactics** — Forcible stopping and roadblocks are **NEVER authorized** during a vehicle pursuit. Officers may confuse these with permissible tactics like traffic control or PIM (which is only allowed on **stationary** vehicles).
-
-> **Sergeant Focus:** **Reckless Driving (VTL § 1212)** is explicitly defined as a **non-violent misdemeanor** — pursuits for this offense alone are **NOT authorized**. This is heavily tested.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** The distinction between **permissible traffic control** vs. **prohibited roadblock** is tested. Traffic control **slows/redirects**; roadblock **blocks all escape**.
-
-> **⚠️ EXAM ALERT:** **Unmarked RMPs and motorcycles** must disengage when a **marked RMP** joins. Department vans must disengage when **any other Department vehicle** joins.
-
-> **⚠️ EXAM ALERT:** **BWC rules** — If injury or death occurs, supervisor **DO NOT VIEW** footage. Safeguard and await IAB/FID.
-
-> **⚠️ EXAM ALERT:** **Extraordinary circumstances** for false statements (A.G. 304-10) — Only the **Police Commissioner** can determine on a case-by-case basis.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — P.U.R.S.U.I.T.:**
-> - **P**opulation density
-> - **U**rgency of offense
-> - **R**oad/weather conditions
-> - **S**peed of pursuit
-> - **U**nit capabilities
-> - **I**dentity known?
-> - **T**raffic conditions
-
-> **🧠 MEMORY AID — NO STOP:**
-> - **N**on-violent misdemeanor = No pursuit
-> - **O**ffense must justify risk
-> - **S**top if danger > benefit
-> - **T**raffic control OK, roadblock prohibited
-
----
-
-## Related Procedures
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
 | P.G. 221-01 | Force Guidelines |
 | P.G. 221-02 | Use of Force |
-| P.G. 221-03 | Reporting Force Incidents |
-| A.G. 304-10 | False or Misleading Statements |
+| P.G. 221-03 | Reporting and Investigation of Force Incidents |
 | P.G. 218-48 | Vehicle Seizure |
-
----
-
-## Review Questions
-
-*See  for practice questions on this procedure.*
-
+| A.G. 304-10 | False or Misleading Statements |
 ---
 
 # Section 221 — EDP, MOS Subjected to Force, and Tactical Procedures
@@ -32139,6 +32138,8 @@ Does NOT include discharges during:
 | Patrol Borough Command |
 | Internal Affairs Bureau Command Center |
 | Precinct detective squad |
+
+> **Exam Alert:** If a UMOS discharges a firearm **outside of New York City**, the Operations Unit must be notified within **6 hours** of the discharge. The member must also notify local police authorities immediately.
 
 ### Chain of Response
 
@@ -33496,6 +33497,10 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 | A.G. 303-08 | Borough Counterterrorism Coordinator | extended | completed |
 | A.G. 303-09 | Patrol Borough Traffic Safety Coordinator | extended | completed |
 | A.G. 303-10 | Borough Auxiliary Police Coordinator | extended | completed |
+| A.G. 303-14 | Crime Analysis Sergeant | extended | completed |
+| A.G. 303-15 | Crime Prevention Officer | extended | completed |
+| A.G. 303-17 | Digital Communications Officer | extended | completed |
+| A.G. 303-20 | Community Ambassador | extended | completed |
 
 ## Priority Topics for Sergeant Exam
 
@@ -33786,6 +33791,169 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 
 ---
 
+## A.G. 303-14: Crime Analysis Sergeant
+
+**Date Effective:** 04/23/26 | **Last Revision:** R.O. 31 | **Page:** 1 of 2
+
+### Key Duties
+
+1. Comply with A.G. 322-20, 'Attendance Application Guidelines' when reporting for tour
+2. Perform duty in uniform, unless authorized otherwise by CO, Office of Crime Control Strategies
+3. Perform **only crime analysis related duties** as directed by Office of Crime Control Strategies
+   - **NOTE:** Crime analysis sergeants will NOT be utilized as backfill for other precinct assignments (patrol supervisor, desk officer, meal relief, etc.)
+4. Supervise members assigned to Office of Crime Control Strategies (crime analysis officer and crime analyst)
+5. Provide support to precinct, detective squad, and patrol borough personnel
+6. Confer regularly with CO, special operations lieutenant, platoon commanders, PDS, and specialty officers (QOL team, FIO, gang, narcotics) to obtain intelligence
+7. Communicate frequently with command staff and counterparts from Patrol Services, Housing, and Transit Bureaus
+8. Liaise with Quality Assurance Division's **Data Integrity Unit**
+9. Review all COMPLAINT REPORTS (PD313-152) within the command
+   - Establish emerging crime trends and patterns
+   - Verify offenses are properly classified per Crime Complaint Reporting System Reference Guide
+   - Notify training sergeant of any deficiencies
+10. Assist CO in identifying emerging crime conditions, trends, and patterns
+    - Focus on crime and QOL conditions within command boundaries AND surrounding areas for crossover
+    - Maintain awareness of patterns (MO, suspects, property descriptions, environmental factors)
+    - Supply CO with detailed data emphasizing **crime mapping** to help develop strategies
+    - **NOTE:** Crime mapping should include broader spatial view, not limited to precinct boundaries
+11. Regularly conduct roll call training sessions on wanted persons, crime conditions, trends/patterns
+12. Monitor pattern releases to identify persons of interest matching MO of specific crimes
+13. Review data sources from Department and outside agencies for analysis
+14. Prepare **weekly command analytical report** and forward to Office of Crime Control Strategies
+    - Provide report to precinct personnel and appropriate personnel in other commands/bureaus
+15. Prepare statistical/analytical reports identifying crimes using Department databases
+    - Use computer-generated reports from Office of Crime Control Strategies
+    - Refer to Crime Analyst Reference Manual on Department Intranet
+16. Prepare and submit required reports to patrol borough concerned
+17. Designate member to maintain/update command's **Crime Information Center** weekly (per P.G. 212-103)
+18. Ensure members assigned to Office of Crime Control Strategies view CompStat meeting when their patrol borough is in attendance
+
+### Sergeant Relevance
+
+This is a **protected assignment** — crime analysis sergeants cannot be used as backfill for other precinct duties. The weekly analytical report and crime mapping responsibilities are critical for strategic deployment. Supervisors should ensure compliance with data integrity and proper complaint classification.
+
+---
+
+## A.G. 303-15: Crime Prevention Officer
+
+**Date Effective:** 02/02/26 | **Last Revision:** R.O. 15 | **Page:** 1 of 2
+
+### Key Duties
+
+1. Perform duty as member of **precinct Quality of Life team**
+2. Cooperate with special operations lieutenant, patrol supervisors, training sergeant, patrol officers, fellow QOL team officers, and command auxiliary police coordinator to determine local crime prevention needs
+3. Evaluate crime patterns and institute crime prevention programs relative to specific crimes
+   - Confer regularly with Chief of Crime Control Strategies, Crime Prevention Section on emerging patterns/trends
+   - Deploy targeted crime prevention strategies based on conferrals
+4. Establish rapport with local community to implement innovative crime prevention programs tailored to specific needs
+5. Act as liaison with private security directors within command; facilitate intelligence exchange with business community
+6. Coordinate larceny reduction programs with retail establishments regarding shoplifting arrests
+7. Keep CO apprised of private sector security initiatives
+8. Conduct public education programs on crime prevention via community group meetings
+9. Give direction/guidance to cooperative neighborhood crime prevention undertakings
+10. Inspect premises and make recommendations concerning physical security
+11. Investigate selected crimes against property; evaluate current security measures and recommend new procedures
+12. Investigate selected crimes against the person; interview victims and institute individual/community education programs
+13. Refer complex cases requiring special investigative effort to Chief of Crime Control Strategies, Crime Prevention Section
+14. Wear appropriate **business attire** when not performing duty in uniform
+15. Inspect all COMPLAINT REPORTS to identify crime victims **under 60 years of age** who have been subject to:
+    - Homicide, sex crime, robbery, assault, OR
+    - Physically injured
+    - **NOTE:** Notification of rights to compensation for victims aged 60+ is made by NYC Department of the Aging
+16. Verify member preparing/investigating COMPLAINT REPORT complied with P.G. 207-08
+17. Notify crime victim/surviving relative by mailing pamphlet/application through Mail and Distribution Unit **within 5 days** of receipt of COMPLAINT REPORT
+    - Provide assistance in completing Application for Compensation if requested
+    - Operations Coordinator responsible in absence of Crime Prevention Officer
+18. Maintain written records of month's notification activity; forward report on Typed Letterhead by **5th of each month** to patrol borough command
+    - Patrol borough consolidates and forwards within 3 days to Crime Victims Unit, Chief, Community Affairs
+19. Administer **VIN etching, CAT, and similar programs**
+    - Prepare VIN ETCHING PROGRAM RELEASE AND CONSENT (PD171-054) and file at command
+20. Act as primary designee/liaison to **pawnbrokers and second-hand dealers**
+21. Conduct crime prevention security surveys as described in A.G. 316-46
+
+### Sergeant Relevance
+
+The Crime Prevention Officer is a **QOL team member** with specific victim notification timelines (5 days to mail, 5th of month for reports). Supervisors should verify COMPLAINT REPORT inspections are completed and victim notifications are timely. The VIN etching program and pawnbroker liaison are key exam topics.
+
+---
+
+## A.G. 303-17: Digital Communications Officer
+
+**Date Effective:** 02/02/26 | **Last Revision:** R.O. 15 | **Page:** 1 of 2
+
+### Key Duties
+
+1. Liaise and coordinate with **Deputy Commissioner, Public Information** concerning Department social media account establishment, maintenance, training, messaging, and support
+   - Obtain approval from Deputy Commissioner, Public Information **prior to changing password** on Department social media accounts
+   - Comply with A.G. 304-19 'Department Social Media Accounts and Policy' and P.G. 207-21 'Allegations of Corruption and Other Misconduct'
+   - Ensure current official CO's portrait (including name) is featured in command's social media profile, unless exception made by Deputy Commissioner, Public Information
+2. Operate and manage all Department social media accounts (Facebook, Twitter, etc.) under direction of CO
+   - Confer regularly with CO regarding posts
+   - Monitor accounts frequently; be responsive to community concerns/questions/issues
+   - **NOTE:** Obtain approval from CO prior to posting on Department social media accounts
+3. Ensure information concerning command is frequently updated on Department's internal intranet and external website
+   - Coordinate with Deputy Commissioner, Public Information regarding changes/updates
+4. Develop innovative and informative social media messaging with goal of cultivating public engagement
+5. Coordinate with QOL team officers to gather info about community events and disseminate on social media
+6. Coordinate with command members and other authorized users regularly regarding posting relevant info/pictures
+7. Liaise with QOL team sergeant and Traffic Management Center; post road closures, detours, etc.
+8. Confer with Deputy Commissioner, Public Information, detective squads, crime analysis units to post **requests for information, wanted/missing persons flyers**, and other relevant info affecting public safety
+9. Post wanted/missing persons flyers in compliance with guidelines:
+   - Formatting of images
+   - Wording of posts
+   - Removal of posts after certain periods
+   - Updating community regarding arrests/found individuals
+10. Review and post Deputy Commissioner, Public Information's Requests for Media Attention as directed
+11. Liaise with Chief of Crime Control Strategies, Crime Prevention Section on communications promoting crime prevention tips, public safety, awareness
+12. Redirect/retweet messages from @NYPDnews as directed during large-scale emergency incidents
+13. Upload command-specific information to electronic boards
+    - Ensure content accurate and properly displayed within Department guidelines
+    - Notify ITB if command experiencing technical issues
+
+### Social Media Policy
+
+Members are **prohibited** from disclosing arrest/booking photographs on social media UNLESS:
+- Photo would serve a law enforcement purpose (wanted suspects)
+- Post-arrest: release limited to circumstances alerting victims/witnesses to facilitate investigations
+
+**NOTE:** This limitation applies only to arrest/booking photos, NOT video or surveillance photos.
+
+### Sergeant Relevance
+
+This is a **public-facing role** with strict approval chains. Supervisors must ensure CO approval before posting, password changes go through Deputy Commissioner, Public Information, and wanted/missing posts follow formatting/removal guidelines. The prohibition on posting arrest photos has narrow exceptions.
+
+---
+
+## A.G. 303-20: Community Ambassador
+
+**Date Effective:** 10/24/25 | **Last Revision:** R.O. 110 | **Page:** 1 of 1
+
+### Key Duties
+
+1. Report to **Deputy Commissioner, Community Affairs Bureau** or designee
+2. Serve as liaison between Department executives, constituents, community organizations, complainants, crime victims and/or next of kin
+3. Confer frequently with **borough commander** in area of assignment
+4. Coordinate activities with **community affairs, quality of life team, and youth coordination officers**
+5. Serve as liaison for all **demonstrations, disturbances, large gatherings**, and/or community issues within assigned patrol borough
+6. Work with neighborhood organizations regarding community concerns, needs, and priorities
+7. Serve as common point of contact/coordinator for precinct-level police/community bodies (precinct community councils, PSA community councils)
+8. Assist community councils in developing strategies to better serve their communities
+9. Provide information/assistance to complainants on navigating processes on police accountability and disciplinary matters
+10. Coordinate with **Department Advocate's Office** prior to dissemination of information regarding status of disciplinary matters
+11. Assist victims with navigating/accessing support organizations (Thrive NYC, etc.)
+    - Coordinate with Crime Victim Assistance Program personnel
+12. Advise Department on enhancing customer service to improve public outreach and visitor engagement
+13. Attend/coordinate meetings with local organizations, community leaders, youth, business owners, tenant associations
+14. Convene regular meetings with Department executives and community leaders
+15. Recruit and coordinate network of community volunteers (particularly in areas most affected by justice system) to facilitate public outreach
+16. Engage regularly with organizations focused on **police reform and restorative justice**
+17. Confer with respective Bureau/command when responding to incidents with potential for community concern/unrest (unusual, newsworthy, sensitive nature)
+
+### Sergeant Relevance
+
+The Community Ambassador is a **borough-level resource** coordinating high-level community engagement. Supervisors should know this role exists for complex community issues, demonstrations, and disciplinary matter communications. The coordination with Department Advocate's Office on disciplinary matters is a key checkpoint.
+
+---
+
 # Section 303 — Key Terms & Critical Numbers
 
 ## Borough Command Hierarchy
@@ -34061,19 +34229,17 @@ Section 303 of the Administrative Guide defines the duties and responsibilities 
 
 ---
 
-# A.G. 304-10 — False or Misleading Statements
+# Section 304 — False or Misleading Statements
 
-> **Date Effective:** 08/26/21 | **Last Revision:** I.O. 78 | **Page:** 1 of 2
+## A.G. 304-10: False or Misleading Statements
 
----
+**Date Effective:** 08/26/21 | **Last Revision:** I.O. 78 | **Pages:** 2
 
-## Purpose
+### Purpose
 
 To provide clear guidelines regarding written and verbal statements made by members of the service during an official investigation.
 
----
-
-## Definitions
+### Definitions
 
 | Term | Definition |
 |------|------------|
@@ -34083,24 +34249,26 @@ To provide clear guidelines regarding written and verbal statements made by memb
 | **Material Fact** | A significant fact that a reasonable person would recognize as relevant to the subject matter, including foreseeable consequences or establishment of elements. Suppression or alteration would result in a different decision. |
 | **Impeding** | Making false, misleading, and/or inaccurate statements, or engaging in an impeding action (e.g., failing to produce records as directed). |
 
----
-
-## Prohibited Conduct
+### Prohibited Conduct
 
 1. **Intentionally making a false official statement**
 2. **Intentionally making a misleading official statement**
 3. **Making, or causing to be made, an inaccurate official statement**
 4. **Impeding an investigation**
 
----
+> **Exam Alert:** The distinction between **false** (intentional), **misleading** (intent to misdirect), and **inaccurate** (grossly negligent, no intent to deceive) statements is frequently tested. Know the definitions.
 
-## Additional Data
+> **Exam Alert:** **Retraction exception** — A false statement retracted and corrected **during the same session** may not result in false statement charges. Know this timing requirement.
+
+> **Exam Alert:** **Material fact** = significant fact affecting determination. **Immaterial/clerical errors** = not misconduct if minor and without willful intent.
 
 ### Separation from Department
 
 **Intentionally making a false official statement regarding a material matter will result in separation from the Department, absent extraordinary circumstances.**
 
 > **NOTE:** Extraordinary circumstances will be determined by the **Police Commissioner** on a case-by-case basis.
+
+> **Exam Alert:** **Extraordinary circumstances** for avoiding separation on false statement charges can **only** be determined by the **Police Commissioner** on a case-by-case basis. This is heavily tested.
 
 ### Scope of Application
 
@@ -34130,42 +34298,14 @@ When a member is afforded an opportunity to recollect with the benefit of credib
 - The member does not intend to deceive
 - The error lacks willful intent and is not grossly negligent
 
-### Member Obligation
-
-**Members of the service have an obligation to review documents before signing or otherwise verifying their accuracy.**
-
----
-
-## Sergeant Focus
-
-> **★ SERGEANT FOCUS:** Know the **three types of prohibited statements**: (1) False — intentional untruth, (2) Misleading — intended to misdirect/omit material facts, (3) Inaccurate — grossly negligent incorrect information. The **discipline differs** — false statements result in separation absent extraordinary circumstances.
-
-> **★ SERGEANT FOCUS:** **Extraordinary circumstances** for avoiding separation on false statement charges can **only** be determined by the **Police Commissioner** on a case-by-case basis. This is heavily tested.
-
-> **★ SERGEANT FOCUS:** Members must **review documents before signing**. Claiming "I didn't read it" is not a defense to an inaccurate statement charge.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** The distinction between **false** (intentional), **misleading** (intent to misdirect), and **inaccurate** (grossly negligent, no intent to deceive) statements is frequently tested. Know the definitions.
-
-> **⚠️ EXAM ALERT:** **Retraction exception** — A false statement retracted and corrected **during the same session** may not result in false statement charges. Know this timing requirement.
-
-> **⚠️ EXAM ALERT:** **Material fact** = significant fact affecting determination. **Immaterial/clerical errors** = not misconduct if minor and without willful intent.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — FALSE:**
+> **Memory Aid — FALSE:**
 > - **F**act intentionally untrue
 > - **A**bsent extraordinary circumstances = separation
 > - **L**ie under oath or official
 > - **S**igned without reading = inaccurate
 > - **E**xtraordinary circumstances = Police Commissioner only
 
-> **🧠 MEMORY AID — MATERIAL:**
+> **Memory Aid — MATERIAL:**
 > - **M**atters to the outcome
 > - **A**ffects determination
 > - **T**rivial details excluded
@@ -34175,9 +34315,17 @@ When a member is afforded an opportunity to recollect with the benefit of credib
 > - **A**lteration changes result
 > - **L**ists consequences
 
----
+### Member Obligation
 
-## Related Procedures
+**Members of the service have an obligation to review documents before signing or otherwise verifying their accuracy.**
+
+> **Sergeant Focus:** Know the **three types of prohibited statements**: (1) False — intentional untruth, (2) Misleading — intended to misdirect/omit material facts, (3) Inaccurate — grossly negligent incorrect information. The **discipline differs** — false statements result in separation absent extraordinary circumstances.
+
+> **Sergeant Focus:** **Extraordinary circumstances** for avoiding separation on false statement charges can **only** be determined by the **Police Commissioner** on a case-by-case basis. This is heavily tested.
+
+> **Sergeant Focus:** Members must **review documents before signing**. Claiming "I didn't read it" is not a defense to an inaccurate statement charge.
+
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
@@ -34186,28 +34334,19 @@ When a member is afforded an opportunity to recollect with the benefit of credib
 | P.G. 211-14 | Investigations by Civilian Complaint Review Board |
 | A.G. 305-07 | Firearms – General Regulations |
 | A.G. 325-18 | Command Reference Library |
-
 ---
 
-## Review Questions
+# Section 304 — Attendance at Parades, Funerals, and Department Events
 
-*See  for practice questions on this procedure.*
+## A.G. 304-13: Attendance at Parades, Funerals, Memorial Services and Other Department or Law Enforcement Events
 
----
+**Date Effective:** 06/24/21 | **Last Revision:** I.O. 56 | **Pages:** 2
 
-# A.G. 304-13 — Attendance at Parades, Funerals, Memorial Services and Other Department or Law Enforcement Events
-
-> **Date Effective:** 06/24/21 | **Last Revision:** I.O. 56 | **Page:** 1 of 2
-
----
-
-## Purpose
+### Purpose
 
 To inform all members of the service of guidelines to be complied with when attending or taking part in parades, funerals, memorial services, and other Department-oriented or law enforcement events.
 
----
-
-## Scope
+### Scope
 
 All members of the service are **strictly accountable** for their conduct at all times, whether on or off duty, inside or outside New York City. Conduct which brings discredit to the Department or violates law will result in appropriate disciplinary measures.
 
@@ -34216,18 +34355,18 @@ All members are subject to:
 - Other Department regulations
 - All local, state, and federal laws
 
----
+> **Sergeant Focus:** **Supervisory responsibilities are never abrogated** — ranking officers must take affirmative action when observing corruption or misconduct, including **immediate IAB notification**. This applies whether on or off duty, inside or outside NYC.
 
-## Procedure
+### Procedure
 
-### ALL MEMBERS
+**ALL MEMBERS**
 
 | Requirement | Details |
 |-------------|---------|
 | **Corruption reporting** | ALL members must report corruption or misconduct whether on or off duty, inside or outside NYC. **Ranking officers' supervisory responsibilities are never abrogated.** |
 | **IAB notification** | Ranking uniformed members must take affirmative action and **immediately notify Internal Affairs Bureau** when observing corruption or misconduct. |
 
-### ON-DUTY MEMBERS
+**ON-DUTY MEMBERS**
 
 | Requirement | Details |
 |-------------|---------|
@@ -34235,7 +34374,9 @@ All members are subject to:
 | **No meal period** | Not granted meal period for event attendance |
 | **No lost time** | Not granted lost time until returning to assigned command |
 
-### OFF-DUTY UNIFORM ATTIRE
+> **Exam Alert:** **On-duty members** return to command immediately after event — **no meal period, no lost time** until back at command.
+
+**OFF-DUTY UNIFORM ATTIRE**
 
 | Requirement | Details |
 |-------------|---------|
@@ -34245,7 +34386,11 @@ All members are subject to:
 | **Social events** | Cannot wear uniform to parties, dinners, fundraisers without **commanding officer or designee permission** |
 | **After-event socials** | Includes social events that take place after parade, funeral, etc. ends |
 
-### ALCOHOL AND FIREARMS
+> **Exam Alert:** **Uniform outside NYC** = advance permission from **Police Commissioner, First Deputy Commissioner, or Chief of Department** (not commanding officer).
+
+> **Sergeant Focus:** Know the **uniform permission hierarchy**: (1) Outside NYC = Police Commissioner/First Deputy/Chief of Department, (2) Social events = Commanding Officer or designee.
+
+**ALCOHOL AND FIREARMS**
 
 | Requirement | Details |
 |-------------|---------|
@@ -34254,47 +34399,27 @@ All members are subject to:
 | **Firearms discretion** | Off-duty members to be **unarmed at own discretion** when alcoholic beverages are consumed (A.G. 305-07) |
 | **Authorized weapons only** | Only regulation service pistol, authorized off-duty pistol/revolver, or authorized special weapons |
 
-### MONITORING
+> **Exam Alert:** **Alcohol + uniform = prohibited** whether on or off duty. Cannot allow alcohol in Department facilities/vehicles except on duty.
+
+**MONITORING**
 
 | Requirement | Details |
 |-------------|---------|
 | **Overhead command** | All Department-oriented and law enforcement events will be monitored by ranking officers from overhead commands |
 | **IAB monitoring** | In selected cases, **Internal Affairs Bureau** will conduct monitoring (as directed by Police Commissioner, First Deputy Commissioner, or Chief of Department) |
 
-### OUT-OF-STATE FIREARMS
+> **Exam Alert:** **Monitoring responsibility** — overhead command ranking officers monitor all events. IAB monitors in selected cases as directed.
+
+**OUT-OF-STATE FIREARMS**
 
 | Requirement | Details |
 |-------------|---------|
 | **Permission required** | May **not** carry firearms out-of-state for parade, funeral, memorial, or other event **without permission** from Police Commissioner, First Deputy Commissioner, or Chief of Department |
 | **State law irrelevant** | Applies **even when** event takes place in a state which allows police officers from other jurisdictions to carry weapons |
 
----
+> **Sergeant Focus:** **Out-of-state firearms** require permission from Police Commissioner/First Deputy/Chief of Department **even if** the state allows out-of-jurisdiction officers to carry. State law does not override Department policy.
 
-## Sergeant Focus
-
-> **★ SERGEANT FOCUS:** **Supervisory responsibilities are never abrogated** — ranking officers must take affirmative action when observing corruption or misconduct, including **immediate IAB notification**. This applies whether on or off duty, inside or outside NYC.
-
-> **★ SERGEANT FOCUS:** Know the **uniform permission hierarchy**: (1) Outside NYC = Police Commissioner/First Deputy/Chief of Department, (2) Social events = Commanding Officer or designee.
-
-> **★ SERGEANT FOCUS:** **Out-of-state firearms** require permission from Police Commissioner/First Deputy/Chief of Department **even if** the state allows out-of-jurisdiction officers to carry. State law does not override Department policy.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** **On-duty members** return to command immediately after event — **no meal period, no lost time** until back at command.
-
-> **⚠️ EXAM ALERT:** **Uniform outside NYC** = advance permission from **Police Commissioner, First Deputy Commissioner, or Chief of Department** (not commanding officer).
-
-> **⚠️ EXAM ALERT:** **Alcohol + uniform = prohibited** whether on or off duty. Cannot allow alcohol in Department facilities/vehicles except on duty.
-
-> **⚠️ EXAM ALERT:** **Monitoring responsibility** — overhead command ranking officers monitor all events. IAB monitors in selected cases as directed.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — UNIFORM:**
+> **Memory Aid — UNIFORM:**
 > - **U**nder advance permission (outside NYC)
 > - **N**o social events without CO permission
 > - **I**mmediately change after event
@@ -34302,7 +34427,7 @@ All members are subject to:
 > - **O**n-duty = return to command, no meal/lost time
 > - **R**anking officers report corruption immediately
 
-> **🧠 MEMORY AID — NO DRINK:**
+> **Memory Aid — NO DRINK:**
 > - **N**o alcohol in uniform (on or off duty)
 > - **O**nly on duty = alcohol in facilities/vehicles
 > - **D**iscretion to be unarmed when alcohol present
@@ -34311,37 +34436,26 @@ All members are subject to:
 > - **N**ever abrogate supervisory duty
 > - **K**now who grants permission
 
----
-
-## Related Procedures
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
 | P.G. 203-06 | Performance On Duty - Prohibited Conduct |
 | A.G. 305-07 | Firearms – General Regulations |
 | A.G. 325-18 | Command Reference Library |
-
 ---
 
-## Review Questions
+# Section 304 — Acceptance of Gifts and Other Compensation
 
-*See  for practice questions on this procedure.*
+## A.G. 304-14: Guidelines for Acceptance of Gifts and Other Compensation by Members of the Service
 
----
+**Date Effective:** 06/10/21 | **Last Revision:** I.O. 41 | **Pages:** 2
 
-# A.G. 304-14 — Guidelines for Acceptance of Gifts and Other Compensation by Members of the Service
-
-> **Date Effective:** 06/10/21 | **Last Revision:** I.O. 41 | **Page:** 1 of 2
-
----
-
-## Purpose
+### Purpose
 
 To provide guidance to members of the service relating to acceptance of gifts and other compensation.
 
----
-
-## Policy
+### Policy
 
 **Members of the service may not accept any reward, gratuity, gift or other compensation for any service performed as a result of or in conjunction with their duties as public servants.**
 
@@ -34352,10 +34466,6 @@ All exceptions must be in accordance with:
 This policy applies **regardless of whether the service was performed while said members were on or off duty**.
 
 **Members shall not solicit any gift, gratuity, loan, present, fee or reward for personal gain.**
-
----
-
-## Scope
 
 ### Permitted Gifts (Tokens of Appreciation)
 
@@ -34370,18 +34480,22 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 - **Cash rewards**
 - **Personal gifts** (e.g., wristwatches, etc.)
 
----
+> **Exam Alert:** **Permitted vs. prohibited** — Plaques/pen sets = OK. Cash/wristwatches = prohibited. Know the difference.
 
-## Procedure
+> **Exam Alert:** **Policy applies on or off duty** — The gift policy applies regardless of whether service was performed on or off duty.
 
-### MEMBER CONCERNED
+### Procedure
+
+**MEMBER CONCERNED**
 
 | Step | Action |
 |------|--------|
 | 1 | Comply with Department regulations relating to **financial restrictions and prohibited acts/prohibited interests** |
 | 2 | **Notify commanding officer PRIOR to acceptance of gift** |
 
-### COMMANDING OFFICER CONCERNED
+> **Sergeant Focus:** Members must notify commanding officer **PRIOR to acceptance** — not after. Pre-approval is required.
+
+**COMMANDING OFFICER CONCERNED**
 
 | Step | Action |
 |------|--------|
@@ -34390,18 +34504,18 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 
 > **NOTE:** Commanding officers are responsible to ensure command copies of Board of Ethics rulings are maintained in Command Reference Library as required by **A.G. 325-18**.
 
----
+> **Exam Alert:** **Board of Ethics** — All exceptions must comply with Chapter 68 of NYC Charter and Board of Ethics rulings.
 
-## Gift Determination Flow
+### Gift Determination Flow
 
-### IF GIFT IS A REWARD OR PRESENT FOR POLICE SERVICE RENDERED IN DISCHARGE OF OFFICIAL DUTY:
+**IF GIFT IS A REWARD OR PRESENT FOR POLICE SERVICE RENDERED IN DISCHARGE OF OFFICIAL DUTY:**
 
 | Step | Action |
 |------|--------|
 | 4 | Commanding officer prepares **report on Typed Letterhead to the Police Commissioner** |
 | 5 | Police Commissioner conducts **review and final determination** regarding acceptability |
 
-### IF GIFT IS OFFERED BY A PERSON/FIRM WHICH IS, OR INTENDS TO ENGAGE IN BUSINESS DEALING WITH THE CITY OF NEW YORK:
+**IF GIFT IS OFFERED BY A PERSON/FIRM WHICH IS, OR INTENDS TO ENGAGE IN BUSINESS DEALING WITH THE CITY OF NEW YORK:**
 
 | Step | Action |
 |------|--------|
@@ -34410,40 +34524,20 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 | | a. Request ruling by **Board of Ethics** if circumstances are peculiar and not reflected in current rulings |
 | 8 | Prepare **report to Deputy Commissioner, Internal Affairs, through channels** for any member who receives **two or more gifts** within a calendar year |
 
----
+> **Sergeant Focus:** Know the **two-track process**: (1) Reward for police service = Police Commissioner decides, (2) Gift from city business dealer = Commanding Officer decides after reviewing City Charter § 2604(B)(5).
 
-## Sergeant Focus
+> **Sergeant Focus:** **Two or more gifts** in a calendar year = report to **Deputy Commissioner, Internal Affairs** regardless of value or source.
 
-> **★ SERGEANT FOCUS:** Know the **two-track process**: (1) Reward for police service = Police Commissioner decides, (2) Gift from city business dealer = Commanding Officer decides after reviewing City Charter § 2604(B)(5).
+> **Exam Alert:** **Multiple gifts** — Two or more gifts in a calendar year triggers IAB report, regardless of value or source.
 
-> **★ SERGEANT FOCUS:** Members must notify commanding officer **PRIOR to acceptance** — not after. Pre-approval is required.
-
-> **★ SERGEANT FOCUS:** **Two or more gifts** in a calendar year = report to **Deputy Commissioner, Internal Affairs** regardless of value or source.
-
----
-
-## Exam Alerts
-
-> **⚠️ EXAM ALERT:** **Permitted vs. prohibited** — Plaques/pen sets = OK. Cash/wristwatches = prohibited. Know the difference.
-
-> **⚠️ EXAM ALERT:** **Policy applies on or off duty** — The gift policy applies regardless of whether service was performed on or off duty.
-
-> **⚠️ EXAM ALERT:** **Board of Ethics** — All exceptions must comply with Chapter 68 of NYC Charter and Board of Ethics rulings.
-
-> **⚠️ EXAM ALERT:** **Multiple gifts** — Two or more gifts in a calendar year triggers IAB report, regardless of value or source.
-
----
-
-## Memory Aids
-
-> **🧠 MEMORY AID — GIFTS:**
+> **Memory Aid — GIFTS:**
 > - **G**enerally prohibited (rewards, gratuities, compensation)
 > - **I**n writing to Commissioner (for service rewards)
 > - **F**inal determination = Police Commissioner or CO (depends on source)
 > - **T**okens of appreciation OK (plaques, pen sets)
 > - **S**olicit = prohibited
 
-> **🧠 MEMORY AID — NO CASH:**
+> **Memory Aid — NO CASH:**
 > - **N**otify CO prior to acceptance
 > - **O**n or off duty = policy applies
 > - **C**ash rewards = forbidden
@@ -34451,22 +34545,13 @@ It is **not unethical or illegal** to accept gifts commonly offered as tokens of
 > - **S**ource matters (city dealer = CO reviews Charter)
 > - **H**onor two-gift rule (report to IAB)
 
----
-
-## Related Procedures
+### See Also
 
 | Procedure | Title |
 |-----------|-------|
 | A.G. 325-18 | Command Reference Library |
 | NYC Charter § 68 | Conflicts of Interest |
 | NYC Charter § 2604(B)(5) | Business Dealings with City |
-
----
-
-## Review Questions
-
-*See  for practice questions on this procedure.*
-
 ---
 
 # Section 304 — Compliance With Orders
@@ -38100,514 +38185,303 @@ Section 320 of the Administrative Guide covers general personnel matters includi
 
 ---
 
-# Section 320 — MONITORING OFF-DUTY VISITS TO INMATES AT CORRECTIONAL FACILITIES BY MEMBERS OF THE SERVICE
+# Section 320 — Monitoring Off-Duty Visits to Inmates at Correctional Facilities by Members of the Service
 
-## A.G. 320-02
+Covers A.G. 320-02
 
-DATE EFFECTIVE:
+---
 
-LAST REVISION:
+## A.G. 320-02: Monitoring Off-Duty Visits to Inmates at Correctional Facilities by Members of the Service
 
-PAGE:
+**Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Page:** 1 of 1
 
-11/18/21
-
-I.O. 110
-
-1 of 1
-
-Date and time of proposed visit.
+### Purpose
 
 To provide a system to monitor visits by members of the service to city, state, or federal correctional facilities.
 
+### Procedure
+
 When a member of the service intends to visit an inmate at a correctional facility while off-duty:
 
-1.
+**MEMBER OF THE SERVICE:**
 
-Prepare Typed Letterhead with  the  following  information  and  forward to commanding officer at least seven days prior to the intended visit:
+1. Prepare **Typed Letterhead** with the following information and forward to commanding officer at least **seven days** prior to the intended visit:
+   - a. Name, rank, shield and tax registry numbers
+   - b. Name and I.D. number of inmate to be visited
+   - c. Relationship of inmate to member of the service
+   - d. Place of incarceration (include full facility name, address and phone number)
+   - e. Date and time of proposed visit
+   - f. Packages to be brought to facility
 
-- a. Name, rank, shield and tax registry numbers.
-- b. Name and I.D. number of inmate to be visited.
-- c. Relationship of inmate to member of the service.
-- d. Place  of  incarceration;  (include  full  facility  name,  address  and phone number.)
-- e. Date and time of proposed visit.
-- f. Packages to be brought to facility.
+> **NOTE:** *A separate notification must be made for each visit.*
 
-A separate notification must be made for each visit.
+**COMMANDING OFFICER:**
 
-## COMMANDING OFFICER
-
-2. Notify IAB, Command Center of details.
-
+2. Notify **IAB, Command Center** of details.
 3. Approve/disapprove request.
-
 4. Notify member of determination.
+5. Forward copy of request to **Deputy Commissioner, Internal Affairs**.
+   - a. File copy of request in member's **personal folder**.
 
-5. Forward copy of request to Deputy Commissioner, Internal Affairs. a. File copy of request in member's personal folder.
+> **ADDITIONAL DATA:** *Members of the service shall cooperate fully with all rules and procedures of the correctional facility concerned regarding securing weapons, visitor searches, sign-in/sign-out practices, etc.*
 
-OF
+### Additional Data Details
 
-## ADDITIONAL DATA
+Members of the service visiting a correctional facility while off-duty must comply with **all** facility rules, including but not limited to:
 
-Members  of  the  service  shall  cooperate  fully  with  all  rules  and  procedures  of  the correctional  facility  concerned  regarding  securing  weapons,  visitor  searches,  signin/sign-out practices etc.
+- **Securing weapons** — all firearms must be secured per facility procedures before entry
+- **Visitor searches** — submit to any required search protocols
+- **Sign-in/sign-out practices** — follow all facility registration requirements
 
-<!-- image -->
+### Sergeant Exam Focus
 
-DEFINITION
+- Must notify CO at least **7 days** prior to visit
+- **Separate notification for each visit** — no blanket approval
+- CO must notify **IAB** and **Command Center**
+- Forward copy to **Deputy Commissioner, Internal Affairs**
+- Copy filed in member's **personal folder**
+- MOS must cooperate with **all correctional facility rules** (securing weapons, searches, sign-in/sign-out)
 
-PROCEDURE
+> **Exam Alert — 7 Days Advance Notice:** The member must forward the Typed Letterhead to the commanding officer at least **seven days** prior to the intended visit. This is a hard numeric threshold — not five days, not three days, but **seven**. Late notifications are procedurally deficient.
 
-COMMANDING 1.
+> **Exam Alert — Separate Notification for Each Visit:** A single notification does NOT cover multiple visits — every intended visit to an inmate requires its own separate seven-day advance notification. There is no blanket approval process for repeat visitors.
 
-OFFICER
+> **Exam Alert — IAB and Command Center Notifications:** The CO must notify **both** IAB and the Command Center. Omitting either notification is a procedural violation. These notifications are required regardless of the inmate's relationship to the member.
 
-<!-- image -->
+> **Exam Alert — Typed Letterhead Required:** The notification must be on **Typed Letterhead** — not a memo, not an email, not verbal. The form and its six required data points (a through f) are all testable.
 
-PURPOSE
+> **Sergeant Focus — Supervising Subordinate Visits:** As a sergeant, you must ensure that any member under your supervision who plans an off-duty visit to a correctional facility follows this procedure. If you become aware of a member who has visited or plans to visit an inmate without proper notification, you are obligated to take corrective action. Failure to supervise compliance with this procedure can result in disciplinary action against the supervisor.
 
-DEFINITION
+> **Sergeant Focus — Your Own Visits:** Sergeants are members of the service too. If you intend to visit an inmate at a correctional facility while off-duty, you must follow the same seven-day advance Typed Letterhead notification procedure. Your rank does not exempt you from these requirements.
 
-d.
+> **Sergeant Focus — CO Decision Authority:** Only the **commanding officer** has the authority to approve or disapprove the visit request. A sergeant cannot authorize the visit on the CO's behalf. If the CO is unavailable, the request must wait for the CO's determination.
 
-i vi and provide for the orderly transfer of records to a member's new command.
+> **Memory Aid — CORRECTIONAL FACILITY VISIT:** **7-I-C-D-P** = **7** days notice, **I**AB notification, **C**ommand Center notification, **D**eputy Commissioner IAB gets copy, **P**ersonal folder. Think of the chain: **I**AB, **C**ommand Center, **D**eputy Commissioner IAB, **P**ersonal folder — all flow from the CO after the 7-day notice.
 
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Personnel Matters - General
+> **See Also:** A.G. 318-01 — Schedule "B" CD for bringing alcohol into department facility (relevant to correctional facility prohibitions). A.G. 320-01 — Exchange of Tours (5-day advance vs. this procedure's 7-day advance — a common exam trap).
 
 ---
 
-# Section 320 — MAINTENANCE AND TRANSFER OF COMMAND-LEVEL PERSONAL RECORDS
+## Supervisor Quick Reference
+
+```
+MOS intends off-duty visit to inmate at correctional facility
+   |
+   +-- Prepare Typed Letterhead (6 required items: a-f)
+   +-- Forward to CO at least 7 DAYS in advance
+       |
+       +-- Separate notification for EACH visit
+       |
+       v
+COMMANDING OFFICER
+   +-- Notify IAB Command Center of details
+   +-- Approve or disapprove request
+   +-- Notify MOS of determination
+   +-- Forward copy to Deputy Commissioner, Internal Affairs
+       +-- File copy in MOS personal folder
+```
+---
+
+# Section 320 — Maintenance and Transfer of Command-Level Personal Records
 
 ## A.G. 320-03
 
-DATE EFFECTIVE:
+**Effective:** 08/12/25 | **Last Revision:** R.O. 71 | **Pages:** 1-2
 
-LAST REVISION:
-
-PAGE:
-
-08/12/25
-
-R.O. 71
-
-1 of 2
-
-a.
-
-Duplicate of FORCE RECORD (PD406-143) and FORCI
+### Purpose
 
 To maintain readily available personnel data for each member of the command and provide for the orderly transfer of records to a member's new command.
 
-PERSONAL FOLDER - Folder (11' x 14') inscribed at the top from left to right: last name, first name, middle initial, tax registry number, shield number and date of appointment.
+### Definition
 
-PROCEDURE
+**Personal Folder** — Folder (11" x 14") inscribed at the top from left to right: last name, first name, middle initial, tax registry number, shield number and date of appointment.
+
+### Procedure — Commanding Officer
 
 To maintain personal folder:
 
-COMMANDING OFFICER 1.
+1. Insert the following documents:
+   - a. Report of original assignment
+   - b. Duplicate of **FORCE RECORD (PD406-143)** and **FORCE RECORD SUPPLEMENT (PD406-143a)**
+   - c. **SOURCE DOCUMENT FOR PERSONNEL DATA CARD (PD446-141)**
+   - d. **EMPLOYEE'S WITHHOLDING EXEMPTION CERTIFICATE (PD138-061)**
+   - e. **OFFICER PROFILE REPORT**
+   - f. **SICK REPORT WORKSHEET (PD429-122A)** and related FINEST messages
+   - g. **SICK REPORT RETURN (PD429-131)**
+   - h. **SUPERVISOR'S COMPLAINT REPORT/COMMAND DISCIPLINE ELECTION REPORT (PD468-123)**
+   - i. Copies of all orders in which member's name appears
+   - j. Application for Transfer
+   - k. Copy of any communication which refers to member
+   - l. Copy of Armed Forces Discharge or separation certificate
+   - m. Any other reports commanding officer deems appropriate
+   - n. Duplicate **PERFORMANCE EVALUATION REPORT**
+   - o. Special Leave for Former Members of the Armed Forces (Misc. 899N)
+   - p. **ANNUAL UNIFORM & EQUIPMENT INSPECTION CHECKLIST (PD120-060)**
 
-m.
+> **Exam Alert:** Know the 16 items (a through p) that belong in the personal folder. The form numbers are commonly tested, especially PD406-143 (Force Record), PD446-141 (Personnel Data Card), and PD429-122A (Sick Report Worksheet).
 
-n.
+2. File folders alphabetically by rank and provide security.
 
-O.
+3. Remove and destroy reports of Command Discipline as per instructions in A.G. 318-02, "Issuance of Schedule 'A' and Schedule 'B' Command Disciplines."
 
-p.
+4. Remove the following reports (more than six months old) on **January 1** and **July 1** each year:
+   - a. OFFICER PROFILE REPORT
+   - b. FINEST messages re: sick reports
+   - c. SICK REPORT RETURN
 
-2.
+> **Exam Alert:** Purged reports are to be **filed and safeguarded** until an Operations Order for destruction is received — they are NOT immediately destroyed. The purge dates are **January 1** and **July 1**.
 
-<!-- image -->
+### When a Member of Command Is Transferred
 
-Insert following:
+#### Clerical Member
 
-- a. Report of original assignment
+5. Prepare **PERSONNEL RECORDS TRANSMITTAL (PD449-151)** and forward as indicated.
+   - a. Complete all pertinent captions.
+   - b. Enter current year vacation selection.
 
-REPORT/COMMANI
+6. Forward duplicate **INDIVIDUAL CONDUCT SUMMARY (PD439-142)** to command maintaining original, if member is promoted to sergeant.
+   - a. Command maintaining original will make necessary corrections indicated and destroy duplicate.
 
-- b. Duplicate of FORCE RECORD (PD406-143) and FORCE RECORD SUPPLEMENT(PD406-143a)
-- c. SOURCE DOCUMENT FOR PERSONNEL DATA CARD (PD446-141)
-- d. EMPLOYEE'S WITHHOLDING EXEMPTION CERTIFICATE (PD138-061)
-- e. OFFICER PROFILE REPORT
-- f. SICK REPORT WORKSHEET (PD429-122A) and related FINEST messages
-- g. SICK REPORT RETURN (PD429-131)
-- h. SUPERVISOR'S COMPLAINT REPORT/COMMAND DISCIPLINE ELECTION REPORT (PD468-123)
-- i. Copies of all orders in which member's name appears
-- j. Application for Transfer
-- k. Copy of any communication which refers to member
-- l. Copy of Armed Forces Discharge or separation certificate
-- m. Any other reports commanding officer deems appropriate
-- n. Duplicate PERFORMANCE EVALUATION REPORT
-- o. Special Leave for Former Members of the Armed Forces (Misc. 899N) .
-- p. ANNUAL UNIFORM &amp; EQUIPMENT INSPECTION CHECKLIST (PD120-060)
+7. Forward folder jacket to transferred member's new command in a **sealed envelope marked 'Confidential.'**
 
-File folders alphabetically by rank and provide security.
+8. Provide transferred member with a photocopy of **FORCE RECORD** for presentation at new command pending arrival of personal folder.
 
-3. Remove and destroy reports of Command Discipline as per instructions in A.G. 318-02, 'Issuance of Schedule 'A' and Schedule 'B' Command Disciplines.'
-4. Remove following reports (more than six months old) on January 1 and July 1 each year:
-- a. OFFICER PROFILE REPORT
-- b. FINEST messages re: sick reports.
-- c. SICK REPORT RETURN .
+#### Commanding Officer
 
-MEMBER
+9. Check member's New York State driver's license when assigned.
 
-forward as indicated a.
+### Additional Data
 
-Complete all pertinent captions.
+- **OVERTIME REPORT (PD138-064)** is to be kept in a separate **Time Record Folder (TRF)**.
+- The Police Academy will forward records when a uniformed member of the service is first assigned to another command.
+- The Employee Resources Section will send the records to the proper command when a uniformed member of the service resigns or has been dismissed and is subsequently reinstated.
+- Personal folders will **NOT** be forwarded to the Military and Extended Leave Desk when a member of the service (uniformed or civilian) is granted an extended leave of absence. Personal folders will be **retained at member's command** and forwarded to new command upon return to duty from a leave of absence.
 
-## ADMINISTRATIVE GUIDE
+> **Exam Alert:** Personal folders stay at the command during extended leave — they are NOT forwarded to Military and Extended Leave Desk. This is a common exam trap.
 
-a.
+> **Exam Alert:** When a member is promoted to sergeant, forward a duplicate **INDIVIDUAL CONDUCT SUMMARY (PD439-142)** to the command maintaining the original.
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 320-03              | 08/12/25          | R.O. 71          | 2 of 2  |
+> **Sergeant Focus:** As a supervisor, you are responsible for ensuring personal folders are properly maintained, documents are filed correctly, and purge schedules are followed. When members transfer out, verify the sealed confidential envelope and photocopy of Force Record are provided. Check NYS driver's license on assignment.
 
-## NOTE
-
-These purged reports are to be filed and safeguarded until an Operations Order for destruction is received.
-
-## WHEN A MEMBER OF COMMAND IS TRANSFERRED
-
-## CLERICAL MEMBER 5. Prepare PERSONNEL RECORDS TRANSMITTAL (PD449-151) and forward as indicated.
-
-OFFICER
-
-ADDITIONAL
-
-DATA
-
-- a. Complete all pertinent captions.
-- b. Enter current year vacation selection.
-6. Forward duplicate INDIVIDUAL CONDUCT SUMMARY (PD439-142) to commandmaintaining original, if member is promoted to sergeant.
-- a. Command maintaining original will make necessary corrections indicated and destroy duplicate.
-7. Forward folder jacket to transferred member's new command in a sealed envelope marked 'Confidential.'
-8. Provide transferred member with a photocopy of FORCE RECORD for presentation at new command pending arrival of personal folder.
-
-## COMMANDING OFFICER 9.
-
-Check member's New York State driver's license when assigned.
-
-## ADDITIONAL DATA
-
-OVERTIME REPORT (PD138-064) is to be kept in a separate Time Record Folder (TRF) .
-
-The Police Academy will forward records when a uniformed member of the service is first assigned to another command. The Employee Resources Section will send the records to the proper command when a uniformed member of the service resigns or has been dismissed and is subsequently reinstated.
-
-Personal folders will not be forwarded to the Military and Extended Leave Desk when a member of the service (uniformed or civilian) is granted an extended leave of absence. Personal folders will be retained at member's command and forwarded to new command upon return to duty from a leave of absence.
-
-<!-- image -->
-
-(TRF).
-
-SCOPE
-
-NOTE
-
-supplement existing programs.
-
-<!-- image -->
-
-PURPOSE
-
-SCOPE
-
-PURPOSE
-
-DEPARTMENT
-
-EXECUTIVE/
-
-COMMANDING
-
-NOTE
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Personnel Matters - General
-
+> **See Also:** A.G. 318-02 — Command Discipline records destruction
 ---
 
-# Section 320 — GRANT APPLICATIONS, ACCOUNTABILITY, RESPONSIBILITY AND REPORTING PROCEDURES
+# Section 320 — Grant Applications, Accountability, Responsibility and Reporting Procedures
 
 ## A.G. 320-04
 
-DATE EFFECTIVE:
+**Effective:** 12/31/24 | **Last Revision:** R.O. 78 | **Pages:** 1-4
 
-LAST REVISION:
-
-PAGE:
-
-12/31/24
-
-R.O. 78
-
-1 of 4
+### Purpose
 
 To obtain and manage grant funding in order to implement new programs or to supplement existing programs.
 
-The Grants Unit will assist Department executives/commanding officers in enhancing and developing grant programs to obtain funding. Each command will assign a programmatic and fiscal contact for each grant or grant-funded project and those contacts will liaise with the Grants Unit. These contacts in conjunction with the staff of the Grants Unit will be responsible for ensuring that the Department is in compliance with all aspects of the grant.
+### Scope
 
-To ensure that all grant proposals are presented to the Police Commissioner before being acted upon by Department personnel, and to maintain centralized dissemination and recording of grant proposal information, requests received from private entities, elected officials, or any other City or outside agencies (including the Office of the Criminal Justice Coordinator) offering grant assistance/support to this Department are to be forwarded to the Police Commissioner, with a copy to the Director, Grants Unit.
+The Grants Unit will assist Department executives/commanding officers in enhancing and developing grant programs to obtain funding. Each command will assign a **programmatic and fiscal contact** for each grant or grant-funded project and those contacts will liaise with the Grants Unit. These contacts, in conjunction with the staff of the Grants Unit, will be responsible for ensuring that the Department is in compliance with all aspects of the grant.
 
-When a Department executive/commanding officer is seeking grant funding:
+To ensure that all grant proposals are presented to the **Police Commissioner** before being acted upon by Department personnel, and to maintain centralized dissemination and recording of grant proposal information, requests received from private entities, elected officials, or any other City or outside agencies (including the Office of the Criminal Justice Coordinator) offering grant assistance/support to this Department are to be forwarded to the Police Commissioner, with a copy to the **Director, Grants Unit**.
 
-a.
+### Procedure — When Seeking Grant Funding
 
-PURPOSE
+#### Department Executive/Commanding Officer
 
-C.
-
-## DEPARTMENT EXECUTIVE/ COMMANDING OFFICER
-
-1. Submit request on Typed Letterhead , through channels, to the Deputy Commissioner, Management and Budget with a copy to the Director, Grants Unit. (2) (3) (4)
-
-(5)
-
-- a. Request must be submitted prior to making any commitment to the funding agency, grantor or elected official.
+1. Submit request on **Typed Letterhead**, through channels, to the **Deputy Commissioner, Management and Budget** with a copy to the Director, Grants Unit.
+   - a. Request must be submitted **prior to making any commitment** to the funding agency, grantor or elected official.
 2. Include the following information in request:
-- a. Objective of the grant
-- b. Funding Source (i.e., announcement, solicitation, legislation, legislative contact, etc.)
-- c. Substantive elements of the grant funded program:
-- (1) Resources required
-- (2) Department units involved
-- (3) Matching funds, cost share or other resources required
-- (4) Identity of subcontractors involved (e.g., other agencies, private organizations, etc.)
-- (5) Names and contact information for the programmatic and fiscal contacts.
+   - a. Objective of the grant
+   - b. Funding Source (announcement, solicitation, legislation, legislative contact, etc.)
+   - c. Substantive elements of the grant funded program:
+     - (1) Resources required
+     - (2) Department units involved
+     - (3) Matching funds, cost share or other resources required
+     - (4) Identity of subcontractors involved (other agencies, private organizations, etc.)
+     - (5) Names and contact information for the programmatic and fiscal contacts
 
-<!-- image -->
+> **Exam Alert:** Grant requests must be submitted on Typed Letterhead **before** making any commitment to the funding agency. The proposal must go through channels to the Deputy Commissioner, Management and Budget with a copy to the Director, Grants Unit.
 
-## GRANTS UNIT
+#### Grants Unit
 
 3. Confer with Commanding Officer, Office of Management Analysis and Planning regarding proposal.
 4. Make a recommendation regarding the grant request to the Deputy Commissioner, Management and Budget.
+5. Submit appropriate grant requests to the **Police Commissioner** for approval.
+   - a. Ensure that grant proposal addresses the needs of the Department.
 
-NOTE
-
-Department executives/commanding officers applying for grant funding should be cognizant ‹
-
-the following:
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 320-04              | 05/13/24          | R.O. 30          | 2 of 4  |
-
-involved. Underutilization may result in a decrease in the command
-
-5. Submit appropriate grant requests to the Police Commissioner for approval.
-- a. Ensure that grant proposal addresses the needs of the Department.
-
-The Chief of Housing has been designated the Department's liaison to th
-
-United States Department of Housing and Urban Development (HUD,
+#### Department Executive/Commanding Officer (continued)
 
 Department executives/commanding officers applying for grant funding should be cognizant of the following:
 
-- a. Grant funding cannot be used to supplant or take the place of existing funding.
+- a. Grant funding **cannot be used to supplant or take the place of existing funding**.
 - b. Grant funds must be expended on schedule.
-
-GRANT PROPOSAL
-
-7.
-
-DEPARTMENT
-
-EXECUTIVE/
-
-COMMANDING
-
-OFFICER
-
-GRANTS
-
-UNIT
-
-a.
-
-- c. Prevention of both over expenditure and underutilization of grant funds will be the direct responsibility of the Department executive/commanding officer involved. Underutilization may result in a decrease in the command's budget as well as the possibility of the granting agency reducing future funds. Overspending of grant funding may cause budgetary problems resulting in the reallocation of funds within the bureau concerned.
-- d. The Chief of Housing has been designated the Department's liaison to the United States Department of Housing and Urban Development (HUD); therefore, all grant proposals to be funded by HUD must be submitted to the Housing Bureau for initial approval.
+- c. Prevention of both over expenditure and underutilization of grant funds will be the **direct responsibility** of the Department executive/commanding officer involved.
+- d. The **Chief of Housing** has been designated the Department's liaison to the United States Department of Housing and Urban Development (HUD); therefore, all grant proposals to be funded by HUD must be submitted to the **Housing Bureau** for initial approval.
 - e. Any questions regarding the duties and responsibilities of the programmatic and fiscal contacts shall be directed to the Grants Unit.
 
-## UPON APPROVAL BY THE POLICE COMMISSIONER TO PURSUE GRANT PROPOSAL
+> **Exam Alert:** Grant funding **cannot supplant** existing funding. The Chief of Housing is the HUD liaison — all HUD-funded grants go through Housing Bureau first. These are common exam traps.
 
-## DEPARTMENT EXECUTIVE/ COMMANDING OFFICER
+### Upon Approval by Police Commissioner to Pursue Grant Proposal
 
-## GRANTS UNIT 7.
-
-<!-- image -->
+#### Department Executive/Commanding Officer
 
 6. Consult the Grants Unit regarding preparation of actual grant proposal and provide information as needed.
-
-Romed of tha
-
-Ensure the format of the application for grant proposal:
-
-- a. Meets the requirements of the grantor, AND
-- b. Satisfies the fiscal requirements of the grantor and the City of New York, without conflict.
-
-Submit completed application to the Police Commissioner for review and approval.
-
-Process and submit the grant proposal to the funding agency in conjunction with the Mayor's Criminal Justice Coordinator or Office of Management and Budget, if applicable.
-
+7. Ensure the format of the application for grant proposal:
+   - a. Meets the requirements of the grantor, AND
+   - b. Satisfies the fiscal requirements of the grantor and the City of New York, without conflict.
+8. Submit completed application to the Police Commissioner for review and approval.
+9. Process and submit the grant proposal to the funding agency in conjunction with the Mayor's Criminal Justice Coordinator or Office of Management and Budget, if applicable.
 10. File original contract, if grant funding is awarded.
-- a. Forward copy of the grant contract to the Agency Chief Contracting Officer (ACCO) and the Legal Bureau for review.
+    - a. Forward copy of the grant contract to the **Agency Chief Contracting Officer (ACCO)** and the **Legal Bureau** for review.
 11. Ensure compliance with grant guidelines.
 12. Be responsible for the timely submission of data necessary for the preparation of all fiscal and programmatic reports.
 
-Chic
+#### Command Contacts (Fiscal and Programmatic)
 
-## DEPUTY COMMISSIONER, MANAGEMENT AND BUDGET
-
-NOTE
-
-e.
-
-## COMMAND CONTACTS (FISCAL AND PROGRAMMATIC)
-
-## NOTE
-
-COMMANDING
-
-## GRANTS UNIT
-
-NOTE
-
-14.
-
-17.
-
-Urganize ana maintain, In separate iles, all liscal ana programmau reports, as well as a detailed inventory of all assets purchased, expende
-
-or disposed of with grant funding for audit purposes.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 320-04              | 05/13/24          | R.O. 30          | 3 of 4  |
-
-NOTE
-
-GRANTS
-
-UNIT
-
-## COMMAND CONTACTS (FISCAL AND PROGRAMMATIC) (continued) 16.
-
-18.
-
-19.
-
-20.
-
-- a. Timely reports are required to satisfy both Department and grantor requirements.
 13. Assist with the development of and be required to regularly maintain and monitor the budget for each grant.
-14. Organize and maintain, in separate files, all fiscal and programmatic reports, as well as a detailed inventory of all assets purchased, expended or disposed of with grant funding for audit purposes.
-15. Provide any additional data as needed for other mandated forms and reports as required by the grantor or an auditor, including all Environmental and Historical Preservation (EHP) compliance data, and Grants Tracking System (GTS) data for inventory and accounting of equipment purchased with grant funds.
-
-The command must consult with the Grants Unit regarding the length of time these records must be maintained, as well as the information required for asset management.
-
+14. Organize and maintain, in separate files, all fiscal and programmatic reports, as well as a detailed inventory of all assets purchased, expended or disposed of with grant funding for **audit purposes**.
+15. Provide any additional data as needed for other mandated forms and reports as required by the grantor or an auditor, including all **Environmental and Historical Preservation (EHP)** compliance data, and **Grants Tracking System (GTS)** data for inventory and accounting of equipment purchased with grant funds.
 16. Review data and draft reports for accuracy and compliance with grant guidance.
-17. Prepare reimbursement reports, associated fiscal cost reports, and compile all fiscal back up documentation from Audits and Accounts and the commands concerned for the grant file.
+17. Prepare reimbursement reports, associated fiscal cost reports, and compile all fiscal backup documentation from Audits and Accounts and the commands concerned for the grant file.
 18. Prepare and complete the progress reports and any other programmatic reports based on data provided by the command responsible for the project/grant.
 19. Submit grant reports as required and related fiscal reports, for reimbursement.
 20. Notify the Grants Unit promptly of any of the following:
-- a. Requests for grant extensions
-- b. All budget modifications; and upon direction, prepare a memo (attention Deputy Commissioner, Management and Budget) for the aforementioned budget modification for formal approval
-- c. Change in assigned project/grant contacts
-- d. Cost overruns and under runs
-- e. Purchasing/procurement problems and/or delays
-- f. Problems with grant sub-contractors (i.e., performance, contractual, fiscal, etc.)
-- g. Any other obstacle preventing the progress of the grant.
+    - a. Requests for grant extensions
+    - b. All budget modifications; upon direction, prepare a memo (attention Deputy Commissioner, Management and Budget) for formal approval
+    - c. Change in assigned project/grant contacts
+    - d. Cost overruns and underruns
+    - e. Purchasing/procurement problems and/or delays
+    - f. Problems with grant subcontractors (performance, contractual, fiscal, etc.)
+    - g. Any other obstacle preventing the progress of the grant
 
-It is extremely important that Department executives/commanding officers ensure that grant funding is properly expended. When problems exist which hinder or prohibit a command from expending grant funds, the Department executive/commanding officer concerned must notify the Director, Grants Unit promptly. Failure to do so could result in the loss or decrease of funding, could initiate budgetary problems, and could cause the reduction of future funding levels.
+> **Exam Alert:** When problems hinder a command from expending grant funds, the Department executive/commanding officer must notify the **Director, Grants Unit promptly**. Failure to do so could result in loss or decrease of funding, budgetary problems, and reduction of future funding levels.
 
-21. Issue Revenue Invoice numbers (Billed Receivables), which are entered in the New York City Financial Management System, for bills prepared by the Grants Unit, Housing Bureau, Traffic Enforcement District, and other commands.
+#### Director, Budget Unit
 
-C.
-
-e.
-
-g.
-
-DEPARTMENT
-
-## EXECUTIVE/ COMMANDING
-
-## OFFICER
-
-## NOTE
-
-## DIRECTOR, BUDGET UNIT
-
-GRANTS UNIT/
-
-CHIEF OF HOUSING
-
-BUREAU/CHIEF OF
-
-## ADMINISTRATIVE GUIDE
-
-DATA
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 320-04              | 05/13/24          | R.O. 30          | 4 of 4  |
-
-## DIRECTOR,
-
-## BUDGET UNIT (continued)
-
-## DIRECTOR, GRANTS UNIT/ CHIEF OF HOUSING BUREAU/CHIEF OF TRANSPORTATION
-
-## ADDITIONAL DATA
-
-22. Forward copies of Revenue Invoice(s) along with billings to the Mayor's Office of Management and Budget.
+21. Issue **Revenue Invoice numbers (Billed Receivables)**, which are entered in the New York City Financial Management System, for bills prepared by the Grants Unit, Housing Bureau, Traffic Enforcement District, and other commands.
+22. Forward copies of Revenue Invoice(s) along with billings to the **Mayor's Office of Management and Budget**.
 23. Retain copies of Revenue Invoice(s) for command file.
 24. Ensure that grantor reimburses the Department for all applicable expenses.
 
-## PERSONAL SERVICE EXPENDITURE OF GRANT FUNDS
+### Additional Data
 
-Personal Service Grant Funds (personnel committed to the grant performing either straight time hours/tours or overtime hours/tours) are expended, in most instances, when a member of the service performs duty (in connection with the grant) at the prevailing cash straight time or overtime rate. Overtime, taken in time, does not expend grant funds. Should a member of the service perform grant funded overtime and elect to receive compensation in time, additional cash overtime hours will have to be performed to expend grant funding.
+#### Personal Service Expenditure of Grant Funds
 
-## OTHER THAN PERSONAL SERVICES FUNDS
+Personal Service Grant Funds (personnel committed to the grant performing either straight time hours/tours or overtime hours/tours) are expended, in most instances, when a member of the service performs duty (in connection with the grant) at the prevailing cash straight time or overtime rate. **Overtime, taken in time, does not expend grant funds.** Should a member of the service perform grant funded overtime and elect to receive compensation in time, additional cash overtime hours will have to be performed to expend grant funding.
 
-Those grants that provide for 'Other Than Personal Services' funding components (e.g., equipment purchase, rental, leasing, etc.) require the preparation of an itemized listing of equipment required, prior to the funding date. Equipment cost and availability can be determined by contacting the unit responsible for purchasing the item (i.e., Fleet Services Division, Deputy Commissioner, Information Technology, Quartermaster Section, etc.). This procedure will eliminate delays in entering the equipment bidding process or modifying existing contracts with vendors. Department executives/commanding officers must take into consideration the extensive delays encountered in the equipment bidding process (twelve to eighteen months) and the effect this process will have on meeting the grant's operational objectives and the expenditure of grant funds as scheduled.
+> **Exam Alert:** **Overtime taken in time does NOT expend grant funds.** Only cash overtime expends grant funds. If a member takes comp time instead of cash overtime for grant work, additional cash overtime must be performed.
 
-## GRANTS REQUIRING A MATCHING FUNDS OR COST SHARE COMPONENT
+#### Other Than Personal Services Funds
 
-If a grant has a matching funds or cost share requirement, an appropriate method of meeting the requirement will be determined by the Director, Grants Unit and approved by the Deputy Commissioner, Management and Budget. This method will be determined prior to the submission of the grant application.
+Those grants that provide for 'Other Than Personal Services' funding components (e.g., equipment purchase, rental, leasing, etc.) require the preparation of an itemized listing of equipment required, prior to the funding date. Department executives/commanding officers must take into consideration the extensive delays encountered in the equipment bidding process (**twelve to eighteen months**) and the effect this process will have on meeting the grant's operational objectives.
 
-<!-- image -->
+> **Exam Alert:** The equipment bidding process takes **12-18 months**. This timeline must be factored into grant planning.
 
-L4.
+#### Grants Requiring a Matching Funds or Cost Share Component
 
-ensure that grantor relmourses ine Department tot all appicable expenses.
+If a grant has a matching funds or cost share requirement, an appropriate method of meeting the requirement will be determined by the **Director, Grants Unit** and approved by the **Deputy Commissioner, Management and Budget**. This method will be determined **prior to the submission** of the grant application.
 
-NOTE
+> **Exam Alert:** Matching fund methods must be determined **before** the grant application is submitted, by the Director, Grants Unit and approved by the Deputy Commissioner, Management and Budget.
 
-proper selection, and assign duties commensurate with the position.
-
-PROCEDURE
-
-COMMANDING 1.
-
-OFFICER
-
-<!-- image -->
-
-## PURPOSE
-
-Section:
-
-Personnel Matters - General
-
+> **Sergeant Focus:** While sergeants are not typically the primary grant administrators, you may serve as programmatic or fiscal contacts. Know the key rules: grant funds cannot supplant existing funding, overtime-in-time does not expend grant funds, equipment bidding takes 12-18 months, and HUD grants go through Housing Bureau. Timely reporting and compliance are your direct responsibility as a command contact.
 ---
 
 # Section 320 — Personnel Matters — General
@@ -41469,1580 +41343,679 @@ Section 331 governs the performance evaluation process for all uniformed and civ
 
 ---
 
-# Section 331 — EVALUATION OF PROBATIONARY OFFICERS
+# Section 331 — Evaluation of Probationary Officers
 
 ## A.G. 331-02
 
-DATE EFFECTIVE:
+**Effective:** 05/03/24 | **Last Revision:** R.O. 24 | **Pages:** 1-2
 
-LAST REVISION:
-
-PAGE:
-
-05/03/24
-
-R.O. 24
-
-1 of 2
-
-Evaluate continuously, the conduct and performance of probationar
-
-<!-- image -->
-
-NOTE
-
-PURPOSE
+### Purpose
 
 To ensure proper evaluation of probationary police officers.
 
-PROCEDURE
+### Procedure
 
 Before a probationary police officer is permanently assigned to a command:
 
-COMMANDING
+#### Commanding Officer, Police Academy
 
-OFFICER,
-
-POLICE
-
-ACADEMY
-
-1.
-
-Ensure
-
-preparation
-
-of
-
-two
-
-copies
-
-of
-
-RECRUIT
-
-EVALUATION
-
-(PD439-1412)
-
-, prior to permanent assignment.
-
+1. Ensure preparation of two copies of **RECRUIT EVALUATION (PD439-1412)**, prior to permanent assignment.
 2. Forward original to permanent command.
+3. Forward duplicate to **Human Resources Division** upon assignment to permanent command.
 
-3. Forward duplicate to Human Resources Division upon assignment to permanent command.
-
-COMMANDING OFFICER/ SUPERVISOR CONCERNED (PERMANENT COMMAND)
+#### Commanding Officer/Supervisor Concerned (Permanent Command)
 
 4. Evaluate continuously, the conduct and performance of probationary police officers.
+5. Evaluate probationary police officers via the Online Evaluation System available on the Department's Intranet, **three times** during their probationary period: the **tenth, sixteenth and twenty-second month**.
 
-5. Evaluate probationary police officers via the Online Evaluation System available on the Department's Intranet, three times during their probationary period: the tenth, sixteenth and twenty-second month.
+> **Exam Alert:** Probationary police officers receive **three evaluations** during their probationary period: at the **10th, 16th, and 22nd month**. This differs from probationary sergeants/lieutenants (4th and 10th month) and probationary captains (4th, 10th, and 16th month). Know the distinction for each rank.
 
-Ensure that twenty-second month evaluation specifically recommend
+6. Ensure that twenty-second month evaluation specifically recommends **'Permanent Appointment,' 'Extension of Probation'** or **'Termination of Services'** in reviewer's comments area.
+   - a. Notify the **Performance Analysis Unit** whenever a probationary police officer receives an overall evaluation **less than 3.0**.
 
-NOTE
+> **Exam Alert:** The 22nd month evaluation MUST include one of three specific recommendations. Also, any evaluation below **3.0** must be reported to the Performance Analysis Unit.
 
-COMMAND)
+7. Forward completed PERFORMANCE EVALUATIONS via Department Intranet by finalizing the PERFORMANCE EVALUATION online.
+   - a. Ensure a **signed copy** of the PERFORMANCE EVALUATION is printed out and forwarded to **Personnel Services Unit**.
 
-"Permanent Appointment," "Extension of Probation" or "Termination c a.
+When recommending 'Termination of Services' or 'Extension of Probation,' a detailed report to **Commanding Officer, Performance Analysis Unit**, including all pertinent facts related to the probationary police officer's performance, will be forwarded with a copy of the PERFORMANCE EVALUATION. If warranted, these recommendations may also be forwarded at any time during the probationary period, prior to the twenty-second month anniversary.
 
-The first sixteen months of a probationary police officer's field assignment is a critical phase in the training and maturation of a new police officer. Supervisors must conscientiously evaluate probationary police officers to ensure that members who are unable to satisfactorily perform their duties are identified. vi
+> **Exam Alert:** 'Termination of Services' or 'Extension of Probation' recommendations require a detailed report to the Commanding Officer, Performance Analysis Unit — but can be submitted at ANY time during the probationary period, not just the 22nd month.
 
-In addition to evaluation reports, commanding officers will submit the following reports during the probationary period as they occur, on Typed Letterhead .
+### Additional Data
 
-a.
+The probationary period should be utilized to closely scrutinize the member's performance to assess their abilities as a police officer. The entry level probationary period may be extended an additional **six months**, if necessary, to allow the Department more time to further review and evaluate a probationer's suitability to remain a police officer.
 
-- a. Request for Charges and Specifications to First Deputy Commissioner.
-- b. Report of any matter that may bear upon the fitness of probationer to Chief of Personnel in a sealed envelope.
+When a probationary officer is transferred to a command, their performance from the previous command must be reviewed. Interim evaluations should be prepared when it is apparent there is a problem with an officer's performance. The rater will discuss the probationary evaluation with the ratee. This will make the probationary officer aware of their performance and also place those probationary officers with a 'below standards' evaluation on notice that their performance must show an improvement.
 
-COMMANDING OFFICER (PERMANENT COMMAND) 6.
+When a commanding officer becomes aware that a probationary officer's performance may be below standards, supervisors should be instructed to carefully document the member's performance by utilizing the **SUPERVISOR FEEDBACK FORM**, command discipline, and when appropriate, charges and specifications. The probationer will be notified of the observed performance deficiencies and instructed on proper Department procedure. Written documentation that the probationer was instructed and counseled will be maintained in the officer's personnel folder.
 
-7.
+In addition to evaluation reports, commanding officers will submit the following reports during the probationary period as they occur, on Typed Letterhead:
+- a. Request for Charges and Specifications to **First Deputy Commissioner**.
+- b. Report of any matter that may bear upon the fitness of probationer to **Chief of Personnel** in a sealed envelope.
 
-Ensure that twenty-second month evaluation specifically recommends 'Permanent Appointment,' 'Extension of Probation' or 'Termination of Services,' in reviewer's comments area.
+> **Exam Alert:** The probationary period can be extended by **six months**. Charges and Specifications go to the **First Deputy Commissioner**; fitness reports go to the **Chief of Personnel** in a sealed envelope.
 
-- a. Notify the Performance Analysis Unit whenever a probationary police officer receives an overall evaluation less than 3.0.
-
-Forward completed PERFORMANCE EVALUATIONS via Department Intranet by finalizing the PERFORMANCE EVALUATION online.
-
-- a. Ensure a signed copy of the PERFORMANCE EVALUATION is printed out and forwarded to Personnel Services Unit.
-
-When recommending 'Termination of Services' or 'Extension of Probation' a detailed report to Commanding Officer, Performance Analysis Unit, including all pertinent facts related to the probationary police officer's performance, will be forwarded with a copy of the PERFORMANCE EVALUATION . If warranted, these recommendations may also be forwarded at any time during the probationary period, prior to the twenty-second month anniversary.
-
-NOTE
-
-from the previous command must be reviewed. Interim evaluations should be prepare when it is apparent there is a problem with an officer's performance. The rater wi
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-02              | 05/03/24          | R.O. 24          | 2 of 2  |
-
-## ADDITIONAL DATA
-
-The probationary period should be utilized to closely scrutinize the member's performance to assess their abilities as a police officer. The entry level probationary period may be extended an additional six months, if necessary, to allow the Department more time to further review and evaluate a probationer's suitability to remain a police officer. When a probationary officer is transferred to a command, their performance from the previous command must be reviewed. Interim evaluations should be prepared when it is apparent there is a problem with an officer's performance. The rater will discuss the probationary evaluation with the ratee. This will make the probationary officer aware of their performance and also place those probationary officers with a 'below standards' evaluation on notice that their performance must show an improvement. When a commanding officer becomes aware that a probationary officer's performance may be below standards, supervisors should be instructed to carefully document the member's performance by utilizing the SUPERVISOR FEEDBACK FORM, command discipline, and when appropriate, charges and specifications. The probationer will be notified of the observed performance deficiencies and instructed on proper Department procedure. Written documentation that the probationer was instructed and counseled will be maintained in the officer's personnel folder.
-
-DEBALENT
-
-CITY
-
-NEW
-
-<!-- image -->
-
-RATER
-
-POLICE
-
-CITY
-
-NEW
-
-NOTE
-
-<!-- image -->
-
-PURPOSE
-
-PROCEDURE
-
-RATER
-
-REVIEWER
-
-NOTE
-
-NOTE
-
-RATER
-
-6.
-
-REVIEWER
-
-NOTE
-
-RATER
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Evaluations
-
+> **Sergeant Focus:** The first sixteen months of a probationary police officer's field assignment is a critical phase. You must conscientiously evaluate probationary officers and use the SUPERVISOR FEEDBACK FORM, command discipline, and charges to document below-standards performance. Don't wait for scheduled evaluation periods if problems arise — submit interim evaluations immediately.
 ---
 
-# Section 331 — EVALUATION OF POLICE OFFICERS AND DETECTIVES ASSIGNED TO INVESTIGATIVE DUTIES
+# Section 331 — Evaluation of Police Officers and Detectives Assigned to Investigative Duties
 
 ## A.G. 331-03
 
-DATE EFFECTIVE:
+**Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Pages:** 1
 
-LAST REVISION:
-
-PAGE:
-
-11/18/21
-
-I.O. 110
-
-1 of 1
+### Purpose
 
 To ensure that each uniformed member is evaluated each year while assigned to investigative duties.
 
+### Procedure — Rater
+
 Prior to the scheduled evaluation of uniformed members of the service:
 
-1. Evaluate  police  officers  assigned  to  investigative  (Detective  Track)  duties  two times during their initial fifteen months in such assignment, (eighth, and fifteenth month),  using  form PERFORMANCE  EVALUATION  -DETECTIVES AND  POLICE  OFFICERS  ASSIGNED  TO  DETECTIVE  TRACK COMMANDS (Online Evaluation System) .
+1. Evaluate police officers assigned to investigative (**Detective Track**) duties **two times** during their initial fifteen months in such assignment (**eighth and fifteenth month**), using form **PERFORMANCE EVALUATION - DETECTIVES AND POLICE OFFICERS ASSIGNED TO DETECTIVE TRACK COMMANDS** (Online Evaluation System).
 
-The  first  fifteen  months  of  an  investigative  assignment  is  a  critical  phase  in  the  training  and development of a new investigator. Supervisors must conscientiously evaluate police officers/investigators  to  ensure  that  members  who  are  not  suited  for  investigative  work  are  not retained in such assignments. If there is a change in performance after the fifteenth month, the member's supervisor MUST immediately submit an interim evaluation.
+> **Exam Alert:** Police officers in Detective Track assignments receive two evaluations during their initial fifteen months — at the **8th** and **15th** month. This differs from probationary officers (10th, 16th, 22nd month). Know the timeline for each category.
 
-2. Evaluate  police  officers/investigators  annually  after  the  initial  fifteen months.
-3. Evaluate detectives/investigators annually, using form PERFORMANCE EVALUATION - DETECTIVES AND POLICE OFFICERS  ASSIGNED  TO  DETECTIVE  TRACK  COMMANDS (Online Evaluation System) .
-4. Comment on the ratee's performance and potential for continuation in an investigative  assignment  and  eventual  promotion  to  detective  for  all police officers/investigators.
+2. Evaluate police officers/investigators **annually** after the initial fifteen months.
+3. Evaluate detectives/investigators **annually**, using form **PERFORMANCE EVALUATION - DETECTIVES AND POLICE OFFICERS ASSIGNED TO DETECTIVE TRACK COMMANDS** (Online Evaluation System).
+4. Comment on the ratee's performance and potential for continuation in an investigative assignment and eventual promotion to detective for all police officers/investigators.
 5. Review and sign EVALUATION form.
 
-When  an  investigator  is  designated  'Chronic  Absent  -  Category  B,'  it  is  presumed  that  the investigator  is  performing  in  a  substandard  manner.  If  the  performance  of  the  'Category  B' investigator is rated higher than 'Low', the rater must demonstrate how the performance was achieved in spite of the absence record of the investigator. In all cases, the rater must state if the ratee should remain in the investigative assignment.  If ratee is a detective, determine if ratee should retain such designation or have such designation revoked and be reassigned.
+> **Exam Alert:** When an investigator is designated **"Chronic Absent - Category B,"** it is presumed that the investigator is performing in a substandard manner. If the performance of the "Category B" investigator is rated higher than "Low," the rater must **demonstrate how the performance was achieved** in spite of the absence record. In all cases, the rater must state if the ratee should remain in the investigative assignment. If ratee is a detective, determine if ratee should retain such designation or have such designation revoked and be reassigned.
+
+> **Sergeant Focus:** The first fifteen months of an investigative assignment is a critical phase. If there is a change in performance after the fifteenth month, you MUST immediately submit an interim evaluation. For "Chronic Absent - Category B" investigators, you bear the burden of justifying any rating above "Low" and must explicitly state whether the ratee should remain in the investigative assignment.
+
+### Commanding Officer Concerned
 
 6. Audit the investigative time accrued by members assigned to command.
-7. Ensure  that  eighth  and  fifteenth  month  evaluations  are  prepared  and promptly  forwarded  for  police  officers/investigators  assigned  to  the command.
-8. Ensure the PERFORMANCE EVALUATION has been finalized.
+7. Ensure that eighth and fifteenth month evaluations are prepared and promptly forwarded for police officers/investigators assigned to the command.
+8. Ensure the **PERFORMANCE EVALUATION** has been finalized.
 
-Bureaus are evaluated annually utılızıng the Pertormance Evaluation (PERE
+> **Sergeant Focus:** As a commanding officer, you are directly responsible for auditing investigative time, ensuring the 8th and 15th month evaluations are prepared and forwarded, and guaranteeing all PERFORMANCE EVALUATIONS are finalized. Failure to complete evaluations on time is a common accountability issue on the exam.
+---
 
-System.
+# Section 331 — Evaluation of Police Officers and Detectives Assigned to Non-Investigative Duties
 
-PROCEDURE
+## A.G. 331-04
 
-COMMANDING 1.
+**Effective:** 05/03/24 | **Last Revision:** R.O. 24 | **Pages:** 1-4
 
-OFFICER
-
-CONCERNED
-
-<!-- image -->
-
-## PURPOSE
-
-RATER
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Evaluations
-
-Procedure No: 331-04
-
-## EVALUATIONS OF POLICE OFFICERS AND DETECTIVES ASSIGNED TO NON-INVESTIGATIVE DUTIES
-
-DATE EFFECTIVE:
-
-LAST REVISION:
-
-PAGE:
-
-05/03/24
-
-R.O. 24
-
-1 of 4
-
-a.
-
-a.
+### Purpose
 
 To ensure that police officers and detective specialists assigned to non-investigative Bureaus are evaluated annually utilizing the Performance Evaluation (PERF) System.
 
-PROCEDURE
-
-## COMMANDING OFFICER CONCERNED a.
-
-RATER
-
-a.
+### Procedure — Commanding Officer Concerned
 
 When preparing annual evaluations of police officers and detective specialists assigned to non-investigative Bureaus:
 
-1. Utilize the PERF System listed under 'Applications' on the Department Intranet and examine command roster to determine which members of the command require a PERFORMANCE EVALUATION .
-- a. Ensure SUPERVISOR'S QUARTERLY EVALUATIONS have been completed.
+1. Utilize the **PERF System** listed under 'Applications' on the Department Intranet and examine command roster to determine which members of the command require a PERFORMANCE EVALUATION.
+   - a. Ensure **SUPERVISOR'S QUARTERLY EVALUATIONS** have been completed.
 2. Assign supervisor(s) to evaluate performance of subordinates.
-- a. Designate an appropriate supervisor to prepare PERFORMANCE EVALUATIONS of membersassignedtotheVIPERunits,ifapplicable.
-3. Access the PERF System and select 'Start Annual Evaluation' to prepare annual PERFORMANCE EVALUATION , after completing the SUPERVISOR'S QUARTERLY EVALUATION for the fourth quarter rating period.
-- a. Ensure all applicable SUPERVISOR'S QUARTERLY EVALUATIONS are prepared for the member concerned.
+   - a. Designate an appropriate supervisor to prepare PERFORMANCE EVALUATIONS of members assigned to VIPER units, if applicable.
+3. Access the PERF System and select 'Start Annual Evaluation' to prepare annual PERFORMANCE EVALUATION, after completing the SUPERVISOR'S QUARTERLY EVALUATION for the fourth quarter rating period.
+   - a. Ensure all applicable SUPERVISOR'S QUARTERLY EVALUATIONS are prepared for the member concerned.
 
-a.
+### Rater
 
-<!-- image -->
-
-4. Examine OFFICER PROFILE REPORTS , SUPERVISOR FEEDBACK FORMS , OFFICER SELF-REPORT FORMS , SUPERVISOR'S QUARTERLY EVALUATIONS , Command Discipline Log, CPI record, Department recognition, sick record, commendation letters, and CCRB records prepared during the year for each assigned police officer and detective specialist. 5. Provide comments indicating the overall performance of the member of the service. 6. Discuss the Department's equal employment opportunity (EEO) policy with ratee.
-- a. Record any disciplinary action received by a member of the service that was a result of an EEO related issue (see 'ADDITIONALDATA' ).
-
-b.
-
-Record comments
-
-indicating that
-
-the employee's
-
-rights and
-
-responsibilities with regard to EEO issues were discussed.
-
-Review ratee's FORCE RECORD (PD406-143) with member to ensure emergency notification and personal information is up to date.
-
-- a. Update ratee's FORCERECORD as required.
-8. Report efforts made to improve attendance of members who are classified 'Chronic Absent - Category A' or 'Chronic Absent - Category B.'
-- a. Include a statement concerning efforts made to improve attendance.
+4. Examine **OFFICER PROFILE REPORTS**, **SUPERVISOR FEEDBACK FORMS**, **OFFICER SELF-REPORT FORMS**, **SUPERVISOR'S QUARTERLY EVALUATIONS**, Command Discipline Log, CPI record, Department recognition, sick record, commendation letters, and CCRB records prepared during the year for each assigned police officer and detective specialist.
+5. Provide comments indicating the overall performance of the member of the service.
+6. Discuss the Department's **equal employment opportunity (EEO)** policy with ratee.
+   - a. Record any disciplinary action received by a member of the service that was a result of an EEO related issue.
+   - b. Record comments indicating that the employee's rights and responsibilities with regard to EEO issues were discussed.
+7. Review ratee's **FORCE RECORD (PD406-143)** with member to ensure emergency notification and personal information is up to date.
+   - a. Update ratee's FORCE RECORD as required.
+8. Report efforts made to improve attendance of members who are classified **'Chronic Absent - Category A'** or **'Chronic Absent - Category B.'**
+   - a. Include a statement concerning efforts made to improve attendance.
 9. Confer with ratee's former supervisor if observation of ratee is of a limited duration, when appropriate.
-- a. Include identity of supervisor conferred with in comments section.
+   - a. Include identity of supervisor conferred with in comments section.
+10. Ensure the total annual score the member earned corresponds with the assignment of the Overall Evaluation rating as listed in the chart below:
 
-TOTAL ANNUAL SCORE
+| Total Annual Score | Overall Evaluation |
+|---|---|
+| 90-100 | Exceptional |
+| 77-89 | Exceeds Expectations |
+| 68-76 | Meets Standards |
+| 60-67 | Needs Improvement |
+| 59 or BELOW | Unsatisfactory |
 
-90-100
+> **Exam Alert:** Know the five rating levels and their score ranges. "Meets Standards" (68-76) is the middle range. The floor for military service evaluations is "Meets Standards" (68-76) for this procedure, unlike other evaluation procedures which use "Satisfactory (3.0)."
 
-77-89
+### Reviewer
 
-68-76
+11. Review PERFORMANCE EVALUATION and ensure Overall Evaluation rating reflects actual performance as measured by the Police Officer/Detective Specialist Monthly/Quarterly Performance Review and Rating System.
+12. Ensure the ratings of members designated **'Chronic Absent'** are accurate and objectively reflect the ratee's performance and the impact of absenteeism on such performance.
+   - a. Give consideration to attendance record of ratee who is classified 'Chronic Absent - Category A' in determining appropriate overall rating.
+   - b. Consider evaluating ratee unsatisfactory, if member is or has been classified as 'Chronic Absent - Category B' during the rating period.
+13. Sign off on PERFORMANCE EVALUATION.
 
-## ADMINISTRATIVE GUIDE
+### Rater (continued)
 
-60-67
-
-59 or BELOW
-
-OVERALL EVALUATION
-
-Exceptional
-
-Exceeds Expectations
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-04              | 05/03/24          | R.O. 24          | 2 of 4  |
-
-## RATER (continued)
-
-10.
-
-Ensure the total annual score the member earned as per the Police Officer/Detective Specialist Monthly/Quarterly Performance Review and Rating System corresponds with the assignment of the Overall Evaluation rating as listed in the chart below.
-
-| TOTAL ANNUAL SCORE   | OVERALL EVALUATION   |
-|----------------------|----------------------|
-| 90-100               | Exceptional          |
-| 77-89                | Exceeds Expectations |
-| 68-76                | Meets Standards      |
-| 60-67                | Needs Improvement    |
-| 59 or BELOW          | Unsatisfactory       |
-
-## REVIEWER
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-11. Review PERFORMANCE EVALUATION and ensure Overall Evaluation rating as indicated reflects actual performance as measured by the Police Officer/Detective Specialist Monthly/Quarterly Performance Review and Rating System.
-12. Ensure the ratings of members designated 'Chronic Absent' are accurate and objectively reflect the ratee's performance and the impact of absenteeism on such performance.
-- a. Give consideration to attendance record of ratee who is classified 'Chronic Absent - Category A' in determining appropriate overall rating.
-- b. Consider evaluating ratee unsatisfactory, if member is or has been classified as 'Chronic Absent - Category B' during the rating period.
-13. Sign off on PERFORMANCE EVALUATION .
 14. Interview ratee in a private setting and discuss overall performance.
-- a. Review PERFORMANCE EVALUATION with ratee and direct ratee to accept or appeal on PERFORMANCEEVALUATION .
-15. Review PERFORMANCE EVALUATION .
-16. Provide comments.
+   - a. Review PERFORMANCE EVALUATION with ratee and direct ratee to accept or appeal on PERFORMANCE EVALUATION.
 
-17.
+### Ratee
 
-18.
+15. Accept or appeal PERFORMANCE EVALUATION.
 
-Accept or appeal
+### Rater (continued)
 
-PERFORMANCE EVALUATION
+16. Comply with A.G. 333-10, "Appeal of Evaluation - Uniformed Members of the Service," when member of the service appeals their PERFORMANCE EVALUATION.
+   - a. Notify commanding officer of ratee's decision to appeal.
 
-.
+### Reviewer (continued)
 
-Comply with A.G. 333-10, 'Appeal of Evaluation - Uniformed Members of the Service,' when member of the service appeals their PERFORMANCE EVALUATION.
+17. Review PERFORMANCE EVALUATION and provide comments.
+18. Finalize PERFORMANCE EVALUATION.
+19. Provide a copy of PERFORMANCE EVALUATION to ratee.
+20. Ensure that a completed PERFORMANCE EVALUATION is filed in the member's command folder.
 
-- a. Notify commanding officer of ratee's decision to appeal.
-19. Review PERFORMANCE EVALUATION and provide comments.
-20. Finalize PERFORMANCE EVALUATION .
-21. Provide a copy of PERFORMANCEEVALUATION to ratee.
-22. Ensure that a completed PERFORMANCE EVALUATION is filed in the member's command folder.
+### Commanding Officer/Reviewer
 
-RATER
+21. Prepare interim PERFORMANCE EVALUATION if significant change occurs in ratee's performance or as otherwise directed.
+   - a. If a ratee receives an overall evaluation of **needs improvement or unsatisfactory (67 or lower)** or is rated **exceptional (90 or higher)**, the reviewer must be in the rank of **captain or above**, or selected civilian managerial titles.
+   - b. If ratee is in any Performance Monitoring Program, the reviewer must be the **commanding officer**. The commanding officer will consult with all appropriate supervisors prior to making any comments.
 
-RATEE
+> **Exam Alert:** The reviewer must be **captain or above** for ratings of needs improvement/unsatisfactory (67 or lower) OR exceptional (90 or higher). For members in Performance Monitoring Programs, the **commanding officer** must be the reviewer.
 
-RATER
+22. Review delinquent PERFORMANCE EVALUATIONS recapitulation in the PERF System under 'PERF Report,' frequently, to determine status of overdue PERFORMANCE EVALUATIONS.
+23. Direct rater being transferred or retiring to prepare PERFORMANCE EVALUATION for each member the rater is regularly required to evaluate, prior to transfer/retirement.
+24. Direct that a transfer PERFORMANCE EVALUATION be prepared for members transferred.
+   - a. Forward PERFORMANCE EVALUATION to member's new command.
+25. Ensure that members are rated by the command to which assigned or temporarily assigned on the last day of the rating period (conferrals may be made if required).
+   - a. If a member of the service is not observed during the rating period (i.e., sick report, leave, retired or resigned, etc.), an explanation, including dates, must be entered on PERFORMANCE EVALUATION.
 
-## RATER
+### Commanding Officer
 
-REVIEWER
+26. Ensure annual PERFORMANCE EVALUATIONS are completed and finalized by **January 31st** of each year.
 
-## RATEE
+> **Exam Alert:** The annual evaluation deadline is **January 31st**. This is a hard deadline for completing and finalizing all PERFORMANCE EVALUATIONS.
 
-RATER
+### When Reviewer Is in Disagreement with Rater's Evaluation
 
-## REVIEWER
+#### Reviewer
 
-a.
+27. Prepare additional PERFORMANCE EVALUATION if in disagreement with any portion of the rater's evaluation of ratee.
+   - a. Forward the additional PERFORMANCE EVALUATION to immediate supervisor for review by entering the immediate supervisor's tax registry number.
 
-a.
+#### Commanding Officer/Executive Officer
 
-27.
+28. Review the additional PERFORMANCE EVALUATION prepared by initial reviewer and add comments as the new reviewer.
+   - a. Submit the additional PERFORMANCE EVALUATION to initial reviewer.
 
-COMMANDING 28.
+#### Initial Reviewer
 
-OFFICER
+29. Discuss the additional PERFORMANCE EVALUATION with ratee after comments have been made by executive officer/commanding officer.
 
-REVIEWER
+### Additional Data
 
-b.
+- Members of the service are reminded that appraisal of subordinates' performance is a **continuous process**. The use of the Performance Evaluation System DOES NOT relieve supervisors of their responsibility to monitor and document subordinates' performance throughout the rating period.
+- When preparing a PERFORMANCE EVALUATION, the rater will take into account the ratee's performance concerning substantiated **equal employment opportunity (EEO)** violations. EEO factors will include whether the member has engaged in conduct that violates provisions of the Department Manual, Title VII, other applicable equal employment opportunity laws, or the Department's equal employment opportunity policy.
+- Raters will ensure that recognition is given to members who utilize their **language proficiency** for translation and interpretation in the performance of their regular duties, or as part of the Language Initiative Program. Any experience gained while serving as a translator/interpreter in criminal investigations will be included in the comments section.
+- Commanding officers will ensure that evaluations of volunteer members are **not negatively affected** by their assignment to translation/interpretation duties.
+- A uniformed member absent for the majority or entirety of a rating period due to **military service** is still entitled to receive a PERFORMANCE EVALUATION. Pursuant to New York State Military Law, take the **average of the three prior evaluations**, with a floor of **meets standards (68-76)** or the last pre-absence rating — whichever is higher. Note the military duty duration and cite NYS Military Law in comments. Direct questions to Performance Analysis Unit or Legal Bureau.
+- When a PERFORMANCE EVALUATION has been prepared in error, a report on Typed Letterhead will be submitted to the Performance Analysis Unit requesting that the PERFORMANCE EVALUATION be voided/deleted from the system.
 
-ine reviewer must be in ine tank of captain or above, or selecte civilian managerial titles.
+> **Exam Alert:** For this procedure, the military service evaluation floor is **"Meets Standards" (68-76)**, NOT "Satisfactory (3.0)" as in other evaluation procedures. This is because this procedure uses a 100-point scale rather than a 5.0 scale.
 
-If ratee is in any Performance Monitoring Program, the reviewer mu
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-04              | 05/03/24          | R.O. 24          | 3 of 4  |
-
-## COMMANDING OFFICER/ REVIEWER 23.
-
-26.
-
-a.
-
-Prepare interim PERFORMANCE EVALUATION if significant change occurs in ratee's performance or as otherwise directed.
-
-- a. If a ratee receives an overall evaluation of needs improvement or unsatisfactory (67 or lower) or is rated exceptional (90 or higher), the reviewer must be in the rank of captain or above, or selected civilian managerial titles.
-- b. If ratee is in any Performance Monitoring Program, the reviewer must be the commanding officer. The commanding officer will consult with all appropriate supervisors prior to making any comments.
-24. Review delinquent PERFORMANCE EVALUATIONS recapitulation in the PERF System under 'PERF Report,' frequently, to determine status of overdue PERFORMANCE EVALUATIONS . a.
-25. Direct rater being transferred or retiring to prepare PERFORMANCE EVALUATION for each member the rater is regularly required to evaluate, prior to transfer/retirement.
-26. Direct that a transfer PERFORMANCE EVALUATION be prepared for members transferred.
-- a. Forward PERFORMANCE EVALUATION to member's new command.
-27. Ensure that members are rated by the command to which assigned or temporarily assigned on the last day of the rating period (conferrals may be made if required).
-
-29.
-
-a.
-
-- a. If a member of the service is not observed during the rating period, (i.e., sick report, leave, retired or resigned, etc.), an explanation, including dates, must be entered on PERFORMANCE EVALUATION .
-
-COMMANDING OFFICER 28.
-
-Ensure annual PERFORMANCE EVALUATIONS are completed and finalized by January 31 st of each year.
-
-## WHENREVIEWERISINDISAGREEMENT WITH RATER'S EVALUATION
-
-<!-- image -->
-
-Prepare additional PERFORMANCE EVALUATION if in disagreement with any portion of the rater's evaluation of ratee.
-
-- a. Forward the additional PERFORMANCE EVALUATION to immediate supervisor for review by entering the immediate supervisor's tax registry number.
-
-## COMMANDING OFFICER/ EXECUTIVE OFFICER 30.
-
-Review the additional PERFORMANCE EVALUATION prepared by initial reviewer and add comments as the new reviewer.
-
-- a. Submit the additional PERFORMANCE EVALUATION to initial reviewer.
-
-## INITIAL REVIEWER
-
-31.
-
-- Discuss the additional PERFORMANCE EVALUATION with ratee after comments have been made by executive officer/commanding officer.
-
-NEW  YORK  CITY  POLICE  DEPARTMENT
-
-When preparing a PERFORMANCE EVALUATION, the rater will take into account th ratee's performance concerning substantiated equal employment opportunity (EEC
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-04              | 05/03/24          | R.O. 24          | 4 of 4  |
-
-## ADDITIONAL DATA
-
-Members of the service are reminded that appraisal of subordinates' performance is a continuous process. The use of the Performance Evaluation System DOES NOT relieve supervisors of their responsibility to monitor and document subordinates' performance throughout the rating period.
-
-When preparing a PERFORMANCE EVALUATION , the rater will take into account the ratee's performance concerning substantiated equal employment opportunity (EEO) violations. EEO factors having a bearing on the rating in that category will include, but not be limited to, whether the member has engaged in conduct that violates provisions of the Department Manual, Title VII, other applicable equal employment opportunity laws, or the Department's equal employment opportunity policy.
-
-In addition, raters will ensure that recognition is given to members who utilize their language proficiency for translation and interpretation in the performance of their regular duties, or as part of the Language Initiative Program. The use of this skill shall be afforded the same recognition as any other special skill needed by the Department. Any experience gained while serving as a translator/interpreter in criminal investigations will be included in the comments section of the PERFORMANCE EVALUATION .
-
-Commanding officers will ensure that evaluations of volunteer members are not negatively affected by their assignment to translation/interpretation duties. These tasks shall be evaluated as a proportionate part of their assigned duties.
-
-A uniformed member of the service who is absent for either the majority or the entirety of a rating period due to military service is still entitled to receive a PERFORMANCE EVALUATION . Pursuant to New York State Military Law, to compute the rating for such a member, raters are to take the average of the three PERFORMANCEEVALUATIONS that the member received prior to their absence for military duty. However, the credited rating must not be less than meets standards (68-76) or less than the rating that the member received for the period immediately prior to their absence for military service. In the comments section the rater will note the length of time the member was on military duty during the evaluation period and that the evaluation is being prepared pursuant to New York State Military Law. Additional questions concerning evaluations of members of the service absent from their positions due to military service may be directed to either the Performance Analysis Unit or the Legal Bureau.
-
-When a PERFORMANCE EVALUATION has been prepared in error, a report on Typed Letterhead will be submitted to the Performance Analysis Unit requesting that the PERFORMANCEEVALUATION be voided/deleted from the system.
-
-PROCEDURE
-
-RATER
-
-<!-- image -->
-
-PURPOSE
-
-PROCEDURE
-
-RATER
-
-2.
-
-NOTE
-
-NOTE
-
-RATER
-
-RATER
-
-RATER
-
-ADDITIONAL
-
-DATA
-
-leutenant is evaluated at least once each year.
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Evaluations
-
+> **Sergeant Focus:** You are responsible for monitoring and documenting subordinates' performance throughout the rating period — the PERF System does not relieve you of this continuous responsibility. Ensure quarterly evaluations are completed before starting annual evaluations, and be aware of the January 31st finalization deadline.
 ---
 
-# Section 331 — EVALUATIONS OF SERGEANTS/LIEUTENANTS
+# Section 331 — Evaluations of Sergeants and Lieutenants
 
-## A.G. 331-05
+## A.G. 331-05: Evaluations of Sergeants/Lieutenants
 
-DATE EFFECTIVE:
+**Date Effective:** 05/03/24 | **Last Revision:** R.O. 24 | **Pages:** 2
 
-LAST REVISION:
-
-PAGE:
-
-05/03/24
-
-R.O. 24
-
-1 of 2
-
-evaluation is only required for sergeants and lieutenants whose probation ha
+### Purpose
 
 To ensure that each uniformed member of the service in the rank of sergeant and lieutenant is evaluated at least once each year.
 
+### Procedure
+
+#### Rater
+
 Prior to the scheduled evaluation of uniformed members of the service:
 
-1. Evaluate probationary sergeants on form PERFORMANCE EVALUATION SERGEANT (Online Evaluation System) and probationary lieutenants on form PERFORMANCE EVALUATION LIEUTENANT (Online Evaluation System) , two times during their probationary period, at the fourth and tenth month. The sixteenth month evaluation is only required for sergeants and lieutenants whose probation has been extended.
+1. Evaluate **probationary sergeants** on form **PERFORMANCE EVALUATION SERGEANT** (Online Evaluation System) and **probationary lieutenants** on form **PERFORMANCE EVALUATION LIEUTENANT** (Online Evaluation System), **two times** during their probationary period, at the **fourth and tenth month**. The sixteenth month evaluation is only required for sergeants and lieutenants whose **probation has been extended**.
 
-Raters must conscientiously evaluate probationary sergeants and lieutenants to ensure that members who are unable to satisfactorily perform their duties are identified. Interim evaluations are to be submitted when necessary, (e.g., change in the ratee's performance, etc.).
+> **Exam Alert:** Probationary sergeants and lieutenants are evaluated at the **4th and 10th month** — not three times like probationary captains (who are evaluated at the 4th, 10th, and 16th month). The 16th month evaluation for sergeants/lieutenants applies **only** when probation is extended.
 
-2. Evaluate sergeants and lieutenants annually upon completion of their probationary period on appropriate PERFORMANCE EVALUATION REPORTS .
-3. Confer with commanding officer, when evaluating sergeants or lieutenants assigned as precinct detective squad supervisors/commanders. Record this conferral in the 'Overall Rater's Comments' section, noting the precinct commander's overall evaluation of the ratee.
+2. Evaluate sergeants and lieutenants **annually** upon completion of their probationary period on appropriate **PERFORMANCE EVALUATION REPORTS**.
 
-## REVIEWER 4. Review and sign EVALUATION
+3. **Confer with commanding officer** when evaluating sergeants or lieutenants assigned as precinct detective squad supervisors/commanders. Record this conferral in the **'Overall Rater's Comments'** section, noting the precinct commander's overall evaluation of the ratee.
 
-RATER
+> **Sergeant Focus:** Raters must **conscientiously evaluate** probationary sergeants and lieutenants to ensure members unable to satisfactorily perform their duties are identified. **Interim evaluations** must be submitted when necessary (e.g., change in the ratee's performance). Do not wait for scheduled evaluation periods if performance issues arise.
 
-ADDITIONAL DATA
+#### Reviewer
 
-5.
+4. Review and sign **EVALUATION**.
 
-.
+#### Rater (continued)
 
-Forward completed PERFORMANCE EVALUATIONS via Department Intranet by finalizing the PERFORMANCEEVALUATION online.
+5. Forward completed **PERFORMANCE EVALUATIONS** via Department Intranet by finalizing the **PERFORMANCE EVALUATION** online.
+   - a. Ensure a **signed copy** of the PERFORMANCE EVALUATION is printed out for **probationary sergeants** and **probationary lieutenants** and forwarded to **Probationary Monitoring Unit, One Police Plaza, Room 1000**.
 
-- a. Ensure a signed copy of the PERFORMANCE EVALUATION is printed out for probationary sergeants and probationary lieutenants and forwarded to Probationary Monitoring Unit, One Police Plaza, Room 1000.
+> **Exam Alert:** Signed copies of the performance evaluation must be printed and forwarded to Probationary Monitoring Unit, Room 1000 — but this applies **only to probationary members**, not to permanent sergeants or lieutenants.
 
-Rater performing evaluation of a precinct detective squad supervisor or commander will confer with the precinct commanding officer to ascertain the commanding officer's overall evaluation of the precinct detective squad supervisor/commander's performance. Conferral with the precinct commanding officer and the precinct commanding officer's overall evaluation will be noted in the RATER COMMENTS section of the precinct detective squad supervisor/commander's annual performance evaluation.
+#### Rater Note — Precinct Detective Squad Supervisors/Commanders
 
-5.
+Rater performing evaluation of a precinct detective squad supervisor or commander **will confer with the precinct commanding officer** to ascertain the commanding officer's overall evaluation of the precinct detective squad supervisor/commander's performance. Conferral with the precinct commanding officer and the precinct commanding officer's overall evaluation will be noted in the **RATER COMMENTS** section of the precinct detective squad supervisor/commander's annual performance evaluation.
 
-a.
+### Additional Data
 
-than the rating that the member received for the period immediately prior to their absence for milita service. In the 'Overall Rater's Comments' caption the rater will note the length of time the membe
+#### Military Service Evaluations
 
-## ADMINISTRATIVE GUIDE
+A uniformed or civilian member of the service who is absent for either the majority or the entirety of a rating period due to **military service** is still entitled to receive a **PERFORMANCE EVALUATION**. Pursuant to **New York State Military Law**, to compute the rating for such a member, raters are to:
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-05              | 05/03/24          | R.O. 24          | 2 of 2  |
+1. Take the **average of the three PERFORMANCE EVALUATIONS** that the member received prior to their absence for military duty.
+2. Ensure the credited rating is **not less than satisfactory (3.0)** and **not less than the rating** that the member received for the period immediately prior to their absence for military service.
+3. In the **'Overall Rater's Comments'** caption, note:
+   - The **length of time** the member was on military duty during the evaluation period
+   - That the evaluation is being prepared **pursuant to New York State Military Law**
 
-## ADDITIONAL DATA (continued)
+Additional questions concerning evaluations of members of the service absent from their positions due to military service may be directed to either the **Performance Analysis Unit** or the **Legal Bureau**.
 
-Auniformed or civilian member of the service who is absent for either the majority or the entirety of a rating period due to military service is still entitled to receive a PERFORMANCEEVALUATION . Pursuant to New York State Military Law, to compute the rating for such a member, raters are to take the average of the three PERFORMANCEEVALUATIONS that the member received prior to their absence for military duty. However, the credited rating must not be less than satisfactory (3.0) or less than the rating that the member received for the period immediately prior to their absence for military service. In the 'Overall Rater's Comments' caption the rater will note the length of time the member was on military duty during the evaluation period and that the evaluation is being prepared pursuant to New York State Military Law. Additional questions concerning evaluations of members of the service absent from their positions due to military service may be directed to either the Performance Analysis Unit or the Legal Bureau.
+> **Exam Alert:** The military service evaluation formula requires the **average of the three prior evaluations**, with a **floor of satisfactory (3.0)** and a floor of the member's **last rating before military absence** — whichever is higher. The rater must document the military duty duration and cite NYS Military Law in the comments.
 
-DEBALENT
-
-CITY
-
-NEW
-
-<!-- image -->
-
-PROCEDURE
-
-RATER
-
-NOTE
-
-RATER
-
-NOTE
-
-through deputy chiet, as well as police surgeons and deputy chiet surgeon 1
-
-evaluated at least once each year.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Evaluations
-
+> **Sergeant Focus:** As a rater, you are responsible for applying the military service evaluation rules correctly. Key details: (1) average of 3 prior evaluations, (2) floor is the higher of satisfactory (3.0) or the last pre-absence rating, (3) mandatory notation in Rater's Comments citing NYS Military Law and duration of military duty. Direct questions to Performance Analysis Unit or Legal Bureau.
 ---
 
-# Section 331 — EVALUATION OF CAPTAIN THROUGH DEPUTY CHIEF
+# Section 331 — Evaluation of Captain Through Deputy Chief
 
 ## A.G. 331-06
 
-DATE EFFECTIVE:
+**Effective:** 08/20/25 | **Last Revision:** R.O. 75 | **Pages:** 1-2
 
-LAST REVISION:
+### Purpose
 
-PAGE:
+To ensure that each uniformed member of the service in the rank of captain through deputy chief, as well as police surgeons and deputy chief surgeon, is evaluated at least once each year.
 
-08/20/25
+> **Exam Alert:** Probationary captains are evaluated **three times** during their probationary period: at the **4th, 10th, and 16th month**. This is different from probationary sergeants/lieutenants (4th and 10th month only). The 16th month evaluation is required for captains even if probation is not extended.
 
-R.O. 75
-
-1 of 2
-
-All newly promoted captains are on probation for a period of twelve months unles
-
-PURPOSE
-
-To ensure that each uniformed member of the service in the rank of captain through deputy chief, as well as police surgeons and deputy chief surgeon is evaluated at least once each year.
-
-PROCEDURE
+### Procedure — Rater
 
 During the evaluation period:
 
-officer, may be rated using the Online Evaluation System on the Department Intrane
+1. Evaluate **probationary captains** three times during probationary period, on the **4th, 10th, and 16th month**, using the Online Evaluation System on the Department Intranet.
+2. Evaluate permanent captains through deputy chiefs, as well as police surgeons and deputy chief surgeons, using the Online Evaluation System on the Department Intranet.
 
-RATER
+> **Exam Alert:** The evaluation instrument for captains through deputy chiefs is based on a **Management By Objectives (MBO)** system, NOT the regular PERF system. This system is flexible, allowing changes to Key Result Areas as circumstances dictate.
 
-NOTE
-
-RATER
-
-1. Evaluate probationary captains three times during probationary period, on the 4 th , 10 th , and 16 th month, if necessary, using the Online Evaluation System on the Department Intranet.
-
-3.
-
-5.
-
-NOTE
-
-7.
-
-REVIEWER
-
-RATER
-
-All newly promoted captains are on probation for a period of twelve months unless cause exists to extend such period for an additional six months. Extension of probation beyond twelve months may be authorized on a case-by-case basis. Interim performance evaluations are to be submitted when necessary (e.g., change in the ratee's performance, etc). Raters must conscientiously evaluate probationary captains to ensure that members who are unable to satisfactorily perform their duties are identified. Those members in the rank of captain who are on probation, yet are serving in the capacity of commanding officer, may be rated using the Online Evaluation System on the Department Intranet. The bureau chief concerned will make the determination of which evaluation instrument is best suited to the ratee.
-
-2. Evaluate permanent captains through deputy chiefs, as well as police surgeons and deputy chief surgeons using the Online Evaluation System on the Department Intranet.
-
-This evaluation instrument is based on a Management By Objectives (MBO) system. This system is flexible, allowing changes to be made to each Key Result Area as circumstances dictate. This allows raters and ratees to better address actual problems and priorities as they arise.
-
-3.
-
-- Discuss and define five Key Result Areas (KRAs) with the ratee at the beginning of the rating period.
-4. Discuss and define the 'Performance Expectations' for each KRA and the 'Action Plans' by which to attain results.
+3. Discuss and define **five Key Result Areas (KRAs)** with the ratee at the beginning of the rating period.
+4. Discuss and define the **'Performance Expectations'** for each KRA and the **'Action Plans'** by which to attain results.
 5. Record the KRAs and 'Performance Expectations' in the evaluation.
-6. Record the actual 'Performance Achievements' in the evaluation at the end of the rating period.
-7. Discuss and measure the individual's performance during the postappraisal interview, using the predetermined criteria.
+6. Record the actual **'Performance Achievements'** in the evaluation at the end of the rating period.
+7. Discuss and measure the individual's performance during the **post-appraisal interview**, using the predetermined criteria.
 8. Review and sign evaluation.
-9. Forward a copy of the evaluation to the Human Resources Division at beginning of rating period (July 1st.).
+9. Forward a copy of the evaluation to the **Human Resources Division** at beginning of rating period (**July 1st**).
 
-evaluations.
+> **Exam Alert:** A.G. 331-06 uses **July 1st** as the rating period start for forwarding evaluations to Human Resources Division. This differs from A.G. 331-07 (assistant chiefs and above) which uses **January 1st**.
 
-## ADMINISTRATIVE GUIDE
+### Reviewer
 
-military duty. However, the credited rating must not be less than satisfactory (3.0) or less than th
+Review and sign evaluation.
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-06              | 08/20/25          | R.O. 75          | 2 of 2  |
+### Additional Data
 
-## ADDITIONAL DATA
+- Captains assigned as precinct commanders will be rated by **patrol borough operations commander** and the patrol borough commander will serve as the reviewing officer.
+- Deputy Inspectors and above assigned as precinct commanders will be rated by the **patrol borough adjutant** and the patrol borough commanding officer will serve as the reviewing officer.
+- Rater will use the Online Evaluation System for all captain evaluations.
+- All newly promoted captains are on probation for a period of **twelve months** unless cause exists to extend such period for an additional six months.
+- Extension of probation beyond twelve months may be authorized on a **case-by-case basis**.
+- Interim performance evaluations are to be submitted when necessary (e.g., change in the ratee's performance).
+- Those members in the rank of captain who are on probation, yet are serving in the capacity of commanding officer, may be rated using the Online Evaluation System on the Department Intranet. The **bureau chief concerned** will make the determination of which evaluation instrument is best suited to the ratee.
 
-Captains assigned as precinct commanders will be rated by patrol borough operations commander and the patrol borough commander will serve as the reviewing officer. Deputy Inspectors and above assigned as precinct commanders will be rated by the patrol borough adjutant and the patrol borough commanding officer will serve as the reviewing officer. Rater will use the Online Evaluation System for all captain evaluations.
+#### Military Service Evaluations
 
-DEBALENT
+A uniformed or civilian member of the service who is absent for either the majority or the entirety of a rating period due to military service is still entitled to receive a performance evaluation. Pursuant to **New York State Military Law**, to compute the rating for such a member, raters are to:
 
-Auniformed or civilian member of the service who is absent for either the majority or the entirety of a rating period due to military service is still entitled to receive a performance evaluation. Pursuant to New York State Military Law, to compute the rating for such a member, raters are to take the average of the three performance evaluations that the member received prior to their absence for military duty. However, the credited rating must not be less than satisfactory (3.0) or less than the rating that the member received for the period immediately prior to their absence for military service. In the 'Overall Rater's Comments' caption the rater will note the length of time the member was on military duty during the evaluation period and that the evaluation is being prepared pursuant to New York State Military Law. Additional questions concerning evaluations of members of the service absent from their positions due to military service may be directed to either the Performance Analysis Unit or the Legal Bureau.
+1. Take the **average of the three PERFORMANCE EVALUATIONS** that the member received prior to their absence for military duty.
+2. Ensure the credited rating is **not less than satisfactory (3.0)** and **not less than the rating** that the member received for the period immediately prior to their absence for military service.
+3. In the **'Overall Rater's Comments'** caption, note the length of time the member was on military duty during the evaluation period and that the evaluation is being prepared pursuant to New York State Military Law.
 
-CITY
+Additional questions concerning evaluations of members absent due to military service may be directed to either the **Performance Analysis Unit** or the **Legal Bureau**.
 
-NEW
+> **Exam Alert:** The military service evaluation formula requires the **average of the three prior evaluations**, with a **floor of satisfactory (3.0)** and a floor of the member's **last rating before military absence** — whichever is higher.
 
-<!-- image -->
-
-PROCEDURE
-
-POLICE
-
-RATER
-
-CITY
-
-NEW
-
-During the evaluation period:
-
-## ADMINISTRATIVE GUIDE
-
-a.
-
-<!-- image -->
-
-## PURPOSE
-
-PROCEDURE
-
-NOTE
-
-RATER
-
-REVIEWER
-
-COMMANDING
-
-8.
-
-OFFICER/
-
-NOTE
-
-HEAD
-
-NEW
-
-Section:
-
-Evaluations
-
+> **Sergeant Focus:** While this procedure covers captains and above, know the MBO system (5 KRAs) and the 4th/10th/16th month probation timeline. Also know the military service formula (average of 3 prior, floor of 3.0 or last rating) — it applies across all evaluation procedures.
 ---
 
-# Section 331 — EVALUATION OF ASSISTANT CHIEFS AND ABOVE/CIVILIAN MANAGERS
+# Section 331 — Evaluation of Assistant Chiefs and Above/Civilian Managers
 
 ## A.G. 331-07
 
-DATE EFFECTIVE:
+**Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Page:** 1 of 1
 
-LAST REVISION:
+### Purpose
 
-PAGE:
+To ensure that each uniformed member of the service in the rank of assistant chief and above, as well as civilian employees in the management pay plan, is evaluated at least once each year.
 
-11/18/21
-
-I.O. 110
-
-1 of 1
-
-To  ensure  that  each  uniformed  member  of  the  service  in  the  rank  of  assistant chief  and  above  as  well  as  civilian  employees  in  the  management  pay  plan,  is evaluated at least once each year.
+### Procedure
 
 During the evaluation period:
 
-1. Discuss  key  responsibilities  and  performance  expectations  with  ratee  at  the beginning of the evaluation period.
-- a. If ratee's immediate supervisor is transferred during the rating period, the newly assigned rater will discuss the previously determined responsibilities and expectations and determine if revisions are required.
-2. Record the key responsibilities and performance expectations in section 'A' of MANAGERIAL PERFORMANCE EVALUATION (PD439-1521) . Assign an importance level to each responsibility.
-3. Record  in  section  'B'  the  relative  importance  of  each  of  the  pre-identified Citywide  responsibilities  and  performance  expectations  to  the  ratee's  specific position.
-4. Forward a copy of MANAGERIAL PERFORMANCE EVALUATION to the Human Resources Division at the beginning of the rating period (January 1st).
+**RATER:**
 
-A revision in performance expectations or key responsibilities may be made at any time during the evaluation period. When a revision is made, the ratee must be notified and a new MANAGERIAL PERFORMANCE EVALUATION must be prepared, including a notation identifying the change, signed by both the rater and ratee.
+1. Discuss key responsibilities and performance expectations with ratee at the beginning of the evaluation period.
+   - a. If ratee's immediate supervisor is transferred during the rating period, the newly assigned rater will discuss the previously determined responsibilities and expectations and determine if revisions are required.
+2. Record the key responsibilities and performance expectations in section "A" of **MANAGERIAL PERFORMANCE EVALUATION (PD439-1521)**. Assign an importance level to each responsibility.
+3. Record in section "B" the relative importance of each of the pre-identified Citywide responsibilities and performance expectations to the ratee's specific position.
+4. Forward a copy of **MANAGERIAL PERFORMANCE EVALUATION** to the Human Resources Division at the beginning of the rating period (**January 1st**).
+
+> **NOTE:** *A revision in performance expectations or key responsibilities may be made at any time during the evaluation period. When a revision is made, the ratee must be notified and a new **MANAGERIAL PERFORMANCE EVALUATION** must be prepared, including a notation identifying the change, signed by both the rater and ratee.*
 
 5. Assign ratings to key responsibilities and discuss with ratee at end of rating period.
-6. Forward  completed MANAGERIAL PERFORMANCE EVALUATION to reviewer.
+6. Forward completed **MANAGERIAL PERFORMANCE EVALUATION** to reviewer.
 
-## REVIEWER 7 .
+**REVIEWER:**
 
-Review, sign and forward completed MANAGERIAL PERFORMANCE EVALUATION to the Human Resources Division.
+7. Review, sign and forward completed **MANAGERIAL PERFORMANCE EVALUATION** to the Human Resources Division.
 
-## COMMANDING OFFICER/ SUPERVISORY 8.
+**COMMANDING OFFICER/SUPERVISORY HEAD:**
 
-Ensure that an evaluation is prepared and forwarded to the Human Resources Division if ratee is transferred during rating period.
+8. Ensure that an evaluation is prepared and forwarded to the Human Resources Division if ratee is transferred during rating period.
 
-## HEAD
+**NEW COMMANDING OFFICER/SUPERVISORY HEAD:**
 
-NEW COMMANDING OFFICER/ SUPERVISORY HEAD
+9. Discuss key responsibilities and performance expectations with ratee and enter on new **MANAGERIAL PERFORMANCE EVALUATION**.
 
-9. Discuss key responsibilities and performance expectations with ratee and enter on new MANAGERIAL PERFORMANCE EVALUATION.
+> **Exam Alert — January 1st vs. July 1st Submission:** A.G. 331-07 requires the **MANAGERIAL PERFORMANCE EVALUATION** to be forwarded to Human Resources Division at the beginning of the rating period — **January 1st**. This is different from A.G. 331-06 (Captain through Deputy Chief), which requires submission at **July 1st**. The exam may test whether you know which date applies to which rank group.
 
-PROCEDURE
+> **Exam Alert — Revision Requires New Evaluation and Dual Signatures:** When key responsibilities or performance expectations are revised during the rating period, a **new** MANAGERIAL PERFORMANCE EVALUATION must be prepared — not just an amendment. The new evaluation must include a notation identifying the change and must be **signed by both the rater and ratee**. This dual-signature requirement is unique to this procedure.
 
-RATER
+> **Exam Alert — Transferred Rater Must Review Previous Expectations:** If the ratee's immediate supervisor is transferred during the rating period, the newly assigned rater must discuss the **previously determined** responsibilities and expectations and determine if revisions are required. The new rater does not start from scratch — they review and potentially revise what was already established.
 
-NOTE
+> **Sergeant Focus — Supervisory Head Role:** The "Commanding Officer/Supervisory Head" and "New Commanding Officer/Supervisory Head" roles in this procedure underscore that even high-ranking members have supervisory accountability. As a sergeant, you will not rate assistant chiefs, but you should understand that the evaluation system extends to all ranks — and the principle that transferred ratees must still receive evaluations is universal across all A.G. 331 procedures.
 
-least once each year.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Evaluations
-
+### Sergeant Exam Focus
+- Applies to **assistant chief and above** (uniformed) and **civilian employees in the management pay plan**
+- Form: **MANAGERIAL PERFORMANCE EVALUATION (PD439-1521)**
+- Section "A": key responsibilities and performance expectations with importance levels
+- Section "B": relative importance of Citywide responsibilities to ratee's specific position
+- Forward copy to **Human Resources Division at beginning of rating period (January 1st)**
+- Revisions require a **new evaluation** with notation and **dual signatures** (rater and ratee)
+- Ratings assigned at **end** of rating period, then discussed with ratee
+- Reviewer signs and forwards to **Human Resources Division**
+- If ratee transferred: CO/Supervisory Head ensures evaluation is still prepared and forwarded
+- New CO/Supervisory Head discusses expectations and enters on new evaluation form
 ---
 
 # Section 331 — EVALUATION OF SUB-MANAGERIAL CIVILIAN PERSONNEL
 
 ## A.G. 331-08
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 08/20/25          | R.O. 75          | 1 of 2  |
+*Effective 08/20/25 | R.O. 75 | 2 pages*
 
-Resources Division.
+---
 
-PURPOSE
-
-3.
+### PURPOSE
 
 To ensure that sub-managerial civilian members of the service are evaluated at least once each year.
 
-COMMANDING 5.
+---
 
-PROCEDURE
+### PROCEDURE
 
-During the evaluation period:
+#### During the Evaluation Period
 
-RATER
+## RATER
 
 1. Inform ratee at beginning of evaluation period of principal tasks and standards upon which ratings will be based.
-
-NOTE
-
-A list of tasks and standards specific to each civilian title may be obtained from the Human Resources Division.
-
-RATER
-
-2. Record tasks and standards using the Online Evaluation System on the Department Intranet.
+   - **NOTE:** A list of tasks and standards specific to each civilian title may be obtained from the **Human Resources Division**.
+2. Record tasks and standards using the **Online Evaluation System** on the Department Intranet.
 3. Discuss tasks and standards entered on form with ratee.
-- a. Enter date and sign form.
-- b. Give form to ratee for signature.
+   - a. Enter date and sign form.
+   - b. Give form to ratee for signature.
 4. Submit form to reviewer for examination and signature.
-
-a.
-
-b.
-
-a.
-
-## COMMANDING OFFICER 5.
-
-REVIEWER
-
-Prepare and forward Typed Letterhead to the Human Resources Division, indicating that all sub-managerial civilian personnel have been interviewed concerning tasks and expected standards of performance.
-
-9.
-
-RATER 6. a.
-
-<!-- image -->
-
-## COMMANDING OFFICER 10.
-
-Complete 'Actual Performance Section' of the evaluation at the conclusion of rating period.
-
-- a. Complete appropriate captions on page 1 of form.
-- b. Rater prepares an original and two additional copies.
-
-Discuss completed evaluation with ratee.
-
-- a. Have ratee sign all three copies (this signature does not mean that ratee agrees with evaluation).
-- b. Supply one copy to ratee.
-3. Forward original and one copy to reviewer.
-
-Examine and sign form.
-
-- a. After review, forward one copy to commanding officer.
-- b. File remaining copy in ratee's personal folder at command.
-
-Forward original to the Human Resources Division with Typed Letterhead listing members who have been evaluated.
-
-However, the credited rating must not be less than satisfactory (3.0) or less than th rating that the member received for the period immediately prior to his/her absence fo
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-08              | 08/20/25          | R.O. 75          | 2 of 2  |
-
-## ADDITIONAL DATA
-
-When including:
-
-A uniformed or civilian member of the service who is absent for either the majority or the entirety of a rating period due to military service is still entitled to receive a performance evaluation. Pursuant to New York State Military Law, to compute the rating for such a member, raters are to take the average of the three performance evaluations that the member received prior to his/her absence for military duty. However, the credited rating must not be less than satisfactory (3.0) or less than the rating that the member received for the period immediately prior to his/her absence for military service. In the 'Overall Rater's Comments:' caption the rater will note the length of time the member was on military duty during the evaluation period and that the evaluation is being prepared pursuant to New York State Military Law. Additional questions concerning evaluations of members of the service absent from their positions due to military service may be directed to either the Performance Analysis Unit or the Legal Bureau.
-
-When a sub-managerial civilian member is transferred, the commanding officer/supervisory head will direct that the performance evaluation is completed and forwarded to the Human Resources Division. The ratee will be given a copy of the evaluation. The immediate supervisor in the new command will prepare a new performance evaluation listing tasks and standards of the ratee's new assignment.
-
-If ratee performs below competent standard in the overall evaluation rating, the commanding officer MUST be the reviewer.
-
-Comment on all areas rated BELOW STANDARDS or WELL BELOW STANDARDS and all areas rated ABOVE STANDARDS or WELL ABOVE STANDARDS.
-
-If excessive absence, tardiness or poor performance are cited as reasons for a BELOW STANDARDS or WELL BELOW STANDARDS rating, include a copy of the appropriate form including: CIVILIAN RECORD OF SUPERVISORY CONFERENCES (SUBMANAGERIAL) (PD433-1411) , CIVILIAN LATENESS/WARNING NOTIFICATION (PD449-122) , or CIVILIAN UNSATISFACTORY PERFORMANCE WARNING (PD439012) , when appropriate.
-
-<!-- image -->
-
-SCOPE
-
-PROCEDURE
-
-UNIFORMED
-
-MEMBER OF
-
-THE SERVICE
-
-NOTE
-
-## PROCEDURE
-
-## UNIFORMED MEMBEROF THE SERVICE
-
-NOTE
-
-officers/detective specialists assigned to non-investigative Bureaus.
-
-<!-- image -->
-
-## PURPOSE
-
-## SCOPE
-
-a.
-
-detective
-
-## ADMINISTRATIVE GUIDE
-
-Section: Evaluations
-
-Procedure No: 331-09
-
-## POLICE OFFICER/DETECTIVE SPECIALIST MONTHLY/ QUARTERLY PERFORMANCE REVIEW AND RATING SYSTEM
-
-DATE EFFECTIVE:
-
-LAST REVISION:
-
-PAGE:
-
-10/24/25
-
-R.O. 107
-
-1 of 5
-
-To evaluate the monthly and quarterly performance, when applicable, of police officers/detective specialists assigned to non-investigative Bureaus.
-
-The Police Officer/Detective Specialist Monthly/Quarterly Performance Review, utilizing the OFFICER PROFILE REPORT , measures the performance levels of uniformed members of the service performing enforcement functions.
-
-Police officers/detective specialists assigned to non-investigative Bureaus (e.g., precinct, police service area [PSA], transit district, Strategic Response Group, etc.) performing enforcement functions will be assessed monthly utilizing the OFFICER PROFILE REPORT and evaluated quarterly using the SUPERVISOR'S QUARTERLY EVALUATION .
-
-Officer/Detective
-
-Specialis
-
-Uniformed members of the service whose duties do not involve enforcement activity will not prepare the OFFICER PROFILE REPORT nor be evaluated quarterly using the SUPERVISOR'S QUARTERLY EVALUATION . Such positions include:
-
-- a. Community Affairs Officer,
-- b. Administrative Quality of Life Officer,
-- c. Crime Prevention Coordinator, and
-- d. Auxiliary Police Coordinator.
-
-When preparing monthly/quarterly performance reviews of police officers and detective specialists utilizing the Police Officer/Detective Specialist Monthly/Quarterly Performance Review:
-
-1. Access the Performance Evaluation System and print out a hard copy of the OFFICER PROFILE REPORT at the conclusion of each month.
-
-The OFFICER PROFILE REPORT is an electronic form that is generated in the Performance Evaluation System, which compiles data from numerous Department databases to provide an accurate account of a uniformed member's performance. It will include statistical data (e.g., 7 Majors, Top 911 Locations, Top Collision Locations, etc.) unique to the precinct and platoon to which the reporting member is assigned. In addition, the OFFICER PROFILE REPORT will contain information from OFFICER SELF - REPORT FORMS and the SUPERVISORFEEDBACKFORMS , when submitted (see ADDITIONAL DATA).
-
-2. Review and submit OFFICER PROFILE REPORT to designated supervisor for review by the second day of the following month.
-- a. Submit REPORT prior to leave, or if not possible, without delay upon return to duty if scheduled for vacation or other leave.
-- b. Inform designated supervisor of any excessive time off patrol for the reported month due to vacation, sick, administrative duties, details, etc.
-
-NEW  YORK  CITY  POLICE  DEPARTMENT
-
-SUPERVISOR
-
-a.
-
-Evaluate the uniformed member's performance in proactivel addressing community concerns.
-
-## ADMINISTRATIVE GUIDE
-
-(1)
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-09              | 10/24/25          | R.O. 107         | 2 of 5  |
-
-NOTE
-
-## DESIGNATED SUPERVISOR
-
-PLATOON
-
-6.
-
-COMMANDER
-
-OR OTHER
-
-REVIEWER
-
-OPERATIONS
-
-COORDINATOR
-
-COMMANDING 9.
-
-The designated supervisor or another supervisor may print the OFFICER PROFILE REPORT for the uniformed member concerned, if the member is unavailable for an extended period due to vacation or other leave.
-
-3.
-
-Review member's
-
-OFFICER PROFILE REPORT
-
-.
-
-- a. Evaluate the uniformed member's performance in proactively addressing community concerns.
-- b. Assess the quality and caliber of the member's efforts by carefully reviewing activity including, SUPERVISOR FEEDBACK FORMS and OFFICERSELF-REPORTFORMS .
-- (1) Determine the accuracy, validity, and integrity of the OFFICER SELF-REPORT FORMS .
-- c. Provide positive feedback and comments for proactive and quality activity.
-- d. Compare member's current monthly performance to other members with similar duties by referring to the 'Officer Comparison' page of the OFFICER PROFILE REPORT .
-- e. Provide guidance and direction for improvement and conduct regular follow-ups, when a deficiency is identified.
-- (1) Take appropriate steps to improve the uniformed member's performance. These steps include, but are not limited to, assisting the uniformed member in identifying the conditions to be addressed.
-- (2) If member fails to improve performance, confer with platoon commander/special operations lieutenant or next higher supervisor.
-4. Sign OFFICER PROFILE REPORT .
-
-OFFICER
-
-5. Deliver completed OFFICER PROFILE REPORTS to platoon commander or other reviewer by the fifth day of the following month.
-
-PLATOON COMMANDER OR OTHER REVIEWER 6. 7.
-
-OPERATIONS COORDINATOR 8.
-
-COMMANDING OFFICER 9.
-
-Review and sign OFFICER PROFILE REPORTS .
-
-Forward completed OFFICER PROFILE REPORTS to operations coordinator by the seventh day of the month for filing.
-
-File copies of OFFICER PROFILE REPORTS .
-
-Log into Performance Evaluation System periodically, and review completed OFFICER PROFILE REPORTS .
-
-## EACH JANUARY, APRIL, JULY AND OCTOBER
-
-- DESIGNATED SUPERVISOR 10. Log into the Performance Evaluation System to conduct SUPERVISOR'S QUARTERLY EVALUATION within seven days following the quarter for which the review is due (e.g., January-March, April-June, July-September and October-December).
-
-NEW  YORK  CITY  POLICE  DEPARTMENT
-
-C.
-
-e.
-
-(1)
-
-(2)
-
-NOTE
-
-PLATOON
-
-NOTARAININ
-
-NOTE
-
-## PLATOON COMMANDER OR OTHER
-
-REVIEWER
-
-C.
-
-a.
-
-Meels Standaras. Examples of documentation incluae, Ol are not limited to, SUPERVISOR FEEDBACK FORMI
-
-OFFICER SELF-REPORT FORMS, and content listed o
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-09              | 10/24/25          | R.O. 107         | 3 of 5  |
-
-## DESIGNATED SUPERVISOR (continued)
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-(3)
-
-- a. Review activity for all three months of the quarter.
-- b. Rate uniformed member of the service in each of twelve performance areas and be guided by instructions on the electronic form.
-
-(1)
-
-- (1) Documentation is mandatory for any rating above or below 'Meets Standards.' Examples of documentation include, but are not limited to, SUPERVISOR FEEDBACK FORMS , OFFICER SELF-REPORT FORMS , and content listed on the OFFICER PROFILE REPORT .
-
-(2)
-
-- (2) SUPERVISOR FEEDBACK FORMS , OFFICER SELFREPORT FORMS and above average activity on the OFFICER PROFILE REPORT are to be considered to support rating criteria.
-- (3) Performance Evaluation System in the Department Intranet will automatically calculate members rating as a score out of 100 points based on ratings.
-- c. In the 'Supervisory Comments' section of the SUPERVISOR'S QUARTERLY EVALUATION , note the following:
-- (1) Any outstanding action or achievement. Examples of outstanding action or achievement include, bribery arrests, pattern robbery arrest or other action, which significantly impacts on crime or issues of community concern
-- (2) Any deficiencies or areas that need improvement. Include notation if member is designated chronic sick, subject of any disciplinary action or placed on performance monitoring.
-11. Discuss ratee's SUPERVISOR'S QUARTERLY EVALUATION with platoon commander or other reviewer.
-12. Sign off on completed evaluation.
-13. Interview member in a private setting and discuss overall performance.
-- a. Review evaluation with member.
-14. Forward evaluation to the platoon commander or other reviewer by the seventh day of the month following reporting period.
-
-If a member consistently fails to perform at satisfactory levels, the supervisor will confer with the platoon commander or next higher level supervisor regarding referring the member for performance monitoring. Each quarter, the commanding officer will review all under-performing members and notify the next higher command in writing of action taken and/or recommended.
-
-15. Log into the Performance Evaluation System to review SUPERVISOR'S QUARTERLY EVALUATION .
-- a. If reviewer concurs with rater's evaluation:
-- (1) Sign off and enter comments.
-- b. If reviewer disagrees with rater's evaluation:
-
-(continued)
-
-NOTE
-
-(11)
-
-prepare separate evaluation, II appropriate.
-
-SUPERVISOR'S QUARTERLY EVALUATION rating score will not be finalized unt
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-09              | 10/24/25          | R.O. 107         | 4 of 5  |
-
-captain or above) will make the final determination.
-
-## PLATOON COMMANDER OR OTHER REVIEWER (continued)
-
-## NOTE
-
-COMMANDING
-
-OFFICER
-
-18.
-
-19.
-
-a.
-
-## OPERATIONS COORDINATOR
 
 ## COMMANDING OFFICER
 
-NEXT HIGHER
+5. Prepare and forward **Typed Letterhead** to the Human Resources Division, indicating that all sub-managerial civilian personnel have been interviewed concerning tasks and expected standards of performance.
 
-21.
+> **Sergeant Focus:** As a rater, you must inform the civilian ratee of the tasks and standards at the **beginning** of the evaluation period — not mid-period or after the fact. Failure to do so can invalidate the evaluation on appeal.
 
-COMMAND
+#### At the Conclusion of the Rating Period
 
-Deliver
+## RATER
 
-- (1) Confer with rater and direct rater to re-evaluate performance based on conferral and review of activity.
-- (2) If reviewer still disagrees with rater:
-3. (i) Sign and enter reasons for disagreement in comments
-4. (ii) Prepare separate evaluation, if appropriate.
+6. Complete **'Actual Performance Section'** of the evaluation at the conclusion of the rating period.
+   - a. Complete appropriate captions on page 1 of form.
+   - b. Prepare an original and two additional copies.
+7. Discuss completed evaluation with ratee.
+   - a. Have ratee sign all three copies (**this signature does not mean that ratee agrees with evaluation**).
+   - b. Supply one copy to ratee.
+8. Forward original and one copy to reviewer.
 
-SUPERVISOR'S QUARTERLY EVALUATION rating score will not be finalized until platoon commander or other reviewer reviews and concurs with rating.
+> **Exam Alert:** The ratee's signature on the evaluation form does **not** constitute agreement with the evaluation. It merely acknowledges receipt. This is a commonly tested distinction.
 
-SUPERVISOR'S QUARTERLY EVALUATION may be appealed to the next higherranking supervisor. In all cases, the member's commanding officer (in the rank of captain or above) will make the final determination.
+## REVIEWER
 
-16. Deliver printed copy of SUPERVISOR'S QUARTERLY EVALUATION to the operations coordinator by the tenth day of the month following the reporting period.
-17. Ensure SUPERVISOR'S QUARTERLY EVALUATIONS are finalized by the fifteenth day of the month following the reporting period.
-18. Access the Performance Evaluation system and review SUPERVISOR'S QUARTERLY EVALUATIONS .
-19. Personally conduct performance interview for those members who receive a numerical score of 67 or lower (out of 100) for any quarter.
-- a. Provide direction and/or take necessary corrective action to improve member's performance.
-- b. Inform member that continued below standard performance will, absent mitigating circumstances, results in the member being placed on performance monitoring and possible imposition of sanctions by the Personnel Review Board concerned.
-- c. Record and file results of interview.
-8. Notify next higher command in writing of uniformed members of the service
-9. who received a score of 67 or lower in any two quarters within a one year period.
+9. Examine and sign form.
+   - a. After review, forward one copy to commanding officer.
+   - b. File remaining copy in ratee's personal folder at command.
 
-Provide oversight and direction in monitoring and improving a uniformed member's performance when they are underperforming.
+## COMMANDING OFFICER
 
-Establish a Personnel Review Board to review all cases of members who receive a score of 67 or lower in any two quarters within a one year period.
+10. Forward original to the **Human Resources Division** with **Typed Letterhead** listing members who have been evaluated.
 
-- a. Select a minimum of three supervisory members who through assignment and/or knowledge of the member's performance are appropriate for inclusion for the Personnel Review Board.
-
-PERSONNEL 23. Review cases and recommend corrective action to be taken.
-
-## REVIEW BOARD CONCERNED
-
-- a. Corrective action may include change of assignment within the command, intraborough or interborough transfer, transfer from administrative command and/or disciplinary action.
-
-22.
-
-a.
-
-20.
-
-## NEXT HIGHER COMMAND 21. 22.
-
-ADDITIONAL
-
-DATA
-
-The OFFICER SELF-REPORT FORM can be accessed on a member's Departmer mobile phone through the CRAFT application and will allow uniformed members of th
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-09              | 10/24/25          | R.O. 107         | 5 of 5  |
-
-Department mobile phone through the CRAFT application and will allow the superviso
-
-## NEXT HIGHER COMMAND 24.
-
-Review recommendations of Personnel Review Board concerned and make final determination and/or recommendation.
-
-- a. Endorse recommendation concerning transfers and/or disciplinary action, through channels, to the Chief of Personnel.
-
-## ADDITIONAL DATA
-
-The OFFICER SELF-REPORT FORM can be accessed on a member's Department mobile phone through the CRAFT application and will allow uniformed members of the service to document notable actions that they consider to be positive (e.g., achievements in crime prevention, problem-solving, community engagement, etc.).
-
-DEBALENT
-
-The SUPERVISOR FEEDBACK FORM can be accessed on a supervisor's Department mobile phone through the CRAFT application and will allow the supervisor to highlight commendable actions by a uniformed member of the service (e.g., supervisor observes or becomes aware of exceptional community interaction, uniformed member of the service makes an arrest that closes a precinct pattern, etc.). The FORM will also allow supervisors to note areas that may need improvement and indicate what actions were taken to address the deficiency. In addition, minor violations of Department regulations committed by uniformed members of the service can be documented using the FORM . The FORM can also be completed by supervisors for uniformed members outside of their command (e.g., UMOS assigned to supervisors on details, etc.).
-
-CITY
-
-Commanding officers will be responsible for determining performance standards within their respective commands and resolving all issues within their command relative to the Monthly Performance Review. Precinct, PSA and transit district commanding officers will also review and direct the conditions to be addressed consistent with applicable crime control strategies and areas of community concern.
-
-NEW
-
-<!-- image -->
-
-SCOPE
-
-PROCEDURE
-
-RATER
-
-evaluation.
-
-<!-- image -->
-
-OFFICER
-
-NEXT HIGHER
-
-COMMANDING 4.
-
-RATEE
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Evaluations
+> **Sergeant Focus:** As a reviewer (typically a sergeant or lieutenant), you must examine and sign the evaluation form, forward a copy to the commanding officer, and ensure the remaining copy is filed in the ratee's personal folder at the command. Do not skip the filing step — it is part of the official record.
 
 ---
 
-# Section 331 — APPEAL OF EVALUATION - UNIFORMED MEMBER OF THE SERVICE
+### ADDITIONAL DATA
+
+#### Military Service Absence
+
+A uniformed or civilian member of the service who is absent for either the majority or the entirety of a rating period due to military service is still entitled to receive a performance evaluation. Pursuant to **New York State Military Law**, to compute the rating for such a member, raters are to take the average of the **three performance evaluations** that the member received prior to his/her absence for military duty. However, the credited rating must not be less than **satisfactory (3.0)** or less than the rating that the member received for the period immediately prior to his/her absence for military service.
+
+In the **'Overall Rater's Comments:'** caption, the rater will note:
+- The length of time the member was on military duty during the evaluation period
+- That the evaluation is being prepared pursuant to New York State Military Law
+
+Additional questions concerning evaluations of members absent due to military service may be directed to either the **Performance Analysis Unit** or the **Legal Bureau**.
+
+> **Exam Alert:** For members absent due to military service, the rating is the **average of the three prior evaluations**, but it can **never** be less than satisfactory (3.0) or less than the member's last pre-absence rating — whichever is higher. This floor is mandated by New York State Military Law.
+
+#### Transfer of Ratee
+
+When a sub-managerial civilian member is transferred, the commanding officer/supervisory head will direct that the performance evaluation is completed and forwarded to the **Human Resources Division**. The ratee will be given a copy of the evaluation. The immediate supervisor in the new command will prepare a **new performance evaluation** listing tasks and standards of the ratee's new assignment.
+
+#### Below Competent Standard
+
+If ratee performs below competent standard in the overall evaluation rating, the **commanding officer MUST be the reviewer**.
+
+> **Exam Alert:** When a civilian ratee's overall evaluation rating is below competent standard, the **commanding officer must serve as the reviewer** — this is a mandatory requirement, not discretionary.
+
+#### Comments Required
+
+- Comment on **all** areas rated **BELOW STANDARDS** or **WELL BELOW STANDARDS** and all areas rated **ABOVE STANDARDS** or **WELL ABOVE STANDARDS**.
+
+#### Supporting Documentation for Below Standards Ratings
+
+If excessive absence, tardiness, or poor performance are cited as reasons for a **BELOW STANDARDS** or **WELL BELOW STANDARDS** rating, include a copy of the appropriate form, including:
+- **CIVILIAN RECORD OF SUPERVISORY CONFERENCES (SUB-MANAGERIAL)** (PD433-1411)
+- **CIVILIAN LATENESS/WARNING NOTIFICATION** (PD449-122)
+- **CIVILIAN UNSATISFACTORY PERFORMANCE WARNING** (PD439-012)
+
+when appropriate.
+
+> **Exam Alert:** Supporting documentation (supervisory conference records, lateness/warning notifications, unsatisfactory performance warnings) must accompany any BELOW STANDARDS or WELL BELOW STANDARDS rating that cites excessive absence, tardiness, or poor performance. Know the three form numbers.
+
+> **Sergeant Focus:** As a supervisor of civilian personnel, you are responsible for initiating and maintaining the supervisory conference and warning documentation that supports below-standards ratings. Without proper documentation, the rating may be overturned on appeal. File **CIVILIAN RECORD OF SUPERVISORY CONFERENCES** and **CIVILIAN LATENESS/WARNING NOTIFICATIONS** promptly as issues arise — do not wait until the evaluation period ends.
+
+---
+
+# Section 331 — APPEAL OF EVALUATION — UNIFORMED MEMBER OF THE SERVICE
 
 ## A.G. 331-10
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 05/03/24          | R.O. 24          | 1 of 2  |
-
-Inform commanding officer.
-
-PURPOSE
+### Purpose
 
 To permit a uniformed member of the service in permanent rank to appeal their evaluation.
 
-SCOPE
+### Scope
 
-This procedure does not apply to uniformed members of the service who are in the rank on probation (e.g., entry-level probationary police officers, probationary sergeants, probationary lieutenants or probationary captains).
+This procedure does **not** apply to uniformed members of the service who are in the rank on probation (e.g., entry-level probationary police officers, probationary sergeants, probationary lieutenants, or probationary captains).
 
-PROCEDURE
+> **Exam Alert:** Only members in **permanent rank** may appeal an evaluation under this procedure. Probationary members (including probationary sergeants) are excluded — a common exam trap.
 
-When a uniformed member in permanent rank wants to appeal a PERFORMANCEEVALUATION :
+## Procedure
 
-RATER
+When a uniformed member in permanent rank wants to appeal a **PERFORMANCE EVALUATION**:
+
+## RATER
 
 1. Inform commanding officer.
 
-COMMANDING
+## COMMANDING OFFICER
 
-OFFICER
+2. Act as initial hearing officer.
+   - a. Schedule interview with members concerned (i.e., rater, reviewer, and ratee named on **PERFORMANCE EVALUATION** form), within **thirty days** of appeal notice.
 
-2.
+> **Exam Alert:** The commanding officer must schedule the hearing interview **within 30 days** of the appeal notice. This timeline is testable.
 
-Act as initial hearing officer.
+## NEXT HIGHER COMMAND
 
-a.
+3. Schedule interview and serve as the hearing officer if the commanding officer is the rater on the **PERFORMANCE EVALUATION** form.
 
-Schedule interview with members concerned (i.e., rater, reviewer and ratee named on PERFORMANCE EVALUATION form), within thirty days of appeal notice.
+## COMMANDING OFFICER / NEXT HIGHER COMMAND
 
-NEXT HIGHER COMMAND 3.
+4. Attempt to resolve the appeal.
+5. Notify the **Performance Analysis Unit**, via **Typed Letterhead**, within **three days** of the hearing, detailing the outcome of the hearing or whether the member is going to continue the appeal process to the next level.
 
-Schedule interview and serve as the hearing officer if the commanding officer is the rater on the PERFORMANCEEVALUATION form.
+> **Exam Alert:** The **3-day** notification timeline to the Performance Analysis Unit is a frequently tested detail. The report must be on **Typed Letterhead**.
 
-COMMANDING 4.
+## RATEE
 
-OFFICER/ NEXT HIGHER COMMAND 5.
+6. Submit a report on **Typed Letterhead**, within **thirty days** of the hearing, if appeal is **NOT RESOLVED** at rater/commanding officer/next higher command level, as follows:
+   - a. Uniformed members of the service below the rank of captain — Personnel Officer concerned
+   - b. Captains and above — Personnel Officer, Chief of Personnel
 
-Attempt to resolve the appeal.
+> **Sergeant Focus:** Know the routing distinction — members below captain route appeals to the **Personnel Officer concerned**, while captains and above route to the **Personnel Officer, Chief of Personnel**.
 
-Notify the Performance Analysis Unit, via Typed Letterhead , within three days of the hearing, detailing the outcome of the hearing or whether the member is going to continue the appeal process to the next level.
+## PERSONNEL OFFICER CONCERNED
 
-RATEE 6.
+7. Review the matter by interviewing appropriate parties and examining pertinent records.
+8. Present findings to **Borough/Bureau Commanding Officer** or **Chief of Personnel**.
 
-- Submit a report on Typed Letterhead , within thirty days of the hearing, if appeal is NOT RESOLVED at rater/commanding officer/next higher command level, as follows:
-
-- a. Uniformed members of the service below the rank of captain - Personnel Officer concerned
-
-- b. Captains and above - Personnel Officer, Chief of Personnel.
-
-PERSONNEL OFFICER CONCERNED 7. 8.
-
-Review the matter by interviewing appropriate parties and examining pertinent records.
-
-- Present findings to Borough/Bureau Commanding Officer or Chief of Personnel.
-
-BOROUGH/
-
-BUREAU
-
-COMMANDING
-
-OFFICER/
-
-CHIEFOF
+## BOROUGH/BUREAU COMMANDING OFFICER / CHIEF OF PERSONNEL
 
 9. Evaluate findings presented by personnel officer and render decision.
 
-3.
+## PERSONNEL OFFICER CONCERNED (continued)
 
-a.
+10. Report decision of Borough/Bureau Commanding Officer or Chief of Personnel in **quadruplicate**, within **three days** of receipt of Typed Letterhead and interview of parties, as follows:
+   - a. **ORIGINAL** — to reviewer named on evaluation form, who will inform rater and ratee of findings and direct preparation of new evaluation, if necessary. Place a copy of report in ratee's command personnel folder
+   - b. **DUPLICATE** — to member appealing (i.e., ratee)
+   - c. **TRIPLICATE** — forward to **Human Resources Division, Personnel Services Unit** for inclusion in ratee's personnel folder
+   - d. **QUADRUPLICATE** — forward to **Performance Analysis Unit**
 
-PERSONNEL
+> **Exam Alert:** The quadruplicate distribution (ORIGINAL/DUPLICATE/TRIPLICATE/QUADRUPLICATE) and where each copy goes is a classic exam question. Know the four destinations: reviewer, ratee, HR Division/Personnel Services Unit, and Performance Analysis Unit.
 
-DATA
+## Cause for Appeal of Performance Evaluation
 
-A
+A uniformed member of the service in permanent rank has the right to appeal the contents, recommendations, or overall rating of their performance evaluation **ONLY** if cause for appeal stems from:
 
-## ADDITIONAL DATA
+- a. **Factual error**
+- b. **Rater's misinterpretation of instructions**
+- c. **Bias or prejudice** on the part of the rater
+- d. **PERFORMANCE EVALUATION** is completed and based upon **OTHER THAN performance factors**
 
-b.
+> **Exam Alert:** These four causes are the **only** valid grounds for appeal. Memorize them: (1) factual error, (2) misinterpretation of instructions, (3) bias/prejudice, (4) other than performance factors. Any answer choice listing a cause outside these four is incorrect.
 
-Tater and Tatee of linaings and alrect preparation of new evaluation, necessary. Place a copy of report in ratee's command personnel folder
+> **Sergeant Focus:** As a sergeant, you may serve as a rater whose evaluation is being appealed. Ensure evaluations are based solely on performance factors and are factually accurate to withstand appeal scrutiny.
 
-DUPLICATE - to member appealing (i.e., ratee)
+## Note
 
-## ADMINISTRATIVE GUIDE
+A uniformed member of the service has the right to review comments and recommendations made by a reviewer named on the **PERFORMANCE EVALUATION** form; however, such comments and recommendations are **not causes for appeal** by the ratee. Such a review by the ratee is for the ratee's **informational purposes only**.
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-10              | 05/03/24          | R.O. 24          | 2 of 2  |
-
-## PERSONNEL OFFICER CONCERNED 10.
-
-a.
-
-Report decision of Borough/Bureau Commanding Officer or Chief of Personnel in quadruplicate, within three days of receipt of Typed Letterhead and interview of parties, as follows:
-
-- a. ORIGINAL - to reviewer named on evaluation form, who will inform rater and ratee of findings and direct preparation of new evaluation, if necessary. Place a copy of report in ratee's command personnel folder Factual error,
-- b. DUPLICATE - to member appealing (i.e., ratee)
-- c. TRIPLICATE -forward to Human Resources Division, Personnel Services Unit for inclusion in ratee's personnel folder
-- d. QUADRUPLICATE-forwardtoPerformance Analysis Unit.
-
-CAUSE FOR AN APPEAL OF PERFORMANCE EVALUATION
-
-A uniformed member of the service in permanent rank has the right to appeal the contents, recommendations, or overall rating of their performance evaluation ONLY if cause for appeal stems from:
-
-- a. Factual error,
-- b. Rater's misinterpretation of instructions,
-- c. Bias or prejudice on the part of the rater,
-- d. PERFORMANCE EVALUATION is completed and based upon OTHER THAN performance factors.
-
-CITY
-
-A uniformed member of the service has the right to review comments and recommendations made by a reviewer named on the PERFORMANCE EVALUATION form; however, such comments and recommendations are not causes for appeal by the ratee. Such a review by the ratee is for the ratee's informational purposes only.
-
-NEW
-
-<!-- image -->
-
-SCOPE
-
-PROCEDURE
-
-RATER
-
-COMMANDING 2.
-
-OFFICER
-
-This procedure does not apply to individuals who have not completed thei
-
-<!-- image -->
-
-NOTE
-
-NOTE
-
-RATEE
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Evaluations
+> **Exam Alert:** Reviewer comments and recommendations are **not appealable**. The ratee may only review them for informational purposes — this is a distinct exam trap, since many test-takers assume any disagreement with the evaluation is grounds for appeal.
 
 ---
 
-# Section 331 — APPEAL OF EVALUATION - CIVILIAN MEMBER OF THE SERVICE
+# Section 331 — Appeal of Evaluation — Civilian Member of the Service
 
 ## A.G. 331-11
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 05/03/24          | R.O. 24          | 1 of 2  |
+**Effective:** 05/03/24 | **Last Revision:** R.O. 24 | **Pages:** 1-2
 
-within thirty days of appeal notice.
-
-PURPOSE
+### Purpose
 
 To permit a civilian member of the service to appeal an evaluation.
 
-SCOPE
+### Scope
 
-This procedure does not apply to individuals who have not completed their probationary period or have served less than two years in a provisional status .
+This procedure does **not** apply to individuals who have not completed their probationary period or have served less than two years in a provisional status.
 
-PROCEDURE
+> **Exam Alert:** Probationary civilians and those with less than two years in provisional status are **excluded** from the appeal process. This is a commonly tested limitation.
+
+### Procedure
 
 When a civilian member wants to appeal a performance evaluation:
 
-RATER
+#### Rater
 
 1. Inform commanding officer.
 
-COMMANDING OFFICER
+#### Commanding Officer
 
-2. Schedule interview with members concerned (rater, reviewer and ratee), within thirty days of appeal notice.
+2. Schedule interview with members concerned (rater, reviewer and ratee), within **thirty days** of appeal notice.
+   - a. If the commanding officer is also the rater, the rater's immediate supervisor will schedule the interview and serve as the reviewer.
+   - b. If ratee performs below desirable standard, commanding officer **MUST** be reviewer.
 
-NOTE
+> **Exam Alert:** The interview must be scheduled within **30 days** of the appeal notice. If the CO is the rater, the rater's immediate supervisor steps in as reviewer. If the ratee is below standard, the CO MUST be the reviewer.
 
-NOTE
+3. Attempt to resolve appeal.
 
-of the written request for appeal to the respective bureau/borough personnel office a.
+#### Ratee
 
-If the commanding officer is also the rater, the rater's immediate supervisor will schedule the interview and serve as the reviewer. If ratee performs below desirable standard, commanding officer MUST be reviewer.
+4. If the matter is not resolved at command level, prepare **Typed Letterhead** to respective bureau/borough personnel officer requesting further appeal.
 
-C.
+> **Exam Alert:** The appeal must be in writing — **Typed Letterhead** is required for further appeal beyond the command level.
 
-d.
+#### Personnel Officer
 
-a.
+5. Convene review board.
+   - a. Appeal must be resolved within **thirty days** of receipt of request for appeal.
+   - b. Review board will prepare report in **triplicate** and forward copies to ratee, rater and **Performance Analysis Unit** for inclusion in member's personal folder.
 
-C.
-
-4.
-
-## 3. Attempt to resolve appeal.
-
-If the matter is not resolved after review by the commanding officer, upon the written request of the ratee to the respective bureau/borough personnel officer for further appeal, a review board will be empanelled at the borough or equivalent level. The respective bureau/borough personnel officer will be responsible for convening the review board. The review board must resolve the appeal within thirty days from receipt of the written request for appeal to the respective bureau/borough personnel officer. For Patrol Services Bureau personnel, the review board will consist of:
-
+For **Patrol Services Bureau** personnel, the review board will consist of:
 - a. Borough personnel officer
 - b. Borough adjutant
 - c. Borough Equal Employment Opportunity (EEO) liaison
-- d. Commanding officer from other than the command of the ratee.
+- d. Commanding officer from other than the command of the ratee
 
-For bureaus or divisions other than the above, the review board will consist of:
-
+For **bureaus or divisions other than Patrol Services Bureau**, the review board will consist of:
 - a. Personnel officer
 - b. Bureau executive officer
 - c. EEO liaison
-- d. Division commander from other than the command of the ratee.
+- d. Division commander from other than the command of the ratee
 
-RATEE
+> **Exam Alert:** Know the composition of the review board for Patrol Services Bureau vs. other bureaus. Both have four members, but the composition differs: borough adjutant vs. bureau executive officer, commanding officer vs. division commander.
 
-4. Prepare Typed Letterhead , to respective bureau/borough personnel officer requesting further appeal, if appeal is not resolved at the command level, and further review is desired.
+#### Ratee (continued)
 
-PERSONNEL OFFICER 5.
+6. Prepare **Typed Letterhead** to the Police Commissioner requesting final review if further appeal beyond the determination of the review board is desired.
 
-Convene review board.
+The **Police Commissioner**, or the Police Commissioner's designee, will make written notification of the final determination of ratee's appeal.
 
-- a. Appeal must be resolved within thirty days of receipt of request for appeal.
+> **Exam Alert:** The determination of the review board may be further appealed to the **Police Commissioner** (or designee) for a **final determination**. The Commissioner's decision is the end of the line.
 
-KULD
+### Grounds for Appeal
 
-RATEE
+A civilian member of the service has the right to appeal the contents, recommendations or overall rating of their performance evaluation, **ONLY** if cause for appeal stems from:
 
-NOTE
+- a. **Factual error**
+- b. **Rater's misinterpretation of instructions**
+- c. **Bias or prejudice** on the part of the rater
+- d. **Evaluation is based upon other than performance factors**
 
-ine aelerminalion of ine review ooara may ve Juriner appealea o ie rouc
+> **Exam Alert:** These four grounds (a-d) are the **only** valid causes for appeal. A member cannot appeal simply because they disagree with the rating. Know all four.
 
-Commissioner or the Police Commissioner's designee for a final determination.
+A civilian member of the service has the right to review comments and recommendations made by a reviewer; however, such comments and recommendations are **not cause for appeal**. Such a review is solely for the ratee's informational purposes.
 
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 331-11              | 05/03/24          | R.O. 24          | 2 of 2  |
-
-## PERSONNEL OFFICER (continued)
-
-NOTE
-
-RATEE
-
-## NOTE
-
-CITY
-
-- b. Review board will prepare report in triplicate and forward copies to ratee, rater and Performance Analysis Unit for inclusion in member's personal folder.
-
-The determination of the review board may be further appealed to the Police Commissioner or the Police Commissioner's designee for a final determination.
-
-Bias or prejudice on the part of the rater
-
-6. Prepare Typed Letterhead , to the Police Commissioner requesting final review if further appeal beyond the determination of the review board is desired.
-
-The Police Commissioner, or the Police Commissioner's designee, will make written notification of the final determination of ratee's appeal.
-
-A civilian member of the service has the right to appeal the contents, recommendations or overall rating of their performance evaluation, ONLY if cause for appeal stems from:
-
-DEBALENT
-
-- a. Factual error
-- b. Rater's misinterpretation of instructions
-- c. Bias or prejudice on the part of the rater
-- d. Evaluation is based upon other than performance factors.
-
-NEW
-
-<!-- image -->
-
-A civilian member of the service has the right to review comments and recommendations made by a reviewer; however, such comments and recommendations are not cause for appeal. Such a review is solely for the ratee's informational purposes.
-
-SCOPE
-
-harassment, and/or related retaliation made against Department employees an applicants.
-
-Federal,
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
+> **Sergeant Focus:** As a rater, your evaluation of civilian members can be appealed. Ensure your evaluations are fact-based and free from bias. Know the four valid grounds for appeal — if a civilian member claims one of these, the appeal process must be followed. The 30-day timeline for scheduling the interview and for the review board to resolve the appeal are hard deadlines.
 ---
 
 # Section 331 — Evaluations
@@ -43854,4147 +42827,1746 @@ During the evaluation period:
 
 ---
 
-# Section 332 — EMPLOYMENT DISCRIMINATION
-
-## A.G. 332-01
-
-DATE EFFECTIVE:
-
-LAST REVISION:
-
-PAGE:
-
-10/10/25
-
-R.O. 100
-
-1 of 13
-
-Opportunity (OEEO). Uniformed and civilian supervisors and managers are required t make
-
-<!-- image -->
-
-## PURPOSE
-
-SCOPE
-
-NOTE
-
-all employment decisions in accordance with the Department's Equ
-
-To process and resolve all complaints of employment discrimination, sexual harassment, and/or related retaliation made against Department employees and applicants.
-
-Federal, State, and/or City laws, and/or Department policy prohibits employment discrimination based on a person's actual or perceived membership in a protected class. Employees and applicants for employment who have a complaint of employment discrimination, sexual harassment, and/or related retaliation, or have any questions regarding these complaints, are directed to contact the Office of Equal Employment Opportunity (OEEO). Uniformed and civilian supervisors and managers are required to make all employment decisions in accordance with the Department's Equal Employment Opportunity (EEO) policy. Uniformed and civilian supervisors, managers, and EEO Liaisons must report allegations of sexual harassment and any observations of conduct of a discriminatory or retaliatory nature.
-
-All EEO complaints will be handled under the direction of the OEEO. In appropriate cases, the investigation will be conducted in conjunction with the Internal Affairs Bureau and other Department units as necessary or required.
-
-Prohibited conduct includes the following:
-
-1. Employment Discrimination
-
-- a . Discrimination
-
-- b . Harassment and/or Hostile Work Environment
-
-2. Sexual Harassment
-
-- a . Hostile Work Environment
-
-- b . Quid Pro Quo
-
-- a . Reasonable Accommodation
-
-- b . Prior and/or current complaints
-
-All forms of employment discrimination, sexual harassment, and/or retaliation, are prohibited both in the actual workplace and in any location that can be reasonably regarded as an extension of the workplace.
-
-Employees and applicants should file a complaint with the OEEO at the earliest opportunity if the employee or applicant believes that they have been the victim of employee discrimination, sexual harassment, and/or retaliation, by any uniformed or civilian employee of the Department.
-
-A complaint made in good faith will not be considered a false accusation. Knowingly making a false accusation of discrimination, sexual harassment, or retaliation, or knowingly providing false information during the course of an investigation of a complaint may be grounds for discipline.
-
-absence, recrulment, tesung, ascipline, terminaton, or any oner appucation o selection process relating to employment in which an individual is treated les
-
-well or is subjected to inferior terms, conditions or privileges, or employmer
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 2 of 13 |
-
-## DEFINITIONS
-
-EMPLOYMENT DISCRIMINATION - Discriminatory treatment regarding any terms, conditions, or privileges of employment, including, but not limited to, hiring, assignments, working conditions, salary and benefits, evaluations, promotions, training, transfers, career development and advancement, leave of absence, recruitment, testing, discipline, termination, or any other application or selection process relating to employment in which an individual is treated less well or is subjected to inferior terms, conditions or privileges, or employment based on actual or perceived status of a person's protected class.
-
-HARASSMENT AND/OR HOSTILE WORK ENVIRONMENT - Harassment based on one or more protected classes, which has the purpose or effect of unreasonably interfering with work performance or creating an intimidating, hostile, offensive, or abusive work environment. This includes offensive or objectionable conduct relating to any protected class including, but not limited to, derogatory or demeaning statements, slurs, jokes, epithets, gestures, notes, materials, images, intimidation, ridicule, insults, discourteous, disparaging, or disrespectful remarks, or communications in violation of this policy.
-
-EXTENSION OF THE WORKPLACE - Including but not limited to an off-site Department sanctioned social function or off-duty conduct that impacts the workplace (e.g., phone calls, text messages, e-mails, and social media usage negatively impacting the workplace can constitute harassment).
-
-## PROTECTED CLASSES:
-
-AGE - Protection from discrimination and harassment based on actual or perceived age, except where lawful age requirements apply.
-
-ARREST, CONVICTION RECORD, OR PENDING CASE - Having a prior arrest or conviction record or pending case. However, there are exceptions to this law as the New York City Police Department (NYPD) is a public safety organization.
-
-CAREGIVER STATUS -A person who provides direct or ongoing medical/disability care to a minor child or care recipient.
-
-COLOR - Protection from discrimination and harassment based on actual or perceived color, including complexion or skin pigmentation. This covers preferences or aversions to particular skin tones.
-
-CONSUMER CREDIT HISTORY - Protection from adverse treatment in employment based on consumer credit history -including creditworthiness, payment history, debts, bankruptcies, judgments, and liens. Certain positions such as police officer and high-level roles are exempt.
-
-FAMILIAL STATUS - Protection from discrimination based on familial status including pregnancy, having a child under 18, securing legal custody of a mino
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 3 of 13 |
-
-## DEFINITIONS (continued)
-
-DISABILITY - A physical, medical, mental, or psychological impairment, or a history or record of such impairment, whether perceived or actual. Pregnancy may also be considered a temporary disability if there are medical conditions arising from the pregnancy or childbirth.
-
-FAMILIAL STATUS - Protection from discrimination based on familial status, including pregnancy, having a child under 18, securing legal custody of a minor, or living with minors under the care of a parent, guardian, or designee.
-
-GENDER/SEX (INCLUDING PREGNANCY, CHILDBIRTH, OR RELATED MEDICAL CONDITIONS) - The term gender encompasses an individual's actual or perceived sex, as well as biological or socially determined characteristics used to classify individuals as male or female.
-
-GENDER IDENTITY OR EXPRESSION - Protection from discrimination and harassment based on actual or perceived gender identity or expression. This includes an individual's self-image, appearance, behavior, or other gender-related characteristics, regardless of sex assigned at birth. It encompasses identities that may not be distinctly male or female and includes non-conforming and transgender individuals.
-
-HEIGHT - Covered persons are protected from discrimination and harassment based on their actual or perceived height.
-
-IMMIGRATION OR CITIZENSHIP STATUS -Protection from discrimination based on a person's immigration or citizenship status. Employers must verify identity and work eligibility.
-
-MARITAL STATUS OR PARTNERSHIP STATUS -Single, unmarried, married, divorced, separated, or widowed persons, as well as all individuals in a domestic partnership.
-
-NATIONAL ORIGIN OR ETHNICITY - Protection from discrimination based on actual or perceived national origin or ethnicity. This includes unfavorable treatment because an individual or their ancestors are from a particular country or part of the world, or due to cultural characteristics like accent, physical traits, or ethnic background.
-
-PREDISPOSING GENETIC CHARACTERISTICS -Protection from discrimination based on inherited genetic traits that are medically or scientifically believed to predispose an individual or their offspring to a disease or disability. This includes traits identified through genetic tests or inferred from family medical history.
-
-RELICKED - Protecon mom alscrimination Dasea on actual o perceived religion or creed. This includes individuals who belong to organize
-
-religions and those with sincerely held personal religious beliefs.
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 4 of 13 |
-
-## DEFINITIONS (continued)
-
-reserves.
-
-RACE - Protection from discrimination and harassment based on actual or perceived race. This includes personal characteristics associated with race, such as hair texture, protective hairstyles, skin color, or certain physical features.
-
-RELIGION/CREED -Protection from discrimination based on actual or perceived religion or creed. This includes individuals who belong to organized religions and those with sincerely held personal religious beliefs.
-
-SALARY OR PAY HISTORY - Agencies cannot ask about a job applicant's salary history during the hiring process including on applications or in interviews. Salary history includes current or prior wages, benefits, or other compensation, but not objective measures of productivity, such as sales figures. Exceptions apply for internal transfers, promotions within or among city agencies, and positions where compensation is set by collective bargaining.
-
-SEXUAL ORIENTATION - Protection from discrimination based on actual or perceived sexual orientation, including an individual's romantic, physical, or sexual attraction to others or lack thereof.
-
-SEXUAL AND REPRODUCTIVE HEALTH DECISIONS - Protection from discrimination based on actual or perceived decisions regarding sexual and reproductive health services. This includes choices related to fertility treatments, sexually transmitted disease prevention, testing and treatment, family planning services, contraception, sterilization procedures, pregnancy testing, abortion, and hormone therapy, or transition-related care for transgender individuals. Retaliation against individuals for exercising these rights is prohibited.
-
-STATUS AS A VETERAN OR ACTIVE-DUTY MILITARY SERVICE MEMBER - Protection from discrimination based on actual or perceived uniformed service, including current or prior service in the armed forces or reserves.
-
-UNEMPLOYMENT STATUS - Protection from discrimination based on an applicant's unemployment status. Employers may not base hiring decisions, compensation, or employment terms on an individual's unemployment unless there is a substantial job-related reason. Certain public agency actions and appointments from eligible lists are exempt from this prohibition.
-
-VICTIM/SURVIVOR OF DOMESTIC VIOLENCE, SEX OFFENSES, AND/ OR STALKING - Protection from discrimination and harassment based on being a victim or survivor of domestic violence, sex offenses, or stalking. This includes individuals subjected to acts or threats of violence (excluding self-defense) by a current or former spouse, someone they share a child with, cohabitants, or individuals in a romantic or intimate relationship.
-
-SEXUAL HARASSMENT - is a form of gender/sex discrimination. Sexua harassment includes harassment based on sex, sexual orientation, self-identifie
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 5 of 13 |
-
-## DEFINITIONS (continued)
-
-pro quo.
-
-"
-
-a.
-
-WEIGHT - Covered persons are protected from discrimination and harassment based on their actual or perceived weight.
-
-## PROHIBITIED CONDUCT:
-
-SEXUAL HARASSMENT -is a form of gender/sex discrimination. Sexual harassment includes harassment based on sex, sexual orientation, self-identified or perceived sex, gender expression, and gender identity. Sexual harassment can occur between any individuals, regardless of their gender or sex, rank or title, and protections extend to NYPD employees, applicants and any non-employee who is an independent contractor, subcontractor, contract worker, vendor, consultant, freelancer or other person providing services pursuant to a contract in the workplace or client, customer, or visitor.
-
-Sexual harassment is unwelcome sexual advances, request for sexual favors, and other verbal or physical conduct of a sexual nature. Sexual harassment occurs when: (a) Submission to such conduct is made either explicitly or implicitly a term or condition of an individual's employment; or (b) Submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individual; or (c) Such conduct has the effect of unreasonably interfering with an individual's work performance or creating an intimidating, hostile, or offensive work environment.
-
-There are two types of sexual harassment: 'hostile work environment' and 'quid pro quo.'
-
-b.
-
-HOSTILE WORK ENVIRONMENT (HWE) SEXUAL HARASSMENT: HWE sexual harassment is conduct that is directed at an individual; because of their sex, sexual orientation, gender identity, gender expression, or status of being a transgender and has the purpose or effect of unreasonably interfering with an individual's work performance or creating an intimidating, hostile, or offensive work environment. HWE sexual harassment includes:
-
-- a. Unwanted verbal or physical advances, sexually explicit derogatory statements, or sexually discriminatory remarks made by someone that are offensive or objectionable to the recipient and that cause the recipient discomfort or humiliation, and/or interfere with the recipient's job performance.
-2. Visual material such as pictures, posters, calendars, graffiti, objects, promotional material, reading materials, or other materials that are sexually demeaning or pornographic.
-- c. Sexual oriented words, gestures, noises, remarks, jokes, pranks, or comments.
-- d. Repeated requests for dates or romantic gestures, including gift-giving.
-- e. Physical acts of a sexual nature, such as touching, pinching, patting, grabbing, kissing, hugging, brushing against, or poking another. Physical acts also include serious offenses such as rape, sexual battery, molestation, or attempts to commit these assaults.
-
-<!-- image -->
-
-NOTE
-
-## NOTE
-
-sex stereotyping, which occurs when someone s conauci or personalit traits are judged based on other people's ideas or perceptions about hor
-
-individuals of a particular sex should act or look, including remark
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 6 of 13 |
-
-## DEFINITIONS (continued) f.
-
-Interfering with, destroying, or damaging a person's workstation, tools, or equipment,
-
-or otherwise
-
-interfering with
-
-the individual's
-
-ability to
-
-perform their job; sabotaging an individual's work; bullying, yelling, and name-calling; or intentional misuse of an individual's pronouns.
-
-- g. Sex stereotyping, which occurs when someone's conduct or personality traits are judged based on other people's ideas or perceptions about how individuals of a particular sex should act or look, including remarks regarding an individuals' gender expression, such as wearing a garment typically associated with a different gender identity, or asking employees to take on traditional gendered roles.
-
-QUID PRO QUO (QPQ) SEXUAL HARASSMENT: QPQ sexual harassment occurs when a person of authority trades, or attempts to trade, something workrelated in exchange for sexual favors. This can include hiring, promotion, continued employment, or any other terms, conditions, or privileges of employment and occurs between an employee and someone with authority. Quid pro quo sexual harassment includes, but is not limited to:
-
-- a. Offering or granting better working conditions or opportunities in exchange for a personal and/or sexual relationship.
-- b. Threatening adverse working conditions (e.g., demotions, tour change/alternation, or post changes) or denial of opportunities if a personal or sexual relationship is refused.
-- c. Using pressure, threats, or physical acts to force a personal or sexual relationship.
-
-employment.
-
-- d. Retaliating for refusal to engage in a personal and/or sexual relationship.
-
-Sexual harassment, quid pro quo, and hostile work environment can also occur outside the workplace. 1040140+
-
-RETALIATION FOR A PROTECTED ACTIVITY - It is a policy violation to retaliate against anyone exercising rights under this policy. Retaliation includes coercion, threats, or interference, directly or indirectly, against those who file discrimination complaints, participate in investigations, start a civil action for discrimination, or request accommodations. It includes any action with negative effects on employment terms, conditions, or privileges, during or after employment.
-
-Adverse actions can include, but are not limited to, reprimands, suspensions, demotions, terminations, loss of benefits, injury to reputation, or threats outside of work hours, are prohibited if based on discriminatory or retaliatory motives. Retaliation also covers those who report discrimination or harassment, support such reports, participate in protected activities, oppose policy violations, or request accommodations. These actions are considered 'protected activity.'
-
-NOTE
-
-naraship for une Department.
-
-The denial of reasonable accommodations for disabilities; religious belief
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 7 of 13 |
-
-## DEFINITIONS (continued)
-
-## NOTE
-
-REASONABLE ACCOMMODATION -Any modification or reasonable adjustment provided by the employer that assists employees and qualified applicants to perform the essential functions of their jobs and enjoy the benefits and privileges of employment. The accommodation cannot create an undue hardship for the Department.
-
-The denial of reasonable accommodations for disabilities; religious beliefs, observances, and practices; victims of domestic violence, sexual and stalking offenses; and pregnancy, childbirth, and related medical conditions (including lactation needs) that do not create undue hardship or direct threat is prohibited. The department is required to engage in a cooperative dialogue with covered persons to determine an effective accommodation under which the employee can perform the essential functions of the job. The obligation to engage in a cooperative dialogue can arise when agencies know, or should have known, that the covered person may need an accommodation. Any accommodation is considered reasonable unless it causes an undue hardship for the agency or direct threat to the agency.
-
-Any member of the service who has been found to have engaged in such retaliation, discrimination, or harassment will be subject to disciplinary action regardless of the findings of the initial EEO investigation or proceeding.
-
-CONFIDENTIALITY - The OEEO and all Department uniformed and civilian supervisors, managers and EEO Liaisons will treat each complaint with CONFIDENTIALITY. This means that information obtained from the complaint revealed during the course of the investigation conducted by the OEEO will not be discussed with other personnel except as necessary to investigate and resolve the complaint or as required by law. Complainants should make every effort to maintain the confidential nature of this process. Witnesses and respondents of an EEO investigation shall not discuss the nature of the complaint being investigated by the OEEO or any aspect of an open or closed OEEO case with anyone except their union representative and/or legal counsel. Failure to maintain confidentiality as defined will result in disciplinary action.
-
-EQUAL EMPLOYMENT OPPORTUNITY (EEO) LIAISONS - At least one or more trained EEO Liaisons must be designated in every command throughout the Department to provide assistance to complainants, witnesses, and others regarding any EEO matters. Generally, EEO Liaisons are non-supervisory members of the service who serve voluntarily with the recommendation of their Commanding Officer and approval of the OEEO. EEO Liaisons are mandated reporters. For further information about the EEO Liaison Network, contact the Program Coordinator at .
-
-NOTE
-
-## NOTE
-
-MEMBER
-
-CONCERNED
-
-## PROCEDURE
-
-NOTE
-
-NOTE
-
-D.
-
-voserve or become aware of an allegaton or complaint of employmer discrimination, sexual harassment, and/or retaliation regarding EE
-
-matters.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 8 of 13 |
-
-## DEFINITIONS (continued)
-
-MANDATED REPORTER - All uniformed and civilian supervisors, managers, and EEO Liaisons. Mandated reporters must immediately report workplace discrimination, sexual harassment, and/or retaliation to the OEEO, when they:
-
-- a. Observe conduct of a discriminatory nature; or
-- b. Observe or become aware of an allegation or complaint of employment discrimination, sexual harassment, and/or retaliation regarding EEO matters.
-
-applicable law.
-
-The member must report and shall not investigate the observed conduct, allegation, or complaint of employment discrimination, sexual harassment, and/or retaliation. In order to ensure confidentiality, supervisors, managers, and EEO Liaisons must not make any entries regarding a complaint of employment discrimination and/or related retaliation in any official Department record.
-
-All complaints must be filed with the NYPD OEEO within one year from the date of the last occurrence of a discriminatory action. The one-year time period for filing complaints of employment discrimination, including related retaliation with the New York City Police Department, shall not serve as a limitation upon the Department's authority to discipline members of the service as otherwise authorized pursuant to applicable law.
-
-When a member of the service or an applicant for employment believes that employment discrimination, sexual harassment, and/or retaliation relating to EEO has occurred:
-
-## MEMBER CONCERNED
-
-1. File a complaint of employment discrimination, sexual harassment, and/or related retaliation by doing the following:
-
-anyannint
-
-- a. Office of Equal Employment Opportunity by telephone at by email at , in writing, or in person at or
-- b. Notify a mandated reporter, uniformed or civilian, as described above.
-
-<!-- image -->
-
-After business hours and on weekends, the OEEO receives messages via office voice mail, and e-mail and will return phone calls on the next business day.
-
-Non-supervisory members of the service may telephone the OEEO anonymously to file a complaint and/or discuss matters regarding employment discrimination and/or related retaliation. An investigator assigned to the OEEO will be able to provide guidance and take appropriate follow-up action. Members concerned should understand that the cooperation of complainants and witnesses may be needed to rectify or address a problem of employment discrimination. Non-supervisory members of the service may report an allegation(s) of employment discrimination and/or related retaliation in writing anonymously by preparing a detailed written report and forwarding the report to the Office of Equal Employment Opportunity,
-
-MANDATED
-
-Immediately upon observing conduct or becoming aware of an allegatio
-
-## ADMINISTRATIVE GUIDE
-
-(1)
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-01              | 10/10/25          | R.O. 100         | 9 of 13 |
-
-## NOTE (continued)
-
-## MANDATED REPORTER
-
-C.
-
-A non-supervisory member of the service is strongly encouraged to report any complaint or issue to the OEEO. caller; and/or send email t
-
-COMPLAINT OF EMPLOYMENT DISCRIMINATION (PD413-151) forms will be readily available for viewing and printing on the Department Intranet.
-
-2. Immediately upon observing conduct or becoming aware of an allegation or complaint of employment discrimination, sexual harassment, or retaliation relating to an EEO issue:
-- a. Notify the OEEO immediately
-- (1) If outside the business hours of Monday through Friday, 0800 to 1800 hours, leave a message on voice mail with contact number and an investigator assigned to the OEEO will contact caller; and/or send email to .
-- b. Obtain OEEO case or inquiry number and name of the investigator.
-- c. Be guided by information received from the OEEO.
-3. If matter is issued an OEEO case number, forward confidential report Typed Letterhead to the OEEO (DIRECT), within five business days.
-
-A mandated reporter receiving any allegations of possible employment discrimination, sexual harassment, and/or related retaliation against oneself must immediately notify the OEEO. Do not make any other notifications to other members of the command to preserve confidentiality. Improper notifications may result in disciplinary action.
-
-A mandated reporter who fails to report an allegation of possible employment discrimination, sexual harassment, and/or retaliation, to the OEEO as required, and/or who fails to take such actions as directed by the OEEO to prevent employment discrimination, can be subject to disciplinary action.
-
-The Department prohibits the display, in any form, of offensive sexual, ethnic, racial, religious or other discriminatory material. Refer to A.G. 332-02, 'Sexual, Ethnic, Racial, Religious, or Other Discriminatory Slurs Through Display of Offensive Material,' for guidelines on handling incidents involving the display of offensive material.
-
-4. Notify commanding officer/manager, if and/or when appropriate.
-5. Emphasize to the commanding officer/manager and all others concerned that reprisal or retaliation against complainants and/or witnesses is against the law and allegations of retaliation will be investigated and, if substantiated, members will be subject to disciplinary action.
-6. Record required data in appropriate OEEO record and assign a case or inquiry number to all complaints.
-
-NOTE
-
-NOTE
-
-material.
-
-4.
-
-OFFICE OF
-
-EQUAL
-
-EMPLOYMENT
-
-OPPORTUNITY
-
-## OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY
-
-by a representative of their choice.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:    |
-|---------------------|-------------------|------------------|----------|
-| 332-01              | 10/10/25          | R.O. 100         | 10 of 13 |
-
-## NOTE
-
-OFFICE OF
-
-EQUAL
-
-EMPLOYMENT
-
-OPPORTUNITY
-
-(continued)
-
-e.
-
-Upon receiving a complaint, an investigator assigned to the OEEO will attempt to contact and interview the complainant. The investigator will advise the complainant that they may meet with an investigator to discuss the complaint at the OEEO or at a mutually agreed upon location before, during, or after work hours to protect their confidentiality. Additionally, the member will be advised that they may be accompanied by a representative of their choice.
-
-Members are reminded that they do not have to notify a supervisor if they agree to meet with an OEEO investigator during non-working hours.
-
-However, if a complainant wishes to meet with an investigator during working hours, the investigator will make a confidential notification to the command's integrity control officer, assistant integrity control officer, executive officer, commanding officer, or other supervisory member not involved in the complaint to have the complainant appear at the OEEO. Supervisors cannot unreasonably deny permission to attend the meeting. A member's appearance at the OEEO must not be documented on any official Department record.
-
-Referrals for the member of the service (e.g., Health &amp; Wellness
-
-In order to encourage members of the service to come forward, all communications between complainants and the OEEO relating to employment discrimination, sexual harassment, and retaliation complaints will be kept confidential consistent with the above statement regarding CONFIDENTIALITY. Any person who is interviewed in the course of an investigation shall have the right to be accompanied by a representative of their choice.
-
-## OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY (continued)
-
-<!-- image -->
-
-7. Instruct member filing complaint about options for handling complaint and/or refer member to other personnel for assistance. This may include:
-- a. Investigation by the OEEO;
-- b. Mediation by a neutral mediation service;
-- c. Referrals for the member of the service (e.g., Health &amp; Wellness, etc.),
-- d. The member of the service filing a formal complaint with an outside agency; and/or
-- e. Referral of the member concerned to other personnel for assistance if it appears that the complaint does not involve an EEO issue.
-
-If it is determined that an investigation is to be conducted, notify respondent in person or via email of the nature of the allegation(s), when necessary:
-
-- a. Remind respondent that employment discrimination, sexual harassment, and/or related retaliation will not be tolerated and may be subject to discipline.
-9. After completion of the investigation and when appropriate, forward results of the investigation conducted by the OEEO to the Police Commissioner.
-10. Notify complainant and respondent in writing of the outcome of the investigation and recommended findings.
-
-record.
-
-a.
-
-13.
-
-D.
-
-keport wnal correcuve acuon was laken to adaress une complalt and describe any steps taken to preclude a reoccurrence.
-
-Take all reasonable steps necessary to prevent any member of the servic
-
-## ADMINISTRATIVE GUIDE
-
-ADDITIONAL
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:    |
-|---------------------|-------------------|------------------|----------|
-| 332-01              | 10/10/25          | R.O. 100         | 11 of 13 |
-
-DATA
-
-## COMMANDING OFFICER/ MANAGER 11. 12.
-
-Address the matter as directed by and under the guidance of the OEEO. If directed to forward a confidential report on Typed Letterhead to OEEO (DIRECT), include the following:
-
-- a. Refer to OEEO case number; and
-
-- b. Report what corrective action was taken to address the complaint and describe any steps taken to preclude a reoccurrence.
-
-13. Take all reasonable steps necessary to prevent any member of the service from engaging in additional employment discrimination, sexual harassment, and/or related retaliation.
-
-## ADDITIONAL DATA
-
-MEDIATION
-
-In appropriate cases, certain EEO complaints will be referred for mediation by a neutral mediator at a neutral location. Mediation is a dispute resolution program designed to help resolve EEO complaints at the earliest stage possible without the need for a formal investigation. The procedure is not adversarial but is a means of finding a mutually acceptable end to the parties' differences. This process is voluntary, and the parties must mutually agree to the outcome. If the parties cannot agree upon a resolution, the matter will be referred back to the OEEO for appropriate action. If a resolution is reached after mediation, no notations concerning the matter will be made on the respondent's Central Personnel Index file.
-
-## INVESTIGATION
-
-At the conclusion of a substantiated investigation, the OEEO will forward a confidential report of the investigation to the Police Commissioner. The Police Commissioner will review the report prepared by the OEEO and make a final determination regarding the investigation and any recommendation for corrective action. Disciplinary action shall be taken in accordance with any applicable provisions of law, rules and regulations, and collective bargaining agreements. In addition, findings of unsubstantiated are also reviewed by the Police Commissioner.
-
-When charges and specifications are pending or preferred against a member of the service, an allegation of discriminatory treatment raised as a defense to the charges by the respondent member of the service shall vest in the exclusive jurisdiction of the Deputy Commissioner, Trials until the charges and specifications have been resolved. After the charges and specifications have been resolved, jurisdiction over the allegation of employment discrimination shall be assumed by the OEEO upon written request of the affected party. In all other disciplinary matters, any allegation of employment discrimination raised by the member of the service concerned must be immediately reported to the OEEO.
-
-## ADDITIONAL PLACES WHERE A COMPLAINT OF DISCRIMINATION MAY BE MADE
-
-Any member of the service or applicant for employment who believes that they have experienced discrimination has a right to file a formal complaint with the federal, state or local agencies listed below. A person does not give up this right when the person files a complaint with the Department's OEEO. The following local, state, and federal agencies enforce laws against discrimination:
-
-<!-- image -->
-
-Main Office (Manhattan)
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:    |
-|---------------------|-------------------|------------------|----------|
-| 332-01              | 10/10/25          | R.O. 100         | 12 of 13 |
-
-## ADDITIONAL DATA (continued)
-
-NEW YORK CITY COMMISSION ON HUMAN RIGHTS (NYCCHR)
-
-One year for employment discrimination and three years for sexual harassment, both from the date of the last occurrence of discriminatory action (New York City Administrative Code, Title 8, Chapter 1).
-
-Main Office (Manhattan) 22 Reade Street New York, NY 10007
-
-153-01 Jamaica Avenue, 2nd Floor
-
-Brooklyn Community Service Center 25 Chapel Street, Suite 1001 Brooklyn, NY 11201
-
-60 Bay Street, Tth Floor
-
-Bronx Community Service Center 1932 Arthur Avenue, Room 203A Bronx, NY 10457
-
-Queens Community Service Center 153-01 Jamaica Avenue, 2nd Floor Jamaica, NY 11432
-
-One Fordham Plaza, 4th Floor
-
-Staten Island Community Service Center 60 Bay Street, 7th Floor Staten Island, NY 10301
-
-## NEW YORK STATE DIVISION OF HUMAN RIGHTS (NYSDHR)
-
-One year for employment discrimination (New York Executive Law, Article 15, section 297) (may not file if civil action filed first) and three years for sexual harassment, both from the date of the last occurrence of discriminatory action.
-
-One Fordham Plaza, 4th Floor Bronx, NY 10458
-
-## UNITED STATES EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
-
-300 days from the date of the last occurrence of discriminatory action, regardless of whether there has been a prior filing with another agency. A member of the service is advised to contact the United States Equal Employment Opportunity Commission directly for guidance on this issue (42 USC, Section 2000e-5 [c]).
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:    |
-|---------------------|-------------------|------------------|----------|
-| 332-01              | 10/10/25          | R.O. 100         | 13 of 13 |
-
-ADDITIONAL DATA (continued)
-
-CITY
-
-New York District Office 33 Whitehall Street, 5th Floor New York, NY 10004
-
-<!-- image -->
-
-<!-- image -->
-
-PURPOSE
-
-SCOPE
-
-## ADMINISTRATIVE GUIDE
-
-Section: Employee Rights/Responsibilities
-
-Procedure No: 332-02
-
-## SEXUAL, ETHNIC, RACIAL, RELIGIOUS, OR OTHER DISCRIMINATORY SLURS THROUGH DISPLAY OF OFFENSIVE MATERIAL
-
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 03/17/25          | R.O. 12          | 1 of 3  |
-
-To eliminate the display of offensive sexual, ethnic, racial, religious or other discriminatory material throughout the Department.
-
-It is the goal of the Department to ensure a discrimination free work environment. In furtherance of this goal, the Department prohibits the display of offensive sexual, ethnic, racial, religious or other discriminatory material.
-
-One form of employment discrimination which may create a hostile work environment is the display of sexually explicit material in the workplace. Other forms of a hostile work environment can occur through the display of offensive ethnic, racial, religious or other discriminatory materials or graffiti, whether they deface Department property or not. Such displays might be in the form of, but are not limited to, postings, pictures, tattoos, graffiti drawn on Department property (e.g., lockers, vehicles, in toilet facilities, ACTIVITY LOGS [PD112-145], Notice of Parking Violations, summonses, or any other Department forms, etc.), or an adult movie/program or other offensive material shown through the use of a any electronic storage media or device (e.g., video cassette, DVD/CD, flash drive, hard drive, etc.), or received through an adult channel from a cable/satellite company, or audio recording or broadcast, or an email communication(s), text message(s), or through any electronic or other device.
-
-No form of defacement of Department property, display of offensive materials, sexually explicit television programs, videotapes or DVDs, derogatory email communications, text messaging or voice mail communications, in or using Department facilities or resources, is acceptable. Commanding officers, managers and supervisors shall keep their work sites free from such displays.
-
-PROCEDURE
-
-When a display of offensive material is discovered:
-
-## MEMBER CONCERNED
-
-1. Any non-supervisory member of the service who becomes aware of the display of offensive material is strongly encouraged to report it to any of the following:
-- a. The Office of Equal Employment Opportunity (OEEO) by telephone at by email at · by facsimile at , in writing, or in person at 375 Pearl Street, 15" Floor, Suite 4, New York, NY 10038; or
-- b. Supervisor (uniformed or civilian); or
-- C. Manager; or
-- d. Commanding officer; or
-- e. Equal Employment Opportunity (EEO) Liaison.
-
-NOTE
-
-OEEO
-
-NOTE
-
-and will make return phone calls on the next business day.
-
-## ADMINISTRATIVE GUIDE
-
-SUPERVISORY
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   |        |
-|---------------------|-------------------|------------------|--------|
-| 332-02              | 03/17/25          | R.O. 12          | 2 of 3 |
-
-## NOTE
-
-Trained EEO Liaisons have been designated throughout the Department to provide assistance to  complainants, witnesses and others regarding any EEO matter.  For further information about the EEO Liaison Program, contact the Program Coordinator at .
-
-After business hours and on weekends, OEEO receives messages via office voice mail and will make return phone calls on the next business day.
-
-## A  SUPERVISOR  WHO  BECOMES  AWARE  OF  THE  DISPLAY  OF OFFENSIVE MATERIAL WILL AS SOON AS POSSIBLE:
-
-## SUPERVISORY MEMBER 2.
-
-a.
-
-a.
-
-Telephone facts to OEEO during business hours or the next business day, Monday  through  Friday, 0800 to 1800 hours, and be guided by information received from OEEO.
-
-- a. During  non-business  hours,  leave  a  message  with  a  contact number on the voice mail and:
-- (1) Photograph the offensive material; and
-- (2) Take immediate steps to secure, remove and/or cover the offensive material from public display.
-3. Safeguard  the  offensive  material  if  possible,  and  prepare PROPERTY CLERK INVOICE (PD521-141) using Finest Online Records Management System (FORMS) Property.
-- a. Invoice the material as investigatory evidence.
-4. Make Command Log entry of details.
-- a. Do  not  describe  or  identify  the  specific  offensive  material/object that was discovered.
-5. Notify commanding officer/manager.
-6. Forward  confidential  report  on  Typed  Letterhead  to  the  Commanding Officer, OEEO  (DIRECT)  within  five business days. Include the following information on the report:
-- a. OEEO case number,
-- b. Photo(s) of the offensive material and a copy of the INVOICE , if applicable.
-
-In addition to reporting the observation to OEEO, corrective action may take the form of  removing  the  offensive  material  if  it  is  a  magazine  or  poster,  etc.,  or  submitting  a request via the 'Work Order - System Login' application via the Department Intranet.'
-
-OEEO
-
-7. Ensure that the commanding officer/manager is notified of the display of offensive material.
-
-## COMMANDING OFFICER/ MANAGER 8.
-
-Inform/advise  members  of  command,  as  appropriate,  upon  receiving  a complaint  of  a  display  of  offensive  material,  or  having  witnessed  such display that:
-
-- a. A display of offensive material has occurred and that such display violates Department policy
-- (1) DO  NOT describe or identify the specific offensive material/object that was discovered
-
-a.
-
-DATA
-
-Noury une vre prompuy oy telepnone or une results ol an investigation.
-
-Forward confidential report on Typed Letterhead to the Commandin
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   |        |
-|---------------------|-------------------|------------------|--------|
-| 332-02              | 03/17/25          | R.O. 12          | 3 of 3 |
-
-## COMMANDING OFFICER/ MANAGER (continued)
-
-- b. This behavior will not be tolerated and is subject to disciplinary action.
-9. Confer  with  the  OEEO  and  determine  appropriate  follow-up  and/or investigatory action.
-10. Notify the OEEO  promptly by telephone of the results of any investigation.
-11. Forward  confidential  report  on  Typed  Letterhead  to  the  Commanding Officer, OEEO  (DIRECT)  within  five business days. Include the following information on the report:
-- a. Refer to OEEO case number
-- b. Report the results of the investigation and what corrective action was taken to address the matter and describe  any  steps  taken  to preclude a reoccurrence.
-
-cassettes, adhered to:
-
-a.
-
-## ADDITIONAL DATA
-
-C.
-
-It will be incumbent upon all supervisors, and in particular the operations coordinator and the desk officer, when they make their daily inspections to ensure that no form of offensive material  is  displayed.    Also,  all  Department  vehicles  will  be  inspected  by  the  operator prior to use to ensure that there is no graffiti or any other form of offensive sexual, ethnic, racial, religious or other discriminatory material displayed.  Should any such material be found in a Department vehicle, the procedures detailed above will be followed.
-
-In addition, the following rules regarding audio recordings and broadcasts, cable/satellite television services or the use of electronic storage media or devices (video cassettes,  DVDs/CDs,  flash  drives,  hard  drives,  etc.)  in  Department  facilities  will  be adhered to:
-
-- a. Sexually explicit  audio  broadcasts,  television  programs  or  videos  shall  not  be listened to, shown or viewed in Department facilities, unless necessary as part of a documented, on-going, official investigation
-- b. Premium  channels,  which  provide  sexually  explicit  material,  will  not  be permitted to be received on any cable/satellite receiver at a Department facility
-- c. Commanding officers/managers or supervisor designee will contact cable/satellite  television  companies  and  have  them  "block  out"  any  stations received on the basic package which routinely show sexually explicit programming, if possible.
-
-Commanding  officers/managers  must  stress  to  their  subordinates  that  these  forms  of behavior will not be tolerated.
-
-PURPOSE
-
-SCOPE
-
-lo provide guidance to members of the service who decide to notity th
-
-Department of their transgender or gender non-conforming transition, or status
-
-<!-- image -->
-
-## PURPOSE
-
-## SCOPE
-
-## DEFINITIONS
-
-a.
-
-C.
-
-PROCEDURE
-
-<!-- image -->
-
-## PROCEDURE
-
-## MEMBER CONCERNED
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
----
-
-# Section 332 — MEMBER OF THE SERVICE SEEKING TO NOTIFY THE DEPARTMENT OF TRANSGENDER OR GENDER NONCONFORMING TRANSITION, OR STATUS
+# Section 332 — Member of the Service Seeking to Notify the Department of Transgender or Gender Non-Conforming Transition, or Status
 
 ## A.G. 332-03
 
-DATE EFFECTIVE:
+**Effective:** 03/17/25 | **Last Revision:** R.O. 12 | **Pages:** 1-3
 
-LAST REVISION:
-
-PAGE:
-
-03/17/25
-
-R.O. 12
-
-1 of 3
+### Purpose
 
 To provide guidance to members of the service who decide to notify the Department of their transgender or gender non-conforming transition, or status.
 
 A member of the service's transition should be treated with as much sensitivity and confidentiality as any member of the service who is going through a significant life experience. Transgender members have the right to discuss their gender identity or expression openly, or to keep that information private. Transgender members decide when, with whom, and how much to share their private information. This policy will guide transgender members that choose to share information about their own gender transition.
 
-GENDER IDENTITY - An individual's internal sense of gender which may be the same or different from their assigned sex at birth. Gender identity is distinct from sexual orientation.
+### Definitions
 
-GENDER EXPRESSION - An individual's characteristics and behaviors (e.g., appearance, dress, mannerisms, speech patterns, social interactions, etc.) that may be perceived as masculine or feminine.
+- **Gender Identity** — An individual's internal sense of gender which may be the same or different from their assigned sex at birth. Gender identity is distinct from sexual orientation.
+- **Gender Expression** — An individual's characteristics and behaviors (e.g., appearance, dress, mannerisms, speech patterns, social interactions, etc.) that may be perceived as masculine or feminine.
+- **Transgender** — An individual whose gender identity or expression is not typically associated with their assigned sex at birth.
+- **Gender Non-Conforming** — An individual who has, or is perceived to have, gender characteristics and/or behaviors that do not conform to traditional or societal expectations.
+- **Transition** — The process in which an individual changes their gender from their assigned sex at birth to their gender identity. The duration of a transition may differ for each individual. A transition may include, but is not limited to:
+  - a. Informing family, friends and co-workers of gender identity
+  - b. Obtaining medical services (i.e., hormones, surgery, etc.)
+  - c. Name and legal gender changes
 
-TRANSGENDER - An individual, whose gender identity or expression is not typically associated with their assigned sex at birth.
-
-GENDER NON-CONFORMING - An individual, who has or is perceived to have, gender characteristics and/or behaviors that do not conform to traditional or societal expectations.
-
-TRANSITION - The process in which an individual changes their gender from their assigned sex at birth to their gender identity. The duration of a transition may differ for each individual. A transition may include, but is not limited to:
-
-- a. Informing family, friends and co-workers of gender identity
-- b. Obtaining medical services (i.e., hormones, surgery, etc.)
-- c. Name and legal gender changes.
+### Procedure
 
 When a member of the service decides to notify the Department of their transgender or gender non-conforming transition, or status:
 
-1. Request meeting with commanding officer, or representative from the Office of Equal Employment Opportunity regarding transgender or gender non-conforming transition, or status.
-- a. Any supervisor or representative from a fraternal organization, union, etc. may be present during meeting at the request of the member concerned.
+#### Member of the Service
 
-OPPORTUNITY
+1. Request meeting with commanding officer, or representative from the **Office of Equal Employment Opportunity** regarding transgender or gender non-conforming transition, or status.
+   - a. Any supervisor or representative from a fraternal organization, union, etc. may be present during meeting at the request of the member concerned.
 
-DIVISION
+#### Commanding Officer or Representative, Equal Employment Opportunity Division
 
-De adaressea (1.e., genael specine pronouns)
+2. Discuss the following with member of the service:
+   - a. The **preferred name** the member is requesting to use (may be different from legal name)
+   - b. Member's **gender identity** and how the member is requesting to be addressed (i.e., gender specific pronouns)
+   - c. Inquire if, and/or when, the member is requesting to inform coworkers and other command staff
+   - d. **Locker room and restroom accessibility**
 
-Inquire if, and/or when, the member is requesting to inform c workers and other command staff
+> **Exam Alert:** Mayor's Executive Order 16 and New York City Local Law No. 3 mandate that all employees of NYC agencies are allowed to use facilities (restrooms and locker rooms) that most closely align with their **gender identity or expression** without being required to show identification, medical documentation, or any other proof or verification of gender.
 
-## ADMINISTRATIVE GUIDE
+   - e. Member may request a new **IDENTIFICATION CARD (PD416-091)**
+     - (1) If member requests a new IDENTIFICATION CARD, notify the **Shield, ID and Uniformed Services Unit**
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-03              | 03/17/25          | R.O. 12          | 2 of 3  |
+The Shield, ID and Uniformed Services Unit will take a new Department photograph and issue the transitioning member a new IDENTIFICATION CARD, if requested. Documentation will not be required in order to update the member's photograph; however, supporting documentation (i.e., court order, marriage certificate, birth certificate, valid government identification, etc.) will be required for name and legal gender changes.
 
-## COMMANDING OFFICEROR REPRESENTATIVE, EQUAL EMPLOYMENT OPPORTUNITY DIVISION
-
-NOTE
-
-NOTE
-
-## 2. Discuss the following with member of the service:
-
-- a. The preferred name the member is requesting to use (may be different from legal name)
-
-(1)
-
-- b. Member's gender identity and how the member is requesting to be addressed (i.e., gender specific pronouns)
-- c. Inquire if, and/or when, the member is requesting to inform coworkers and other command staff
-- d. Locker room and restroom accessibility.
-
-Mayor's Executive Order 16 and New York City Local Law No.3 mandates that all employees of New York City agencies are allowed to use facilities (i.e., restrooms and locker rooms) that most closely align with their gender identity or expression without being required to show identification, medical documentation, or any other proof or verification of gender.
-
-(1)
-
-- e. Member may request a new IDENTIFICATION CARD (PD416-091)
-- (1) If member requests a new IDENTIFICATION CARD , notify the Shield, ID and Uniformed Services Unit
-
-The Shield, ID and Uniformed Services Unit will take a new Department photograph and issue the transitioning member a new IDENTIFICATION CARD , if requested. Documentation will not be required in order to update the member's photograph; however, supporting documentation (i.e., court order, marriage certificate, birth certificate, valid government identification, etc.) will be required for name and legal gender changes.
-
-the Department.
-
-- f. Member may request an application for transfer to another command
-
-g.
-
-<!-- image -->
-
-- (1) If member requests a transfer, have member comply with the applicable Department procedure (i.e., A.G. 329-12, 'Uniformed Members of the Service -Transfer Procedure,' etc.) and/or utilize the Personnel Online System for Transfers (P.O.S.T.)
-- i. Notify the Personnel Bureau regarding the member's transfer request.
+   - f. Member may request an application for transfer to another command
+     - (1) If member requests a transfer, have member comply with the applicable Department procedure (i.e., A.G. 329-12, "Uniformed Members of the Service - Transfer Procedure," etc.) and/or utilize the **Personnel Online System for Transfers (P.O.S.T.)**
+     - i. Notify the **Personnel Bureau** regarding the member's transfer request
 
 The Personnel Bureau will make every effort to accommodate reasonable requests for transfer; however, members are reminded that all transfers are subject to the needs of the Department.
 
-- g. Other concerns that the member may have regarding their transgender or gender non-conforming transition, or status.
-3. Notify the following regarding member's transgender or gender nonconforming transition, or status:
-- a. Personnel Bureau
-- b. LGBTQIA+ Outreach Unit
-- c. Employee Assistance Unit
-- d. Member's immediate supervisor
-- e. Any other member of the service, if deemed appropriate.
+   - g. Other concerns that the member may have regarding their transgender or gender non-conforming transition, or status.
 
-NOTE
+3. Notify the following regarding member's transgender or gender non-conforming transition, or status:
+   - a. **Personnel Bureau**
+   - b. **LGBTQIA+ Outreach Unit**
+   - c. **Employee Assistance Unit**
+   - d. Member's immediate supervisor
+   - e. Any other member of the service, if deemed appropriate
 
-NOTE
+> **Exam Alert:** The CO/OEEO representative must notify four specific entities: Personnel Bureau, LGBTQIA+ Outreach Unit, Employee Assistance Unit, and the member's immediate supervisor. Know all four.
 
-NOTE
+#### Member Concerned
 
-C.
-
-DATA
-
-upportunity regaraing any compilance Issues or concerns (1.e., lOCKE
-
-room accessibility, IDENTIFICATION CARD issuance, etc.) relate to transgender or gender non-conforming transition, or status.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-03              | 03/17/25          | R.O. 12          | 3 of 3  |
-
-## MEMBER CONCERNED
-
-## ADDITIONAL DATA
-
-4. Comply with P.G. 304-16, 'Personal Information via Department Intranet,' and use the Centralized Personnel Resource System to update personal information (e.g., name, gender, etc.).
+4. Comply with P.G. 304-16, "Personal Information via Department Intranet," and use the **Centralized Personnel Resource System** to update personal information (e.g., name, gender, etc.).
 5. Notify commanding officer and/or Office of Equal Employment Opportunity regarding any compliance issues or concerns (i.e., locker room accessibility, IDENTIFICATION CARD issuance, etc.) related to transgender or gender non-conforming transition, or status.
 
-DRUG SCREENING TESTS
+### Additional Data
 
-When it becomes necessary to perform a drug screening test, a staff member will be assigned that matches the gender identity as specified by the transgender or gender non-conforming member.
+**Drug Screening Tests** — When it becomes necessary to perform a drug screening test, a staff member will be assigned that matches the **gender identity** as specified by the transgender or gender non-conforming member.
 
-Members of the service with questions regarding this procedure should call the Office of Equal Employment Opportunity.
+Members of the service with questions regarding this procedure should call the **Office of Equal Employment Opportunity**.
 
-DEBALENT
-
-CITY
-
-<!-- image -->
-
-oft duty employment pertormed with the Paid Detall Unit.
-
-DEFINITIONS
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
+> **Sergeant Focus:** As a supervisor, if a member comes to you about a transgender or gender non-conforming transition, your role is to treat the matter with sensitivity and confidentiality, facilitate the meeting with the CO or OEEO, and ensure the member's preferred name and pronouns are respected. Do NOT disclose the member's status to others without their consent — the member decides when, with whom, and how much to share.
 ---
 
-# Section 332 — RANDOM DRUG SCREENING FOR UNIFORMED MEMBERS
+# Section 332 — Random Drug Screening for Uniformed Members
 
 ## A.G. 332-05
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 11/18/21          | I.O. 99          | 1 of 3  |
+**Effective:** 11/18/21 | **Last Revision:** I.O. 99 | **Pages:** 1-3
 
-## PURPOSE
+### Purpose
 
-screening:
+To randomly drug screen uniformed members of the service not assigned to select Detective Bureau sub-units, Internal Affairs Bureau, or as probationary police officers in training at the Police Academy for illegal drug/controlled substance usage.
 
-COMMANDING 1.
-
-OFFICER,
-
-MEDICAL
-
-## SCOPE
-
-DIVISION
-
-UNIFORMED
-
-## PROCEDURE
-
-a.
-
-SELECTED
-
-FOR
-
-SCREENING
-
-NOTE
-
-To  randomly  drug  screen  uniformed  members  of  the  service  not  assigned  to select  Detective  Bureau  sub-units,  Internal  Affairs  Bureau,  or  as  probationary police  officers  in  training  at  the  Police  Academy  for  illegal  drug/controlled substance usage.
+### Scope
 
 The Department's goal is to ensure the safety of its employees and the public by maintaining a drug/controlled substance free work environment.
 
-identified by social security number.
+Uniformed members of the service assigned to select Detective Bureau sub-units, Internal Affairs Bureau, or as probationary police officers in training at the Police Academy will be subject to separate random drug screening procedures.
 
-Uniformed members of the service assigned to select Detective Bureau sub-units, Internal Affairs Bureau or as probationary police officers in training at the Police Academy will be subject to separate random drug screening procedures .
+> **Exam Alert:** A.G. 332-05 covers random drug screening for uniformed members NOT assigned to select DB sub-units, IAB, or the Police Academy. Members in those assignments are screened under different procedures (A.G. 332-07 for specialized units, A.G. 332-08 for DB/IAB). Know which procedure applies to which assignment.
 
-To identify uniformed members of the service not assigned to select Detective Bureau  sub-units,  Internal  Affairs  Bureau  or  as  probationary  police  officers  in training  at  the  Police  Academy  for  random  illegal  drug/controlled  substance screening:
+### Procedure
 
-b.
+To identify uniformed members of the service not assigned to select Detective Bureau sub-units, Internal Affairs Bureau, or as probationary police officers in training at the Police Academy for random illegal drug/controlled substance screening:
 
-C.
+#### Commanding Officer, Medical Division
 
-d.
+1. Request the **Information Technology Bureau (ITB)** to identify uniformed members of the service for automated random drug screening by utilizing the Department's personnel database.
+   - a. Individual members selected for random drug screening will be identified by **social security number**.
 
-Annual vacation
+2. Direct members selected for random drug screening to appear at the Medical Division at appropriate date and time.
 
-## COMMANDING OFFICER, MEDICAL DIVISION 1.
+#### Uniformed Member of the Service Selected for Screening
 
-Request the Information Technology Bureau (ITB) to identify uniformed members of the service for automated random drug screening by utilizing the Department's personnel database.
+3. **MUST** report to Medical Division when notified, EXCEPT if such member is on:
+   - a. Sick report
+   - b. Regularly scheduled day off
+   - c. Military leave
+   - d. Annual vacation
+   - e. Terminal leave
+   - f. Bereavement leave
 
-- a. Individual  members  selected  for  random  drug  screening  will  be identified by social security number.
-2. Direct  members  selected  for  random  drug  screening  to  appear  at  the Medical Division at appropriate date and time.
+> **Exam Alert:** Know all six excusal reasons for random drug screening: sick report, regularly scheduled day off, military leave, annual vacation, terminal leave, and bereavement leave. Individual days off (other than regular days off) require bureau chief approval for excusal — they are NOT automatic.
 
-UNIFORMED MEMBER OF 3. MUST report to Medical Division when notified, except if such member is on:
+Members previously scheduled for individual days off (other than regular days off) may be excused from the test with the approval of the **bureau chief** concerned. Members scheduled for court or training on the 8x4 tour will appear for testing immediately upon completion of court or training session. Members scheduled for a 12x8 tour on the testing day will appear for testing immediately upon completion of their scheduled 12x8 tour. Members reporting sick on the testing date will be required to visit a **Department surgeon** and obtain approval for excusal from the test.
 
-THE SERVICE
+> **Sergeant Focus:** If a member reports sick on a testing day, they must visit a Department surgeon — a regular doctor's note is not sufficient. Only a Department surgeon can approve excusal from the test. Members on court or training must report for testing immediately after completion.
 
-SELECTED
+4. **MUST submit to a drug screening test.** Refusal to submit to the test will result in **suspension from duty** and will be grounds for **dismissal from the Department**.
 
-FOR
+5. Prepare **DRUG SCREENING QUESTIONNAIRE (PD407-1519)** listing all medications ingested or prescribed in the last **ninety days**, prior to testing.
 
-SCREENING
+6. Present shield and **IDENTIFICATION CARD (PD416-091)** at the testing location to ensure proper individual has reported for testing.
 
-- a. Sick report
-
-- b. Regularly scheduled day off
-
-- c. Military leave
-
-- d. Annual vacation
-
-- e. Terminal leave
-- f. Bereavement leave.
-
-Members previously scheduled for individual days off (other than regular days off) may be  excused  from  the  test  with  the  approval  of  the  bureau  chief  concerned.  Members scheduled for court or training on the 8x4 tour will appear for testing immediately upon completion  of  court  or  training  session.  Members  scheduled  for  a  12x8  tour  on  the testing day will appear for testing immediately upon completion of their scheduled 12x8 tour. Members reporting sick on the testing date will be required to visit a Department surgeon and obtain approval for excusal from the test.
-
-(continued)
-
-DATA
-
-Present shield and IDENTIFICATION CARD (PD416-091) at the testing location to ensure proper individual has reported for testing.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-05              | 11/18/21          | I.O. 99          | 2 of 3  |
-
-## UNIFORMED THE SERVICE
-
-## MEMBER OF SELECTED FOR SCREENING (continued)
-
-## ADDITIONAL DATA
-
-4. MUST  submit  to  a  drug  screening  test.  Refusal  to  submit  to  test  will result in suspension from duty and will be grounds for dismissal from the Department.
-5. Prepare DRUG  SCREENING  QUESTIONNAIRE  (PD407-1519) listing all medications ingested or prescribed in the last ninety days, prior to testing.
-6. Present  shield  and IDENTIFICATION  CARD  (PD416-091) at  the testing location to ensure proper individual has reported for testing.
 7. Comply with instructions received at testing location.
 
-When hair samples are required, three hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, preferably the  head.  The  samples  will  be  individually  placed  in  separate  laboratory  supplied 'Sample  Acquisition  Cards,'  and  sealed  by  the  collector  in  the  presence  of  the  test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed  and  dated  by  the  test  subject.  Two  hair  samples  will  be  forwarded  to  the contracted laboratory for analysis. The third hair sample will be secured at the Medical Division for use in testing, should the test of the first two hair samples reveal positive results  for  illegal  drugs/controlled  substances.  Appropriate  chain  of  custody  will  be maintained at all times.
+### Hair Sample Collection
 
-Except  in  unusual  circumstances,  samples  will  be  taken  at  a  facility  operated  by  the Medical Division, or at another health care facility.
+When hair samples are required, **three** hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, **preferably the head**. The samples will be individually placed in separate laboratory supplied "Sample Acquisition Cards," and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the **Medical Division** for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
 
-In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the Commanding Officer, Medical Division, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of alternate specimen(s) to complete the drug screening test.
+> **Exam Alert:** Three hair samples are collected — two go to the contracted laboratory for analysis, one is secured at the Medical Division for potential independent retesting. Know this distribution.
 
-When  urine  samples  are  required,  two  urine  samples  will  be  collected,  each  in  a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately  with  the  member's  name  and  maintained  at  the  Medical  Division.  The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's  presence  after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
+Except in unusual circumstances, samples will be taken at a facility operated by the **Medical Division**, or at another health care facility.
 
-Privacy and dignity will be protected. Hair and urine samples will be collected under maximum  feasible  privacy.  Except  in  unusual  circumstances,  only  one  person  of  the same sex, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
+In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the **Commanding Officer, Medical Division**, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of **alternate specimen(s)** to complete the drug screening test.
 
-One  or  more  scientifically  accepted  initial  screening  samples  will  be  employed  in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
+### Urine Sample Collection
 
-Ine results of the aaalona lest will be jorwaraea by ine inaepenaent laboratory to tne
+When urine samples are required, **two** urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
 
-Medical Division. The Medical Division will then forward the results to the Department
+### Additional Data
 
-Advocate's Office. The affected member/counsel will be notified of the results by the
+**Privacy and dignity** will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only **one person of the same sex**, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
 
-## ADMINISTRATIVE GUIDE
+> **Exam Alert:** The observer for urine sample collection must be of the same sex, consistent with the member's gender identity — not biological sex. The same person who observes the urine collection also collects the hair samples for chain of custody.
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-05              | 11/18/21          | I.O. 99          | 3 of 3  |
+One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made **only after final confirmation testing** has been conducted. Negative test samples will **not** be maintained; instead, they will be **destroyed**.
 
-## ADDITIONAL DATA (continued)
+> **Exam Alert:** Negative test samples are destroyed — not retained. Positive test samples are maintained by the laboratory in a secure area.
 
-DEAL ME
+Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary **Charges and Specifications** are served. The results of the initial test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the **Department Advocate's Office**. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-*HDA
+A member whose test is positive may, within **sixty days** of notification of such result, submit a written request to the **Department Advocate's Office** for further independent testing of the third sample by a laboratory certified by the **State of New York Department of Health**, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the **affected member of the service**. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-OLY
+> **Exam Alert:** Key numbers for the exam: a member has **60 days** from notification to request independent testing. The independent laboratory must be certified by the State of New York Department of Health AND approved by the Medical Division. The member pays all costs of independent testing, including chain of custody.
 
-NEW
+Positive test results, which indicate illegal drug/controlled substance use, will result in **Department Charges and Specifications**, and **suspension from duty**.
 
-OF
+> **Sergeant Focus:** As a supervisor, know the full chain of consequences for positive drug tests: Charges and Specifications plus suspension. If a member refuses to submit to random drug screening, they must be suspended and the refusal is grounds for dismissal. Members on sick report, regular days off, military leave, annual vacation, terminal leave, or bereavement leave are excused — all other members MUST report.
+---
 
-<!-- image -->
+# Section 332 — Drug Screening Tests for Uniformed Members Applying for Assignments to Designated Specialized Units
 
-A  member  whose  test  is  positive  may,  within  sixty  days  of  notification  of  such  result, submit  a  written  request  to  the  Department  Advocate's  Office  for  further  independent testing of the third sample by a laboratory certified by the State of New York Department of  Health,  and  approved  by  the  Medical  Division  to  conduct  the  particular  type  of forensic  drug  testing  (i.e.,  urine  or  hair)  being  requested.  All  additional  testing expenses, including chain of custody, will be paid by the affected member of the service. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's  Office.  The  affected  member/counsel  will  be  notified  of  the  results  by  the Department Advocate's Office.
+## A.G. 332-07
 
-Positive test results, which indicate illegal drug/controlled substance use, will result in Department Charges and Specifications, and suspension from duty.
+**Effective:** 05/03/24 | **Last Revision:** R.O. 24 | **Pages:** 1-3
 
-PURPOSE
-
-SCOPE
-
-To screen for illegal drug/controlled substance usage by unitormed members c the service applying for assignment to designated specialized units.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
-Procedure No: 332-07
-
-## DRUG SCREENING TESTS FOR UNIFORMED MEMBERS OF THE SERVICE APPLYING FOR ASSIGNMENTS TO DESIGNATED SPECIALIZED UNITS standards and performance.
-
-DEFINITION
-
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 05/03/24          | R.O. 24          | 1 of 3  |
-
-## PURPOSE
-
-## SCOPE
-
-UNIFORMED
-
-MEMBER OF
-
-## DEFINITION
-
-NOTE
-
-ITAT
+### Purpose
 
 To screen for illegal drug/controlled substance usage by uniformed members of the service applying for assignment to designated specialized units.
 
+### Scope
+
 The Department has a substantial interest in ensuring uniformed members of the service applying for assignments to designated specialized units do not use illegal drugs/controlled substances. In these assignments, the strictest precautionary safeguards are necessary to ensure members maintain the highest ethical standards and performance.
 
-DESIGNATED SPECIALIZED UNITS - For the purpose of this procedure, the following units will be included: Internal Affairs Bureau, Detective Bureau, Intelligence and Counterterrorism Bureau, Chief of Special Operations, Highway District, Quality Assurance Section, and any other unit subsequently designated a specialized unit for the purpose of this procedure.
+### Definition
+
+**Designated Specialized Units** — For the purpose of this procedure, the following units will be included: **Internal Affairs Bureau, Detective Bureau, Intelligence and Counterterrorism Bureau, Chief of Special Operations, Highway District, Quality Assurance Section**, and any other unit subsequently designated a specialized unit for the purpose of this procedure.
+
+> **Exam Alert:** Know the six designated specialized units: IAB, Detective Bureau, Intelligence and Counterterrorism Bureau, Chief of Special Operations, Highway District, and Quality Assurance Section. The exam may ask which units require drug screening as part of the assignment application.
+
+### Procedure
 
 Uniformed members of the service applying for assignments to designated specialized units:
 
-1. MUST sign form indicating that they understand that drug screening is part of the application process for assignments to designated specialized units.
+1. **MUST** sign form indicating that they understand that drug screening is part of the application process for assignments to designated specialized units.
+   - a. The drug screening can occur at any time after the application has been submitted, or after member is temporarily or permanently assigned to the designated specialized unit.
 
-## PROCEDURE
+Prior to being notified to report for a drug screening test or prior to being temporarily or permanently assigned to a designated specialized unit, applicants may withdraw their application with **no penalty** or requirement to submit to drug screening by submitting a **written request** to their commanding officer.
 
-## UNIFORMED MEMBEROF THE SERVICE
+> **Exam Alert:** Under A.G. 332-07, an applicant for a specialized unit can withdraw their application with no penalty at any time before receiving notification to report for drug screening — or before being assigned to the unit. This withdrawal right is similar to A.G. 332-09 (civil service promotion) and A.G. 332-10 (discretionary promotion) withdrawal rights.
 
-17
+2. **MUST submit to a hair analysis drug screening test** when notified to report for drug screening. Refusal to submit to the test will result in **suspension from duty** and will be grounds for **dismissal from the Department**. All applicants will be tested.
 
-- a. The drug screening can occur at any time after the application has been submitted, or after member is temporarily or permanently assigned to the designated specialized unit.
+In all cases, if a uniformed member of the service refuses to submit to a test, the permanent command will be responsible for suspending member and complying with **A.G. 318-06**, "Suspension From Duty — Uniformed Member of the Service."
 
-Prior to being notified to report for a drug screening test or prior to being temporarily or permanently assigned to a designated specialized unit, applicants may withdraw their application with no penalty or requirement to submit to drug screening by submitting a written request to their commanding officer .
+> **Sergeant Focus:** If a member refuses drug screening for a specialized unit assignment, the member's permanent command suspends them and follows A.G. 318-06. Refusal equals suspension and grounds for dismissal — this is consistent across all drug screening procedures.
 
-MUST submit to a hair analysis drug screening test when notified to report for drug screening. Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department. All applicants will be tested.
+3. Prepare **DRUG SCREENING QUESTIONNAIRE (PD407-1519)** listing all medications ingested or prescribed in the last **ninety days**, prior to testing.
 
-<!-- image -->
+4. Present shield and **IDENTIFICATION CARD (PD416-091)** to be checked at the testing location to ensure proper individual has reported for testing.
 
-NOTE
-
-In all cases, if a uniformed member of the service refuses to submit to a test, the permanent command will be responsible for suspending member and complying with A.G. 318-06, 'Suspension From Duty - Uniformed Member of the Service.'
-
-3. Prepare DRUG SCREENING QUESTIONNAIRE (PD407-1519) listing all medications ingested or prescribed in the last ninety days, prior to testing.
-
-a.
-
-ADDITIONAL
-
-DATA
-
-When hair samples are required, three hair samples will be collected, cut as close to th skin as possible. The samples should be collected from the same body area, preferabl
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-07              | 05/03/24          | R.O. 24          | 2 of 3  |
-
-## UNIFORMED MEMBEROF THE SERVICE (continued) ADDITIONAL DATA
-
-4. Present shield and IDENTIFICATION CARD (PD416-091) to be checked at the testing location to ensure proper individual has reported for testing.
 5. Comply with instructions received at testing location.
 
-When hair samples are required, three hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, preferably the head. The samples will be individually placed in separate laboratory supplied 'Sample Acquisition Cards,' and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the Medical Division for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
+### Hair Sample Collection
 
-Except in unusual circumstances, samples will be taken at a facility operated by the Medical Division, or at another health care facility.
+When hair samples are required, **three** hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, **preferably the head**. The samples will be individually placed in separate laboratory supplied "Sample Acquisition Cards," and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the **Medical Division** for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
 
-In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the Commanding Officer, Medical Division, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of alternate specimen(s) to complete the drug screening test.
+Except in unusual circumstances, samples will be taken at a facility operated by the **Medical Division**, or at another health care facility.
 
-When urine samples are required, two urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
+In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the **Commanding Officer, Medical Division**, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of **alternate specimen(s)** to complete the drug screening test.
 
-Privacy and dignity will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only one person of the same sex, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
+### Urine Sample Collection
 
-One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
+When urine samples are required, **two** urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
 
-Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary Charges and Specifications are served. A member whose test is positive may, within sixty days of notification of such result, submit a written request to the Department Advocate's Office for further independent testing of the third sample by a laboratory certified by the State of New York Department of Health, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the affected
+### Additional Data
 
-Positive test results, which indicate illegal drug/controlled substance use, will result i
+**Privacy and dignity** will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only **one person of the same sex**, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
 
-Department Charges and Specifications, and suspension from duty.
+One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made **only after final confirmation testing** has been conducted. Negative test samples will **not** be maintained; instead, they will be **destroyed**.
 
-## ADMINISTRATIVE GUIDE
+Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary **Charges and Specifications** are served. A member whose test is positive may, within **sixty days** of notification of such result, submit a written request to the **Department Advocate's Office** for further independent testing of the third sample by a laboratory certified by the **State of New York Department of Health**, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the **affected member of the service**. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-07              | 05/03/24          | R.O. 24          | 3 of 3  |
+> **Exam Alert:** The independent testing right applies across all drug screening procedures: 60-day deadline, written request to the Department Advocate's Office, lab must be certified by NY State Dept. of Health AND approved by Medical Division, member pays all costs.
 
-## ADDITIONAL DATA (continued)
-
-member of the service. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
-
-Positive test results, which indicate illegal drug/controlled substance use, will result in Department Charges and Specifications, and suspension from duty.
+Positive test results, which indicate illegal drug/controlled substance use, will result in **Department Charges and Specifications**, and **suspension from duty**.
 
 Uniformed members of the service screened under this procedure will continue to be subject to drug screening pursuant to the Department's random drug screening procedures.
 
-CITY
+> **Sergeant Focus:** Passing a drug screening test for a specialized unit assignment does NOT exempt a member from random drug screening. Members who pass are still subject to the Department's random drug screening program under A.G. 332-05 or A.G. 332-08, depending on their assignment.
+---
 
-NEW
+# Section 332 — Random Drug Screening for Uniformed Members Assigned to Select Detective Bureau Sub-Units and Internal Affairs Bureau (IAB)
 
-<!-- image -->
+## A.G. 332-08
 
-PURPOSE
+**Effective:** 10/12/23 | **Last Revision:** R.O. 51 | **Pages:** 1-3
 
-SCOPE
+### Purpose
 
-To randomly screen unitormed members of the service assigned to sele
+To randomly screen uniformed members of the service assigned to select Detective Bureau sub-units and Internal Affairs Bureau (IAB) for illegal drug/controlled substance usage.
 
-Detective Bureau sub-units and Internal Affairs Bureau (IAB) for illega
+### Scope
 
-<!-- image -->
+The Department and individual members assigned to select Detective Bureau sub-units and Internal Affairs Bureau have a substantial interest in ensuring that uniformed members of the service assigned to these commands do not use illegal drugs/controlled substances. In these assignments, the strictest precautionary safeguards are necessary to ensure that members maintain the highest standards of integrity and performance.
 
-## ADMINISTRATIVE GUIDE
+Uniformed members of the service assigned to commands other than select Detective Bureau sub-units and the Internal Affairs Bureau (IAB) will be subject to separate random drug screening procedures.
 
-Section:
+> **Exam Alert:** A.G. 332-08 covers random drug screening specifically for members assigned to select DB sub-units and IAB. Members NOT in these units are screened under A.G. 332-05. Members APPLYING for specialized unit assignments are screened under A.G. 332-07. Know which procedure applies to which situation.
 
-Employee Rights/Responsibilities
+### Definition
 
-Procedure No: 332-08
+**Detective Bureau Sub-Units** — For the purpose of this procedure, the following units will be included:
 
-## RANDOMDRUGSCREENING FOR UNIFORMED MEMBERS OF THE SERVICE ASSIGNED TO SELECT DETECTIVE BUREAU SUB-UNITS AND INTERNAL AFFAIRS BUREAU (IAB)
+1. Citywide Investigations Division and all subunits
+2. Specialty Enforcement Division and all subunits
+3. (Additional sub-units as designated by the Department)
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 10/12/23          | R.O. 51          | 1 of 3  |
+> **Exam Alert:** The DB sub-units subject to this procedure include Citywide Investigations Division and Specialty Enforcement Division (and their subunits). The full list may include additional units designated by the Department. This is different from the "Designated Specialized Units" in A.G. 332-07.
 
-## PURPOSE
-
-DEFINITION
-
-## SCOPE
-
-PROCEDURE
-
-SUPERVISOR,
-
-INFORMATION
-
-To randomly screen uniformed members of the service assigned to select Detective Bureau sub-units and Internal Affairs Bureau (IAB) for illegal following units will be included:
-
-Bureau
-
-The Department and individual members assigned to select Detective Bureau sub-units and Internal Affairs Bureau have a substantial interest in ensuring that uniformed members of the service assigned to these commands do not use illegal drugs/controlled substances. In these assignments, the strictest precautionary safeguards are necessary to ensure that members maintain the highest standards of integrity and performance. Uniformed members of the service assigned to commands other than select Detective Bureau sub-units and the Internal Affairs Bureau (IAB) will be subject to separate random drug screening procedures.
-
-## DEFINITION
-
-a.
-
-DIVISION
-
-CHIEF OF
-
-DEPUTY
-
-## PROCEDURE
-
-COMMISSIONER,
-
-IAB
-
-DETECTIVE BUREAU SUB-UNITS - For the purpose of this procedure, the following units will be included:
-
-1. Citywide Investigations Division and all subunits,
-2. Specialty Enforcement Division and all subunits,
+### Procedure
 
 To identify uniformed members of the service assigned to select Detective Bureau sub-units and Internal Affairs Bureau (IAB) for random illegal drug/controlled substance screening:
 
-SUPERVISOR, INFORMATION TECHNOLOGY SERVICES DIVISION
+#### Supervisor, Information Technology Services Division
 
-1.
+1. Prepare a computer program that utilizes the Department's personnel databases to randomly identify uniformed members of the service assigned to select Detective Bureau sub-units and IAB for drug screening.
+   - a. Individual members selected for random drug screening will be identified solely by **social security number**.
 
-CHIEF OF DETECTIVES/ DEPUTY COMMISSIONER, IAB 2. 3.
+#### Chief of Detectives / Deputy Commissioner, IAB
 
-UNIFORMED MEMBEROF THE SERVICE SELECTED FOR TESTING 4.
+2. Direct members selected for random screening to appear at the Medical Division at appropriate date and time.
+3. Provide the Medical Division's Drug Screening Unit with a listing of members selected for random screening along with dates and times they are scheduled to appear.
 
-Prepare a computer program that utilizes the Department's personnel databases to randomly identify uniformed members of the service assigned to select Detective Bureau sub-units and IAB for drug screening.
+#### Uniformed Member of the Service Selected for Testing
 
-- a. Individual members selected for random drug screening will be identified solely by social security number.
+4. **MUST** report to the Medical Division when notified EXCEPT if member is on:
+   - a. Sick report
+   - b. Regularly scheduled day off
+   - c. Military leave
+   - d. Annual vacation
+   - e. Terminal leave
+   - f. Bereavement leave
 
-Direct members selected for random screening to appear at the Medical Division at appropriate date and time.
+Members previously scheduled for individual days off (other than regular days off) may be excused from the test with the approval of the **bureau chief/deputy commissioner** concerned. Members scheduled for court or training on the 8x4 tour will appear for testing immediately upon completion of the court or training session. Members scheduled for a 12x8 tour on the testing day will appear for testing immediately upon completion of their scheduled 12x8 tour. Members reporting sick on the testing day will be required to visit a **Department surgeon** and obtain approval for excusal from the test.
 
-Provide the Medical Division's Drug Screening Unit with a listing of members selected for random screening along with dates and times they are scheduled to appear.
+> **Sergeant Focus:** Under A.G. 332-08, excusal for individual days off requires approval from the bureau chief/deputy commissioner (not just bureau chief as in A.G. 332-05). This is because IAB reports to a Deputy Commissioner, so the approval authority includes both bureau chief and deputy commissioner.
 
-MUSTreport to the Medical Division when notified EXCEPT if member is on:
+5. **MUST submit to a drug screening test.** Refusal to submit to the test will result in **suspension from duty** and will be grounds for **dismissal from the Department**.
 
-- a. Sick report
-- b. Regularly scheduled day off
-- c. Military leave
-- d. Annual vacation
-- e. Terminal leave
-- f. Bereavement leave.
+6. Prepare **DRUG SCREENING QUESTIONNAIRE (PD407-1519)** listing all medications ingested or prescribed in the last **ninety days**, prior to testing.
 
-their scheduled 12 x 8 tour. Members reporting sick on the testing day will be required t visit a Department surgeon and obtain approval for excusal from the test.
+7. Present shield and **IDENTIFICATION CARD (PD416-091)** at the testing location to ensure the proper individual has reported for testing.
 
-## ADMINISTRATIVE GUIDE
+8. Comply with instructions received at the testing location.
 
-THE SERVICE
+### Hair Sample Collection
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-08              | 10/12/23          | R.O. 51          | 2 of 3  |
+When hair samples are required, **three** hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, **preferably the head**. The samples will be individually placed in separate laboratory supplied "Sample Acquisition Cards," and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the **Medical Division** for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
 
-SELECTED
+Except in unusual circumstances, samples will be taken at a facility operated by the **Medical Division**, or at another health care facility.
 
-Prepare DRUG SCREENING QUESTIONNAIRE (PD407-1519
+In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the **Commanding Officer, Medical Division**, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of **alternate specimen(s)** to complete the drug screening test.
 
-## NOTE
+### Urine Sample Collection
 
-(continued)
+When urine samples are required, **two** urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
 
-ADDITIONAL
+### Additional Data
 
-DATA
+**Privacy and dignity** will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only **one person of the same sex**, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
 
-## UNIFORMED MEMBEROF THE SERVICE SELECTED FOR TESTING (continued)
+One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made **only after final confirmation testing** has been conducted. Negative test samples will **not** be maintained; instead, they will be **destroyed**.
 
-## ADDITIONAL DATA
+Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary **Charges and Specifications** are served. A member whose test is positive may, within **sixty days** of notification of such result, submit a written request to the **Department Advocate's Office** for further independent testing of the third sample by a laboratory certified by the **State of New York Department of Health**, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the **affected member of the service**. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-Members previously scheduled for individual days off (other than regular days off) may be excused from the test with the approval of the bureau chief/deputy commissioner concerned. Members scheduled for court or training on the 8 x 4 tour will appear for testing immediately upon completion of the court or training session. Members scheduled for a 12 x 8 tour on the testing day will appear for testing immediately upon completion of their scheduled 12 x 8 tour. Members reporting sick on the testing day will be required to visit a Department surgeon and obtain approval for excusal from the test.
+Positive test results, which indicate illegal drug/controlled substance use, will result in **Department Charges and Specifications**, and **suspension from duty**.
 
-5. MUST submit to a drug screening test. Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department.
-6. Prepare DRUG SCREENING QUESTIONNAIRE (PD407-1519) listing all medications ingested or prescribed in the last ninety days, prior to testing.
-7. Present shield and IDENTIFICATION CARD (PD416-091) at testing location to ensure the proper individual has reported for testing.
-8. Comply with instructions received at testing location.
-
-When hair samples are required, three hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, preferably the head. The samples will be individually placed in separate laboratory supplied 'Sample Acquisition Cards,' and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the Medical Division for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
-
-Except in unusual circumstances, samples will be taken at a facility operated by the Medical Division, or at another health care facility.
-
-In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the Commanding Officer, Medical Division, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of alternate specimen(s) to complete the drug screening test.
-
-When urine samples are required, two urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
-
-Privacy and dignity will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only one person of the same sex, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
-
-and will remain confidential unless and until Department disciplinary Charges an
-
-Specifications are served. A member whose test is positive may, within sixty days
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-08              | 10/12/23          | R.O. 51          | 3 of 3  |
-
-## ADDITIONAL DATA (continued)
-
-ANDA
-
-CITY
-
-One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
-
-Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary Charges and Specifications are served. A member whose test is positive may, within sixty days of notification of such result, submit a written request to the Department Advocate's Office for further independent testing of the third sample by a laboratory certified by the State of New York Department of Health, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the affected member of the service. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
-
-Positive test results, which indicate illegal drug/controlled substance use, will result in Department Charges and Specifications, and suspension from duty.
-
-NEW
-
-<!-- image -->
-
-POLICE
-
-DEPARTMENT
-
-DEFINITION
-
-NEW
-
-CITY
-
-not use illegal drugs/controlled substances and maintain the highest standards integrity and performance.
-
-YORK
-
-<!-- image -->
-
-## PURPOSE
-
-## ADMINISTRATIVE GUIDE
-
-Section:  Employee Rights/Responsibilities
-
+> **Sergeant Focus:** Key comparison of the three drug screening procedures:
+> - **A.G. 332-05** — Random screening for general uniformed members (NOT in DB sub-units, IAB, or Academy). CO Medical Division identifies members via ITB.
+> - **A.G. 332-07** — Screening for members APPLYING for specialized unit assignments. Member signs form acknowledging screening; can withdraw application with no penalty before notification.
+> - **A.G. 332-08** — Random screening for members ASSIGNED to select DB sub-units and IAB. Supervisor ITSD prepares computer program; Chief of Detectives/Deputy Commissioner IAB directs members to appear.
+>
+> All three share: 90-day medication questionnaire, ID verification, hair/urine collection procedures, privacy protections, 60-day independent testing right, and refusal = suspension + grounds for dismissal.
 ---
 
-# Section 332 — DRUG SCREENING TESTS AS CONDITION OF CIVIL SERVICE PROMOTION
+# Section 332 — Drug Screening Tests as Condition of Civil Service Promotion
 
 ## A.G. 332-09
 
-| DATEEFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|------------------|------------------|---------|
-| 02/16/22         | I.O. 13          | 1 of 3  |
+**Effective:** 11/18/21 | **Last Revision:** I.O. 99 | **Pages:** 1-3
+
+### Purpose
 
 To screen for illegal drug/controlled substance usage by uniformed members of the service as a condition of civil service promotion.
 
-## SCOPE
-
-## DEFINITION
-
-PROCEDURE
-
-NOTE
+### Scope
 
 The Department has a substantial interest in ensuring that uniformed members of the service being considered for promotion through civil service examinations do not use illegal drugs/controlled substances and maintain the highest standards of integrity and performance.
 
-CIVIL  SERVICE  PROMOTION  -  For  the  purpose  of  this  procedure,  a  civil service promotion is a promotion that is received as a result of a competitive civil service  examination.  Promotions  to  the  following  ranks  are  considered  civil service  and  are  covered  by  this  procedure:  Sergeant,  Lieutenant  and  Captain. Under this procedure, all candidates for civil service promotions are subject to drug screening.
+### Definition
 
-When  candidates  for  a  civil  service  promotion  are  required  to  submit  to  a  drug screening test as per their official Notice of Examination:
+**Civil Service Promotion** — For the purpose of this procedure, a civil service promotion is a promotion that is received as a result of a competitive civil service examination. Promotions to the following ranks are considered civil service and are covered by this procedure: **Sergeant, Lieutenant and Captain**. Under this procedure, all candidates for civil service promotions are subject to drug screening.
 
-The  required  screening  can  occur  prior  to  promotion  or  after  promotion  during  the probationary period.
+> **Exam Alert:** The three ranks covered under civil service promotion drug screening are Sergeant, Lieutenant, and Captain. Know these — the exam may ask which ranks are subject to drug screening as a condition of civil service promotion versus discretionary promotion.
 
-prior civil service title with no penalty or requirement to submit to d
+### Procedure
 
-## PRE-PROMOTION PROCEDURES
+When candidates for a civil service promotion are required to submit to a drug screening test as per their official Notice of Examination:
 
-Uniformed members of the service may withdraw as candidates for promotion with  no  penalty  or  requirement  to  submit  to  drug  screening  by  submitting  a written request to their commanding officer. This request should be made after receiving a notification of promotion but prior to actual promotion and prior to receiving  a  notification  to  report  for  a  drug  screening  test.  The  candidate's commanding officer will immediately forward two copies of the request to the Chief of Personnel (original through channels, copy DIRECT).
+- The required screening can occur **prior to promotion** or **after promotion during the probationary period**.
 
-## POST-PROMOTION PROCEDURES
+> **Exam Alert:** Drug screening for civil service promotion can happen either before or after the promotion (during probation). The key phrase from the procedure is that screening can occur "prior to promotion or after promotion during the probationary period."
 
-After  being  promoted  but  prior  to  receiving  a  notification  to  report  for  a  drug screening test,  uniformed members of the service may seek restoration to their prior  civil  service  title  with  no  penalty  or  requirement  to  submit  to  drug screening, by submitting a written request to their commanding officer, who will immediately  forward  two  copies  of  this  request  to  the  Chief  of  Personnel (original through channels, copy DIRECT).
+### Pre-Promotion Procedures
 
-VOTE
+Uniformed members of the service may withdraw as candidates for promotion with **no penalty** or requirement to submit to drug screening by submitting a **written request** to their commanding officer. This request should be made after receiving a notification of promotion but prior to actual promotion and prior to receiving a notification to report for a drug screening test. The candidate's commanding officer will immediately forward **two copies** of the request to the **Chief of Personnel** (original through channels, copy DIRECT).
 
-VOTE
+> **Sergeant Focus:** A candidate for civil service promotion can withdraw with no penalty at any time before they receive notification to report for drug screening. Once notified to report, withdrawal is no longer an option. The written request goes to the commanding officer, who forwards two copies to the Chief of Personnel.
 
-IDDITIONAL
+### Post-Promotion Procedures
 
-DATA
+After being promoted but prior to receiving a notification to report for a drug screening test, uniformed members of the service may seek **restoration to their prior civil service title** with no penalty or requirement to submit to drug screening, by submitting a written request to their commanding officer, who will immediately forward two copies of this request to the **Chief of Personnel** (original through channels, copy DIRECT).
 
-In all cases, if a uniformed member of the service refuses to submit to the test,
+> **Exam Alert:** Post-promotion withdrawal results in restoration to the member's prior civil service title, not just a return to duty. The member goes back to their previous rank.
 
-A.G. 318-06, permanent command will be responsible for suspending the member and complying w
+### Uniformed Member Concerned
 
-, "Suspension From Duty-Uniformed Member of the Service."
+1. **Must submit to a hair analysis drug screening test** when notified to report for drug screening.
+   - a. Refusal to submit to the test will result in **suspension from duty** and will be grounds for **dismissal from the Department**.
+   - b. All uniformed members of the service will be tested as a condition of civil service promotion.
 
-## ADMINISTRATIVE GUIDE
+> **Exam Alert:** Refusal to submit to a drug screening test results in two consequences: suspension from duty AND grounds for dismissal. The procedure uses "will" — this is mandatory, not discretionary.
 
-| PROCEDURE NUMBER:   | DATEEFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|------------------|------------------|---------|
-| 332-09              | 02/16/22         | I.O. 13          | 2 of 3  |
+In all cases, if a uniformed member of the service refuses to submit to the test, the permanent command will be responsible for suspending the member and complying with **A.G. 318-06**, "Suspension From Duty — Uniformed Member of the Service."
 
-## UNIFORMED MEMBER CONCERNED
-
-## NOTE
-
-1. Must submit to a hair analysis drug screening test when notified to report for drug screening.
-- a. Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department.
-- b. All uniformed members of the service will be tested as a condition of civil service promotion.
-
-In  all  cases,  if  a  uniformed  member  of  the  service  refuses  to  submit  to  the  test,  the permanent command will be responsible for suspending the member and complying with A.G. 318-06, 'Suspension From Duty-Uniformed Member of the Service.'
-
-2. Prepare DRUG  SCREENING  QUESTIONNAIRE  (PD407-1519) listing all medications ingested or prescribed in the last ninety days, prior to testing. maintained at all times.
-3. Present  shield  and IDENTIFICATION  CARD  (PD416-091) at  the testing  location  to  ensure  that  the  proper  individual  has  reported  for testing.
+2. Prepare **DRUG SCREENING QUESTIONNAIRE (PD407-1519)** listing all medications ingested or prescribed in the last **ninety days**, prior to testing.
+3. Present shield and **IDENTIFICATION CARD (PD416-091)** at the testing location to ensure that the proper individual has reported for testing.
 4. Comply with instructions received at testing location.
 
-When hair samples are required, three hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, preferably the  head.  The  samples  will  be  individually  placed  in  separate  laboratory  supplied 'Sample  Acquisition  Cards,'  and  sealed  by  the  collector  in  the  presence  of  the  test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed  and  dated  by  the  test  subject.  Two  hair  samples  will  be  forwarded  to  the contracted laboratory for analysis. The third hair sample will be secured at the Medical Division for use in testing, should the test of the first two hair samples reveal positive results  for  illegal  drugs/controlled  substances.  Appropriate  chain  of  custody  will  be maintained at all times.
+### Hair Sample Collection
 
-Except  in  unusual  circumstances,  samples  will  be  taken  at  a  facility  operated  by  the Medical Division, or at another health care facility.
+When hair samples are required, **three** hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, **preferably the head**. The samples will be individually placed in separate laboratory supplied "Sample Acquisition Cards," and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the **Medical Division** for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
 
-In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the Commanding Officer, Medical Division, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of alternate specimen(s) to complete the drug screening test.
+> **Exam Alert:** Three hair samples are collected — two go to the contracted laboratory, one is secured at the Medical Division. The third sample is specifically preserved for independent retesting if the first two come back positive.
 
-When  urine  samples  are  required,  two  urine  samples  will  be  collected,  each  in  a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately  with  the  member's  name  and  maintained  at  the  Medical  Division.  The member being tested and the witness will then initial the vial stickers.
+Except in unusual circumstances, samples will be taken at a facility operated by the **Medical Division**, or at another health care facility.
 
-The  vials  will  be  sealed  in  the  member's  presence  after  the  urine  samples  have  been collected. Appropriate chain of custody will be maintained at all times.
+In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the **Commanding Officer, Medical Division**, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of **alternate specimen(s)** to complete the drug screening test.
 
-## ADDITIONAL DATA
+### Urine Sample Collection
 
-·
+When urine samples are required, **two** urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
 
-Q
+### Additional Data
 
-DEPA
+**Privacy and dignity** will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only **one person of the same sex**, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
 
-conducted. Negative test samples will not be maintained; instead, they will be destroy
+> **Exam Alert:** The observer for urine sample collection must be of the same sex, consistent with the member's gender identity. This same person also collects the hair samples for chain of custody purposes.
 
-## ADMINISTRATIVE GUIDE
+One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made **only after final confirmation testing** has been conducted. Negative test samples will **not** be maintained; instead, they will be **destroyed**.
 
-| PROCEDURE NUMBER:   | DATEEFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|------------------|------------------|---------|
-| 332-09              | 02/16/22         | I.O. 13          | 3 of 3  |
+> **Exam Alert:** Negative test samples are destroyed — not retained. Positive test samples are maintained by the laboratory in a secure area.
 
-## ADDITIONAL DATA (continued)
+Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary **Charges and Specifications** are served. A member whose test is positive may, within **sixty days** of notification of such result, submit a written request to the **Department Advocate's Office** for further independent testing of the third sample by a laboratory certified by the **State of New York Department of Health**, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the **affected member of the service**. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-procedures.
+> **Exam Alert:** Key numbers for the exam: a member has **60 days** from notification to request independent testing. The independent laboratory must be certified by the State of New York Department of Health AND approved by the Medical Division. The member pays all costs of independent testing.
 
-NEW YORK
+Positive test results, which indicate illegal drug/controlled substance use, will result in **Department Charges and Specifications**, and **suspension from duty**.
 
-Privacy and dignity will be protected. Hair and urine samples will be collected under maximum  feasible  privacy.  Except  in  unusual  circumstances,  only  one  person  of  the same sex, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
+> **Sergeant Focus:** As a supervisor, understand the full chain of consequences for positive drug tests: Charges and Specifications plus suspension. Know that the member has 60 days to request independent testing at their own expense, through the Department Advocate's Office.
 
-One  or  more  scientifically  accepted  initial  screening  samples  will  be  employed  in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
+Uniformed members of the service screened under this procedure will continue to be subject to drug screening pursuant to the Department's random drug screening procedures.
+---
 
-Positive test samples will be maintained by the analyzing laboratory in a secure area, and  will  remain  confidential  unless  and  until  Department  disciplinary  Charges  and Specifications  are  served.  A  member  whose  test  is  positive  may,  within  sixty  days  of notification of such result, submit a written request to the Department Advocate's Office for further independent testing of the third sample by a laboratory certified by the State of New York Department of Health, and approved by the Medical Division to conduct the  particular  type  of  forensic  drug  testing  (i.e.,  urine  or  hair)  being  requested.  All additional  testing  expenses,  including  chain  of  custody,  will  be  paid  by  the  affected member  of  the  service.  The  results  of  the  additional  test  will  be  forwarded  by  the independent laboratory to the Medical Division. The Medical Division will then forward the  results  to  the  Department  Advocate's  Office.  The  affected  member/counsel  will  be notified of the results by the Department Advocate's Office.
+# Section 332 — Drug Screening for Uniformed Members as Condition of Discretionary Promotion
 
-Positive test results, which indicate illegal drug/controlled substance use, will result in Department Charges and Specifications, and suspension from duty.
+## A.G. 332-10
 
-Uniformed  members of the  service  screened  under  this  procedure  will  continue  to  be subject  to  drug  screening  pursuant  to  the  Department's  random  drug  screening procedures.
+**Effective:** 11/18/21 | **Last Revision:** I.O. 99 | **Pages:** 1-3
 
-<!-- image -->
-
-POLICE
-
-DEPARTMENT
-
-DEFINITION
-
-NEW
-
-CITY
-
-drugs/controlled substances and maintain the highest standards of integrity;
-
-performance.
-
-YORK
-
-<!-- image -->
-
-## PURPOSE
-
-## ADMINISTRATIVE GUIDE
-
-Section:  Employee Rights/Responsibilities
-
-Procedure No: 332-10
-
-## DRUG SCREENING FOR UNIFORMED MEMBERS OF THE SERVICE AS A CONDITION OF DISCRETIONARY PROMOTION
-
-DATE EFFECTIVE:
-
-02/16/22
-
-LAST REVISION:
-
-I.O.13
-
-PAGE:
-
-1 of 3
+### Purpose
 
 To screen for illegal drug/controlled substance usage by uniformed members of the service as a condition of discretionary promotion.
 
-promotions are subject to drug screening.
+### Scope
 
-SCOPE
+The Department has a substantial interest in ensuring that uniformed members of the service being considered for discretionary promotions do not use illegal drugs/controlled substances and maintain the highest standards of integrity and performance.
 
-ROCEDURE
+### Definition
 
-promotion:
+**Discretionary Promotion** — For the purpose of this procedure, a "discretionary" promotion is a promotion that is **not** received as a result of a competitive civil service examination. Promotions to the following ranks are considered discretionary and are covered by this procedure: **Detective Specialist, Detective Third Grade, Detective Second Grade, Detective First Grade, Sergeant/Special Assignment, Sergeant/Supervisor Detective Squad, Lieutenant/Special Assignment, Lieutenant/Commander Detective Squad, Deputy Inspector, Inspector, Deputy Chief, Assistant Chief, Bureau Chief and Chief of Department**. Under this procedure, all candidates for discretionary promotions are subject to drug screening.
 
-The Department has a substantial interest in ensuring that uniformed members of the  service  being  considered  for  discretionary  promotions  do  not  use  illegal drugs/controlled substances and maintain the highest standards of integrity and performance.
+> **Exam Alert:** Discretionary promotions are NOT from competitive civil service exams. Know the list of discretionary ranks — it includes detective grades, special assignment positions, and appointed ranks from Deputy Inspector up through Chief of Department. Note that "Sergeant" appears only in the discretionary context as "Sergeant/Special Assignment," which is different from the civil service Sergeant rank.
 
-Sign
+### Procedure
 
-MEMBER
+Uniformed members of the service who are candidates for discretionary promotion:
 
-## DEFINITION
+### Uniformed Member Concerned
 
-CONCERNED
+1. Sign form **DRUG SCREENING NOTICE — DISCRETIONARY PROMOTION (PD481-030)** which indicates that the member understands that drug screening is part of the candidate process for discretionary promotion.
+   - a. The required screening can occur at any time after the form is signed, but **not more than ninety days prior to promotion**, and **not more than eighteen months after the candidate has been promoted**.
 
-a.
+> **Exam Alert:** For discretionary promotion drug screening, the time frames are critical: screening can happen no more than 90 days before promotion AND no more than 18 months after promotion. This is different from civil service promotion screening, which occurs prior to or during the probationary period.
 
-form DRUG SCREENING NOTICE-DISCRETIONAI
+### Pre-Promotion Procedures
 
-DISCRETIONARY  PROMOTION  -  For  the  purpose  of  this  procedure,  a 'discretionary'  promotion  is  a  promotion  that  is  not  received  as  a  result  of  a competitive  civil  service  examination.  Promotions  to  the  following  ranks  are considered discretionary and are covered by this procedure: Detective Specialist, Detective Third Grade, Detective Second Grade, Detective First Grade, Sergeant/Special Assignment, Sergeant/Supervisor Detective Squad, Lieutenant/Special Assignment, Lieutenant/Commander Detective Squad, Deputy  Inspector,  Inspector,  Deputy  Chief,  Assistant  Chief,  Bureau  Chief  and Chief  of  Department.  Under  this  procedure,  all  candidates  for  discretionary promotions are subject to drug screening.
+Members may withdraw as candidates for promotion with **no penalty** or requirement to submit to drug screening by submitting a written request to their commanding officer. This request should be made after receiving a notification of promotion but prior to actual promotion and prior to receiving a notification to report for a drug screening test. (If the candidate has already signed the DRUG SCREENING NOTICE — DISCRETIONARY PROMOTION form, but has not yet been promoted, the candidate may still withdraw from consideration at any time prior to receiving a notification to report for a drug screening test). The candidate's commanding officer will immediately forward two copies of the request to the **Chief of Personnel** (original through channels, copy DIRECT).
 
-requirement to submit to drug screening by submitting a written request to tł
+> **Exam Alert:** Unlike civil service promotions, with discretionary promotions the member can withdraw even AFTER signing the DRUG SCREENING NOTICE form — as long as they have not yet received notification to report for screening. This is a key distinction.
 
-PROCEDURE
+### Post-Promotion Procedures
 
-Uniformed members of the service who  are candidates for discretionary promotion:
+After being promoted but prior to receiving a notification to report for a drug screening test, members of the service may seek **restoration to their prior title** with no penalty or requirement to submit to a drug screening test, by submitting a written request to their commanding officer, who will immediately forward two copies of the request to the **Chief of Personnel** (original through channels, copy DIRECT).
 
-## UNIFORMED MEMBER CONCERNED
+> **Sergeant Focus:** Note that for discretionary promotions, the restoration is to the member's "prior title" (not "prior civil service title" as in A.G. 332-09). This is because discretionary promotions involve ranks that may not be civil service positions.
 
-1. Sign form DRUG SCREENING NOTICE -DISCRETIONARY PROMOTION (PD481-030) which indicates that the member understands  that  drug  screening  is  part  of  the  candidate  process  for discretionary promotion.
-- a. The  required  screening  can  occur  at  any  time  after  the  form  is signed, but not more than ninety days prior to promotion, and not more than eighteen months after the candidate has been promoted.
+### Uniformed Member Concerned (continued)
 
-## PRE-PROMOTION PROCEDURES
+2. **Must submit to a hair analysis drug screening test** when notified to report for drug screening.
+   - a. Refusal to submit to the test will result in **suspension from duty** and will be grounds for **dismissal from the Department**.
+   - b. All uniformed members of the service will be tested as a condition of discretionary promotion.
 
-Members  may  withdraw  as  candidates  for  promotion  with  no  penalty  or requirement to submit to drug screening by submitting a written request to their commanding officer. This request should be made after receiving a notification of promotion but prior to actual promotion and prior to receiving a notification to report for a drug screening test. (If the candidate has already signed the DRUG SCREENING NOTICE -DISCRETIONARY PROMOTION form, but has not yet been promoted, the candidate may still withdraw from consideration at any time  prior  to  receiving  a  notification  to  report  for  a  drug  screening  test).  The candidate's  commanding  officer  will immediately  forward  two  copies  of  the request to the Chief of Personnel (original through channels, copy DIRECT).
+In all cases, if a uniformed member of the service refuses to submit to the test, the permanent command will be responsible for suspending the member and complying with **A.G. 318-06**, "Suspension From Duty — Uniformed Member of the Service."
 
-VOTE
-
-IDDITIONAL
-
-ATAR
-
-DIRECT).
-
-## ADMINISTRATIVE GUIDE
-
-All uniformed members of the service will be tested as a condit
-
-| PROCEDURE NUMBER:   | DATEEFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|------------------|------------------|---------|
-| 332-10              | 02/16/22         | I.O.13           | 2 of 3  |
-
-## UNIFORMED MEMBER CONCERNED (continued)
-
-testing.
-
-## NOTE
-
-## POST-PROMOTION PROCEDURES
-
-After  being  promoted  but  prior  to  receiving  a  notification  to  report  for  a  drug screening  test,  members  of  the  service  may  seek  restoration  to  their  prior  title with no penalty or requirement to submit to a drug screening test, by submitting a written request to their commanding officer, who will immediately forward two copies of the request to the Chief of Personnel (original through channels, copy DIRECT).
-
-2. Must submit to a hair analysis drug screening test when notified to report for drug screening.
-- a. Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department.
-- b. All uniformed members of the service will be tested as a condition of discretionary promotion.
-
-In  all  cases,  if  a  uniformed  member  of  the  service  refuses  to  submit  to  the  test,  the permanent command will be responsible for suspending the member and complying with A.G. 318-06, 'Suspension From Duty-Uniformed Member of the Service.'
-
-3. Prepare DRUG  SCREENING  QUESTIONNAIRE  (PD407-1519) listing all medications ingested or prescribed in the last ninety days, prior to testing. maintained at all times.
-
-Lupont
-
-## ADDITIONAL DATA
-
-4. Present  shield  and IDENTIFICATION  CARD  (PD416-091) at  the testing  location  to  ensure  that  the  proper  individual  has  reported  for testing.
+3. Prepare **DRUG SCREENING QUESTIONNAIRE (PD407-1519)** listing all medications ingested or prescribed in the last **ninety days**, prior to testing.
+4. Present shield and **IDENTIFICATION CARD (PD416-091)** at the testing location to ensure that the proper individual has reported for testing.
 5. Comply with instructions received at testing location.
 
-When hair samples are required, three hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, preferably the  head.  The  samples  will  be  individually  placed  in  separate  laboratory  supplied 'Sample  Acquisition  Cards,'  and  sealed  by  the  collector  in  the  presence  of  the  test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed  and  dated  by  the  test  subject.  Two  hair  samples  will  be  forwarded  to  the contracted laboratory for analysis. The third hair sample will be secured at the Medical Division for use in testing, should the test of the first two hair samples reveal positive results  for  illegal  drugs/controlled  substances.  Appropriate  chain  of  custody  will  be maintained at all times.
+### Hair Sample Collection
 
-Except  in  unusual  circumstances,  samples  will  be  taken  at  a  facility  operated  by  the Medical Division, or at another health care facility.
+When hair samples are required, **three** hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, **preferably the head**. The samples will be individually placed in separate laboratory supplied "Sample Acquisition Cards," and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the **Medical Division** for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
 
-In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the Commanding Officer, Medical Division, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of alternate specimen(s) to complete the drug screening test.
+Except in unusual circumstances, samples will be taken at a facility operated by the **Medical Division**, or at another health care facility.
 
-Privacy and dignity will be protected. Hair and urine samples will be collected un maximum feasible privacy. Except in unusual circumstances, only one person of
+In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the **Commanding Officer, Medical Division**, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of **alternate specimen(s)** to complete the drug screening test.
 
-| PROCEDURE NUMBER:   | DATEEFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|------------------|------------------|---------|
-| 332-10              | 02/16/22         | I.O.13           | 3 of 3  |
+### Urine Sample Collection
 
-One or more scientifically accepted initial screening samples will be employea
+When urine samples are required, **two** urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
 
-## ADDITIONAL DATA (continued)
+### Additional Data
 
-procedures.
+**Privacy and dignity** will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only **one person of the same sex**, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
 
-When  urine  samples  are  required,  two  urine  samples  will  be  collected,  each  in  a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately  with  the  member's  name  and  maintained  at  the  Medical  Division.  The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's  presence  after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
+One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made **only after final confirmation testing** has been conducted. Negative test samples will **not** be maintained; instead, they will be **destroyed**.
 
-Privacy and dignity will be protected. Hair and urine samples will be collected under maximum  feasible  privacy.  Except  in  unusual  circumstances,  only  one  person  of  the same sex, consistent with the member of the service's gender identity, will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
+Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary **Charges and Specifications** are served. A member whose test is positive may, within **sixty days** of notification of such result, submit a written request to the **Department Advocate's Office** for further independent testing of the third sample by a laboratory certified by the **State of New York Department of Health**, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the **affected member of the service**. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-One  or  more  scientifically  accepted  initial  screening  samples  will  be  employed  in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
+Positive test results, which indicate illegal drug/controlled substance use, will result in **Department Charges and Specifications**, and **suspension from duty**.
 
-Positive test samples will be maintained by the analyzing laboratory in a secure area, and  will  remain  confidential  unless  and  until  Department  disciplinary  Charges  and Specifications  are  served.  A  member  whose  test  is  positive  may,  within  sixty  days  of notification of such result, submit a written request to the Department Advocate's Office for further independent testing of the third sample by a laboratory certified by the State of New York Department of Health, and approved by the Medical Division to conduct the  particular  type  of  forensic  drug  testing  (i.e.,  urine  or  hair)  being  requested.  All additional  testing  expenses,  including  chain  of  custody,  will  be  paid  by  the  affected member  of  the  service.  The  results  of  the  additional  test  will  be  forwarded  by  the independent laboratory to the Medical Division. The Medical Division will then forward the  results  to  the  Department  Advocate's  Office.  The  affected  member/counsel  will  be notified of the results by the Department Advocate's Office.
+Uniformed members of the service screened under this procedure will continue to be subject to drug screening pursuant to the Department's random drug screening procedures.
 
-Positive test results, which indicate illegal drug/controlled substance use, will result in Department Charges and Specifications, and suspension from duty.
-
-Uniformed  members of the  service  screened  under  this  procedure  will  continue  to  be subject  to  drug  screening  pursuant  to  the  Department's  random  drug  screening procedures.
-
-POLICE
-
-CITY
-
-PROCEDURE
-
-NEW
-
-MEMBER OF
-
-who are the subject of unsubstantiated allegations of lllegal drug or controlled substance use where the reasonable suspicion standard has not been met. Prior to
-
-<!-- image -->
-
-PURPOSE
-
-SCOPE
-
-## PROCEDURE
-
-3.
-
-## MEMBER OF THE SERVICE
-
-of request.
-
-5.
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
-Procedure No:
-
-## VOLUNTARY DRUG TESTING
-
-LAST REVISION:
-
-I.O. 41
-
-DATE EFFECTIVE:
-
-04/06/22
-
-332-11
-
-1 of 1
-
-To  request  permission  to  voluntarily  take  a  drug  screening  test  to  determine illegal drug/controlled substance use.
-
-This procedure is available to members of the service (uniformed and civilian) who are the subject of unsubstantiated  allegations  of  illegal  drug  or  controlled substance use where the reasonable suspicion standard has not been met. Prior to requesting permission to take a voluntary drug screening test, which will consist of both hair and urine analysis, the member involved is entitled to consult with an attorney or appropriate line organization representative.
-
-When a  member  of  the  service  (uniformed  or  civilian)  requests  to  voluntarily take a drug screening test:
-
-1. Prepare  a  request  on Typed  Letterhead ,  addressed  to  the  Chief  of Personnel, asking permission to voluntarily take a drug screening test.
-- a. The request must contain:
-- (1) The circumstances under which the member   was accused of illegal drug/controlled substance use, and
-- b. The request may contain:
-- (1) The name of the union representative or attorney consulted regarding taking the drug screening test.
-2. Deliver the request, personally, to the Chief of Personnel or designee.
-
-The request must be delivered to the Chief of Personnel, or designee, within twenty-four hours of the time the member of the service became aware of the allegation of illegal drug/controlled substance use.
-
-3. Upon receipt of request, verify that the member of the service was in fact the subject of an allegation of illegal drug/controlled substance use.
-4. Determine  if  member  of  the  service  became  aware  of  the  allegation  of illegal drug/controlled substance use within twenty-four hours of delivery of request.
-5. Direct  member  of  the  service  to  report  to  the  Medical  Division  for voluntary drug screening, which consists of hair and urine analysis.
-
-The  restrictive  nature  of  this  procedure  should  result  in  a  limited  number  of  drug screening tests; however, the existence of this procedure will contribute to the goal of a drug free Department.
-
-This  procedure  is  not  available  to  members  of  the  service  who  have  been  notified  to report  for  drug  screening  pursuant  to  the  Department's  random  drug  screening procedures.
-
-Uniformed members of the service  screened  under  this  procedure  will  continue  to  be subject  to  drug  screening  pursuant  to  the  Department's  random  drug  screening procedures.
-
-PAGE:
-
-NOTE
-
-CHIEF OF
-
-ADDITIONAL
-
-DATA
-
-NOTE
-
-## CHIEF OF PERSONNEL/ DESIGNEE
-
-## ADDITIONAL DATA
-
-SCOPE
-
-POLICE
-
-CITY
-
-NEW
-
-COMMANDING
-
-OFFICER,
-
-MEDICAL
-
-DIVISION
-
-NOTE
-
-The Department's goal is to ensure the safety of its employees and the public by
-
-<!-- image -->
-
-PURPOSE
-
-SCOPE
-
-PROCEDURE
-
-THE SERVICE
-
-a.
-
-NOTE
-
-## COMMANDING OFFICER, MEDICAL DIVISION
-
-NOTE
-
-SUPERVISOR, COUNSELING SERVICES UNIT
-
-## MEMBER OF THE SERVICE
-
-NOTE
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
+> **Sergeant Focus:** The key differences between A.G. 332-09 (civil service) and A.G. 332-10 (discretionary) drug screening:
+> - Civil service: Screening occurs before or during probationary period; withdrawal restores to "prior civil service title"
+> - Discretionary: Screening must occur within 90 days before or 18 months after promotion; requires signing form PD481-030; withdrawal restores to "prior title"; can withdraw even after signing the notice form (before screening notification)
+> - Both share the same hair/urine collection procedures, privacy protections, and independent testing rights
 ---
 
-# Section 332 — COUNSELING SERVICES UNIT DRUG SCREENING
+# Section 332 — Voluntary Drug Testing
+
+## A.G. 332-11
+
+**Effective:** 11/18/21 | **Last Revision:** I.O. 99 | **Pages:** 1-2
+
+### Purpose
+
+To request permission to voluntarily take a drug screening test to determine illegal drug/controlled substance use.
+
+### Scope
+
+This procedure is available to members of the service (uniformed and civilian) who are the subject of **unsubstantiated allegations** of illegal drug or controlled substance use where the **reasonable suspicion standard has not been met**. Prior to requesting permission to take a voluntary drug screening test, which will consist of both hair and urine analysis, the member involved is entitled to consult with an **attorney or appropriate line organization representative**.
+
+> **Exam Alert:** Voluntary drug testing under A.G. 332-11 is only available when two conditions are met: (1) the allegation is unsubstantiated, and (2) the reasonable suspicion standard has not been met. This procedure is NOT available to members who have already been notified for random drug screening.
+
+### Procedure
+
+When a member of the service (uniformed or civilian) requests to voluntarily take a drug screening test:
+
+#### Member of the Service
+
+1. Prepare a request on **Typed Letterhead**, addressed to the **Chief of Personnel**, asking permission to voluntarily take a drug screening test.
+   - a. The request **must** contain:
+      - (1) The circumstances under which the member was accused of illegal drug/controlled substance use, and
+   - b. The request **may** contain:
+      - (1) The name of the union representative or attorney consulted regarding taking the drug screening test.
+2. Deliver the request, **personally**, to the Chief of Personnel or designee.
+
+> **Exam Alert:** The request must be on Typed Letterhead, addressed to the Chief of Personnel, and delivered personally. "Must" versus "may" — the circumstances of the accusation are mandatory to include; the name of the attorney/representative is optional.
+
+The request must be delivered to the Chief of Personnel, or designee, within **twenty-four hours** of the time the member of the service became aware of the allegation of illegal drug/controlled substance use.
+
+> **Exam Alert:** The 24-hour deadline is strict — the member must deliver the request within 24 hours of becoming aware of the allegation, not from when the allegation was made.
+
+#### Chief of Personnel / Designee
+
+3. Upon receipt of request, verify that the member of the service was in fact the subject of an **allegation** of illegal drug/controlled substance use.
+4. Determine if member of the service became aware of the allegation of illegal drug/controlled substance use within **twenty-four hours** of delivery of request.
+5. Direct member of the service to report to the **Medical Division** for voluntary drug screening, which consists of **hair and urine analysis**.
+
+> **Sergeant Focus:** As a supervisor, if a member approaches you about voluntary drug testing, be aware of the 24-hour time limit and that the request goes to the Chief of Personnel. The member is entitled to consult with an attorney or union rep before making the request. The screening covers both hair and urine — not just one type.
+
+### Additional Data
+
+The restrictive nature of this procedure should result in a limited number of drug screening tests; however, the existence of this procedure will contribute to the goal of a **drug free Department**.
+
+This procedure is **not available** to members of the service who have been notified to report for drug screening pursuant to the Department's random drug screening procedures.
+
+> **Exam Alert:** A member who has already been notified for random drug screening cannot use the voluntary testing procedure. Voluntary testing is exclusively for members facing unsubstantiated allegations where reasonable suspicion has not been met.
+
+Uniformed members of the service screened under this procedure will continue to be subject to drug screening pursuant to the Department's random drug screening procedures.
+
+> **Sergeant Focus:** Even if a member passes voluntary drug testing, they remain subject to the Department's random drug screening program. Voluntary testing does not create any exemption from future random screening.
+
+#### Commanding Officer, Medical Division
+
+Conduct voluntary drug screening, consisting of hair and urine analysis, as directed by the Chief of Personnel or designee.
+
+> **Sergeant Focus:** The Medical Division performs the voluntary drug screening only after the Chief of Personnel has verified the allegation and the 24-hour time requirement. The screening itself covers both hair and urine — this is mandatory for voluntary testing, unlike other procedures where only one type may be collected.
+---
+
+# Section 332 — Counseling Services Unit Drug Screening
 
 ## A.G. 332-12
 
-DATE EFFECTIVE:
+**Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Pages:** 1-2
 
-LAST REVISION:
+### Purpose
 
-PAGE:
-
-11/18/21
-
-I.O. 110
-
-1 of 2
-
-To screen uniformed and civilian members of the service for alcohol and illegal drugs/controlled  substances  at  the  completion  of  the  Counseling  Services  Unit Program.
+To screen uniformed and civilian members of the service for alcohol and illegal drugs/controlled substances at the completion of the Counseling Services Unit Program.
 
 The Department's goal is to ensure the safety of its employees and the public by maintaining a drug/controlled substance free work environment.
 
-When uniformed and civilian members of the service are screened for alcohol and  illegal  drugs/controlled  substances  at  the  completion  of  the  Counseling Services Unit Program:
+### Procedure
 
-1. Ensure the supervisor, Counseling Services Unit schedules all members of  the  service  (uniformed  and  civilian)  participating  in  the  Counseling Services  Unit  Program  for  a  urine  drug  screening  analysis,  prior  to  the completion of the program.
+When uniformed and civilian members of the service are screened for alcohol and illegal drugs/controlled substances at the completion of the Counseling Services Unit Program:
 
-The  purpose  of  the  urine  drug  screening  is  to  detect  the  presence  of  alcohol  and/or illegal drugs/controlled substances.
+#### Supervisor, Counseling Services Unit
 
-2. Schedule and notify all members of the service (uniformed and civilian) who  are  about  to  complete  the  Counseling  Services  Unit  Program  to appear at the Medical Division at the appropriate date and time.
-3. MUST report to Medical Division when notified, except if member is on:
-- a. Sick report
-- b. Bereavement leave
-- c. Terminal leave.
+1. Schedule all members of the service (uniformed and civilian) participating in the Counseling Services Unit Program for a **urine drug screening analysis**, prior to the completion of the program.
 
-Members scheduled for court may be directed to appear for testing immediately upon completion  of  court,  or  rescheduled  as  appropriate.  Members  reporting  sick  on  the testing  date  will  be  required  to  visit  a  Department  surgeon  and  obtain  approval  for excusal from the testing.
+The purpose of the urine drug screening is to detect the presence of alcohol and/or illegal drugs/controlled substances.
 
-4.
+2. Schedule and notify all members who are about to complete the Counseling Services Unit Program to appear at the **Medical Division** at the appropriate date and time.
 
-MUST submit to a urine drug screening analysis. Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department.
+#### Member of the Service
 
-5.
+3. **MUST** report to Medical Division when notified, except if member is on:
+   - a. Sick report
+   - b. Bereavement leave
+   - c. Terminal leave
 
-Prepare DRUG  SCREENING  QUESTIONNAIRE  (PD407-1519) listing all medications ingested or prescribed in the last ninety days, prior to testing.
+Members scheduled for court may be directed to appear for testing immediately upon completion of court, or rescheduled as appropriate. Members reporting sick on the testing date will be required to visit a Department surgeon and obtain approval for excusal from the testing.
 
-6. Present  shield  and IDENTIFICATION  CARD  (PD416-091) at  the testing  location  to  ensure  that  the  proper  individual  has  reported  for testing.
+> **Exam Alert:** There are only **three exceptions** to reporting for drug screening: sick report, bereavement leave, and terminal leave. Court appearances are NOT an exception — members must report immediately after court or be rescheduled.
+
+4. **MUST** submit to a urine drug screening analysis. **Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department.**
+
+> **Exam Alert:** Refusal to submit to drug screening = **suspension from duty AND grounds for dismissal**. This is one of the few instances where refusal automatically triggers suspension.
+
+5. Prepare **DRUG SCREENING QUESTIONNAIRE (PD407-1519)** listing all medications ingested or prescribed in the last **ninety days**, prior to testing.
+
+> **Exam Alert:** The Drug Screening Questionnaire covers medications from the last **90 days**. Form number is **PD407-1519**.
+
+6. Present shield and **IDENTIFICATION CARD (PD416-091)** at the testing location to ensure that the proper individual has reported for testing.
 7. Comply with instructions received at testing location.
 
-appropriate chain oj custoay will be maintainea at all umes.
+### Additional Data
 
-Except in unusual circumstances, samples will be taken at a facility operated by the
+#### Chain of Custody
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-12              | 11/18/21          | I.O. 110         | 2 of 2  |
+When urine samples are required, **two urine samples** will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate **chain of custody** will be maintained at all times.
 
-with the test subject to observe the urine sample being provided.
+#### Collection Facility
 
-## ADDITIONAL DATA
+Except in unusual circumstances, samples will be taken at a facility operated by the **Medical Division**, or at another health care facility.
 
-procedures.
+#### Privacy Protections
 
-When  urine  samples  are  required,  two  urine  samples  will  be  collected,  each  in  a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately  with  the  member's  name  and  maintained  at  the  Medical  Division.  The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's  presence  after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
+Privacy and dignity will be protected. Samples will be collected under maximum feasible privacy. Except in unusual circumstances, only **one person of the same sex** will be present with the test subject to observe the urine sample being provided.
 
-Except  in  unusual  circumstances,  samples  will  be  taken  at  a  facility  operated  by  the Medical Division, or at another health care facility.
+#### Testing Procedure
 
-Privacy and dignity will be protected. Samples will be collected under maximum feasible privacy. Except in unusual circumstances, only one person of the same sex will be present with the test subject to observe the urine sample being provided.
+One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made only after **final confirmation testing** has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
 
-One  or  more  scientifically  accepted  initial  screening  samples  will  be  employed  in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
+#### Right to Independent Testing
 
-A  member  whose  test  is  positive  may,  within  sixty  days  of  notification  of  such  result, submit  a  written  request  to  the  Department  Advocate's  Office  for  further  independent testing of the third sample by a laboratory certified by the State of New York Department of  Health,  and  approved  by  the  Medical  Division  to  conduct  the  particular  type  of forensic drug testing (i.e., urine). All testing expenses, including chain of custody, will be paid by the affected member of the service. The results of the retest will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
+A member whose test is positive may, within **sixty days** of notification of such result, submit a written request to the **Department Advocate's Office** for further independent testing of the third sample by a laboratory certified by the **State of New York Department of Health**, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine). All testing expenses, including chain of custody, will be **paid by the affected member**. The results of the retest will be forwarded by the independent laboratory to the Medical Division, which will forward to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-Positive test results, which indicate illegal drug/controlled substance use, will result in Department Charges and Specifications, and suspension from duty.
+> **Exam Alert:** The 60-day independent testing window, the NYS DoH certification requirement, and the fact that the **member pays all expenses** are commonly tested. The request goes to the Department Advocate's Office, not the Medical Division.
 
-Uniformed members of the service subject to screening under this procedure will also be subject  to  drug  screening  pursuant  to  the  Department's  random  drug  screening procedures.
+#### Positive Test Results
 
-<!-- image -->
+Positive test results, which indicate illegal drug/controlled substance use, will result in **Department Charges and Specifications, and suspension from duty**.
 
-POLICE
+> **Exam Alert:** Positive test = **Charges and Specifications + suspension**. This is automatic — not discretionary.
 
-CITY
+Uniformed members subject to screening under this procedure will also be subject to drug screening pursuant to the Department's **random drug screening** procedures.
 
-COMMANDING
-
-OFFICER,
-
-NEW
-
-MEDICAL
-
-DIVISION
-
-NOTE
-
-DRUG
-
-SCREENING
-
-UNIT
-
-POLICE
-
-OFFICER
-
-NOTE
-
-maintaining a drug/controlled substance free work environment.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
+> **Sergeant Focus:** As a supervisor, you are responsible for ensuring members scheduled for screening actually report. Know the three valid exceptions (sick, bereavement, terminal leave). Members on court must report after court or be rescheduled — court is not an excuse to skip testing. Monitor members returning from the Counseling Services Unit Program to ensure they complete the required screening.
 ---
 
 # Section 332 — END OF PROBATION DRUG SCREENING FOR PROBATIONARY POLICE OFFICERS
 
 ## A.G. 332-13
 
-DATE EFFECTIVE:
-
-LAST REVISION:
-
-PAGE:
-
-11-18-21
-
-I.O. 110
-
-1 of 3
-
-PURPOSE
+**Purpose**
 
 To drug screen probationary police officers during their end of probation medical exam prior to coming off probation.
 
-SCOPE
+**Scope**
 
 The Department's goal is to ensure the safety of its employees and the public by maintaining a drug/controlled substance free work environment.
 
-PROCEDURE
+## Procedure
 
 When probationary police officers submit to drug screening during their end of probation medical exam prior to coming off probation:
 
-## COMMANDING OFFICER, MEDICAL DIVISION
+## Commanding Officer, Medical Division
 
 1. Ensure that the supervisor, Drug Screening Unit schedules all probationary police officers for end of probation medical exams (which will include hair and urine analysis test) prior to the concerned member's end of probation.
 
-NOTE
+   > **NOTE:** Ordinarily, this will occur within six months of the date that the member is scheduled to end their probationary period.
 
-Ordinarily, this will occur within six months of the date that the member is scheduled to end their probationary period.
+## Supervisor, Drug Screening Unit
 
-## SUPERVISOR,
+2. Schedule and notify probationary police officers to report for their end of probation medical exam, including drug screening, at the Medical Division at the appropriate date and time.
 
-## DRUG SCREENING UNIT
+## Probationary Police Officer
 
-2. Schedule and notify probationary police officers to report for their end of probation medical  exam,  including  drug  screening, at the  Medical Division at the appropriate date and time.
+3. **MUST** report to Medical Division when notified, except if member is on:
+   - a. Sick report
+   - b. Regularly scheduled day off
+   - c. Military leave
+   - d. Annual vacation
+   - e. Bereavement leave
 
-## PROBATIONARY POLICE OFFICER 3.
+   > **NOTE:** Members scheduled for court or training may be directed to appear for testing immediately upon completion of court, or rescheduled as appropriate. Members reporting sick on the testing date will be required to visit a Department surgeon and obtain approval for excusal from the testing.
 
-MUST report to Medical Division when notified, except if member is on:
+4. **MUST** submit to a hair and urine analysis. Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department.
 
-- a. Sick report
+5. Prepare **DRUG SCREENING QUESTIONNAIRE (PD407-1519)** listing all medications ingested or prescribed in the last ninety days, prior to testing.
 
-- b. Regularly scheduled day off
+6. Present shield and **IDENTIFICATION CARD (PD416-091)** at the testing location to ensure that the proper individual has reported for testing.
 
-- c. Military leave
+7. Comply with instructions received at testing location.
 
-- d. Annual vacation
+## Additional Data
 
-- e. Bereavement leave.
+When hair samples are required, three hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, preferably the head. The samples will be individually placed in separate laboratory supplied "Sample Acquisition Cards," and sealed by the collector in the presence of the test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed and dated by the test subject. Two hair samples will be forwarded to the contracted laboratory for analysis. The third hair sample will be secured at the Medical Division for use in testing, should the test of the first two hair samples reveal positive results for illegal drugs/controlled substances. Appropriate chain of custody will be maintained at all times.
 
-3.
-
-will result in suspension from duty and will be grounds for dismissal from
-
-NOTE
-
-Members  scheduled  for  court  or  training  may  be  directed  to  appear  for  testing immediately  upon  completion  of  court,  or  rescheduled  as  appropriate.  Members reporting  sick  on  the  testing  date  will  be  required  to  visit  a  Department  surgeon  and obtain approval for excusal from the testing.
-
-4.
-
-- MUST submit to a hair and urine analysis. Refusal to submit to the test will result in suspension from duty and will be grounds for dismissal from the Department.
-5. Prepare DRUG  SCREENING  QUESTIONNAIRE  (PD407-1519 ) listing all medications ingested or prescribed in the last ninety days, prior to testing.
-6. Present  shield  and IDENTIFICATION  CARD  (PD416-091) at  the testing  location  to  ensure  that  the  proper  individual  has  reported  for testing.
-
-DALA
-
-Skın as possible. Ihe samples should be collected from the same body area, prejerably the head. The samples will be individually placed in separate laboratory supplied
-
-"Sample Acquisition Cards," and sealed by the collector in the presence of the test
-
-## ADMINISTRATIVE GUIDE
-
-results for illegal drugs/controlled substances. Appropriate chain of custody will be
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-13              | 11-18-21          | I.O. 110         | 2 of 3  |
-
-## PROBATIONARY 7. Comply with instructions received at testing location.
-
-## POLICE OFFICER (continued)
-
-## ADDITIONAL DATA
-
-sealed samples.
-
-When hair samples are required, three hair samples will be collected, cut as close to the skin as possible. The samples should be collected from the same body area, preferably the  head.  The  samples  will  be  individually  placed  in  separate  laboratory  supplied 'Sample  Acquisition  Cards,'  and  sealed  by  the  collector  in  the  presence  of  the  test subject. These cards will be placed in separate plastic bags, sealed by the collector, and initialed  and  dated  by  the  test  subject.  Two  hair  samples  will  be  forwarded  to  the contracted laboratory for analysis. The third hair sample will be secured at the Medical Division for use in testing, should the test of the first two hair samples reveal positive results  for  illegal  drugs/controlled  substances.  Appropriate  chain  of  custody  will  be maintained at all times.
-
-Except  in  unusual  circumstances,  samples  will  be  taken  at  a  facility  operated  by  the Medical Division, or at another health care facility.
+Except in unusual circumstances, samples will be taken at a facility operated by the Medical Division, or at another health care facility.
 
 In the event that the member concerned is unable to provide adequate hair samples as required in this procedure, the Commanding Officer, Medical Division, or designee, will be contacted. The Commanding Officer, Medical Division, or designee, may authorize the collection of alternate specimen(s) to complete the drug screening test.
 
-When  urine  samples  are  required,  two  urine  samples  will  be  collected,  each  in  a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately  with  the  member's  name  and  maintained  at  the  Medical  Division.  The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's  presence  after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
+When urine samples are required, two urine samples will be collected, each in a separate vial. Prior to testing, the drug screening serial number assigned by the Medical Division and date of test will be affixed to each vial. The serial number will be logged separately with the member's name and maintained at the Medical Division. The member being tested and the witness will then initial the vial stickers. The vials will be sealed in the member's presence after the urine samples have been collected. Appropriate chain of custody will be maintained at all times.
 
-Privacy and dignity will be protected. Hair and urine samples will be collected under maximum  feasible  privacy.  Except  in  unusual  circumstances,  only  one  person  of  the same  sex  will  be  present  with  the  test  subject  to  observe  the  urine  sample  being provided.  For  chain  of  custody  purposes,  that  same  person  will  also  collect  the  hair samples.
+Privacy and dignity will be protected. Hair and urine samples will be collected under maximum feasible privacy. Except in unusual circumstances, only one person of the same sex will be present with the test subject to observe the urine sample being provided. For chain of custody purposes, that same person will also collect the hair samples.
 
-One  or  more  scientifically  accepted  initial  screening  samples  will  be  employed  in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
+One or more scientifically accepted initial screening samples will be employed in analysis. A positive report will be made only after final confirmation testing has been conducted. Negative test samples will not be maintained; instead, they will be destroyed.
 
-Positive test samples will be maintained by the analyzing laboratory in a secure area, and  will  remain  confidential  unless  and  until  Department  disciplinary  Charges  and Specifications  are  served.  A  member  whose  test  is  positive  may,  within  sixty  days  of notification of such result, submit a written request to the Department Advocate's Office for further independent testing of the third sample by a laboratory certified by the State of New York Department of Health, and approved by the Medical Division to conduct the  particular  type  of  forensic  drug  testing  (i.e.,  urine  or  hair)  being  requested.  All additional  testing  expenses,  including  chain  of  custody,  will  be  paid  by  the  affected
+Positive test samples will be maintained by the analyzing laboratory in a secure area, and will remain confidential unless and until Department disciplinary **Charges and Specifications** are served. A member whose test is positive may, within sixty days of notification of such result, submit a written request to the Department Advocate's Office for further independent testing of the third sample by a laboratory certified by the State of New York Department of Health, and approved by the Medical Division to conduct the particular type of forensic drug testing (i.e., urine or hair) being requested. All additional testing expenses, including chain of custody, will be paid by the affected member of the service. The results of the additional test will be forwarded by the independent laboratory to the Medical Division. The Medical Division will then forward the results to the Department Advocate's Office. The affected member/counsel will be notified of the results by the Department Advocate's Office.
 
-Department cnarges ana specylcanons, ana suspension from aury.
-
-Probationary police officers who graduated from the Police Academy and are subject to
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-13              | 11-18-21          | I.O. 110         | 3 of 3  |
-
-## ADDITIONAL DATA (continued)
-
-member  of  the  service.  The  results  of  the  additional  test  will  be  forwarded  by  the independent laboratory to the Medical Division. The Medical Division will then forward the  results  to  the  Department  Advocate's  Office.  The  affected  member/counsel  will  be notified of the results by the Department Advocate's Office.
-
-Positive test results, which indicate illegal drug/controlled substance use, will result in Department Charges and Specifications, and suspension from duty.
+Positive test results, which indicate illegal drug/controlled substance use, will result in Department **Charges and Specifications**, and suspension from duty.
 
 Probationary police officers who graduated from the Police Academy and are subject to screening under this procedure will also be subject to drug screening pursuant to the Department's random drug screening procedures.
 
-DEALINE,
+> **Exam Alert:** Know the five exceptions to mandatory reporting (sick report, regularly scheduled day off, military leave, annual vacation, bereavement leave). Know that refusal to submit results in suspension from duty AND grounds for dismissal. Remember that hair samples are collected in sets of three (two for analysis, one secured at Medical Division for retesting). Urine samples are collected in sets of two. The 60-day window for requesting independent testing is a frequent exam topic.
 
-<!-- image -->
+> **Exam Alert:** The Drug Screening Questionnaire (PD407-1519) covers medications from the last ninety days. Members must present their Identification Card (PD416-091) at the testing location. A positive result requires final confirmation testing — a single positive initial screen is not sufficient for a positive report.
 
-DEFINITION
-
-SCOPE
-
-## DEFINITION
-
-PROCEDURE
-
-## SCOPE
-
-UNIT
-
-RECEIVING
-
-NOTIFICATION
-
-MEMBER
-
-## PROCEDURE
-
-CENTER
-
-1.
-
-Law tor the investigation of allegations of retallation made by members of the service who have voluntarily reported misconduct or corruption.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
+> **Sergeant Focus:** As a supervisor, ensure probationary officers under your command are scheduled for end of probation medical exams within the six-month window. If a probationary officer reports sick on the testing date, they must visit a Department surgeon and obtain approval for excusal. Be aware that the same-sex observer requirement applies to both urine and hair collection for chain of custody purposes. Understanding the distinction between this procedure and random drug screening (A.G. 332-11) is critical — probationary officers are subject to both.
 
 ---
 
-# Section 332 — INVESTIGATION OF INCIDENTS OF RETALIATION
+# Section 332 — Investigation of Incidents of Retaliation
 
-## A.G. 332-14
+## A.G. 332-14: Investigation of Incidents of Retaliation
 
-DATE EFFECTIVE:
+### Purpose
 
-LAST REVISION:
+To provide guidelines in accordance with the provisions of the **Whistleblowers Law** for the investigation of allegations of retaliation made by members of the service who have voluntarily reported misconduct or corruption.
 
-PAGE:
+### Definitions
 
-03/17/25
+**Whistleblowers Law** — An Administrative Code provision which encourages City employees to report improper conduct (i.e., corruption, criminal activity, conflict of interest, gross mismanagement, or abuse of authority) within their respective agencies. This law protects City employees who report such wrongdoing from any form of retaliation, including:
 
-R.O. 12
+- Dismissal, demotion, suspension, disciplinary action
+- Negative performance evaluation
+- Any action resulting in loss of staff, office space, equipment, or other benefit
+- Failure to appoint or promote
+- Any transfer or assignment (or failure to transfer or assign) against the wishes of the affected employee
 
-1 of 2
+### Policy
 
-## PURPOSE
+The Department has the responsibility to encourage members to come forward and voluntarily provide information regarding misconduct and corruption. Inherent in this responsibility is the ability to protect those members from retaliation.
 
-To provide guidelines in accordance with the provisions of the Whistleblowers Law for the investigation of allegations of retaliation made by members of the service who have voluntarily reported misconduct or corruption.
+**IT IS THE POLICY OF THIS DEPARTMENT THAT RETALIATION AGAINST ANY MEMBER OF THE SERVICE FOR VOLUNTARILY PROVIDING INFORMATION REGARDING MISCONDUCT AND CORRUPTION WILL NOT BE TOLERATED.**
 
-WHISTLEBLOWERS LAW An Administrative Code provision which encourages City employees to report improper conduct, i.e., corruption, criminal activity, conflict of interest, gross mismanagement or abuse of authority, within their respective agencies. This law protects City employees who report such wrongdoing from any form of retaliation, i.e., dismissal, demotion, suspension, disciplinary action, negative performance evaluation, any action resulting in loss of staff, office space or equipment or other benefit, failure to appoint, failure to promote, or any transfer or assignment or failure to transfer or assign against the wishes of the affected employee.
+> **Exam Alert:** The Department's policy is absolute: retaliation for voluntarily reporting misconduct or corruption will NOT be tolerated. Know this policy statement — it has appeared on prior exams.
 
-The Department has the responsibility to encourage members to come forward and voluntarily provide information regarding misconduct and corruption. Inherent in this responsibility is the ability to protect those members from retaliation. IT IS THE POLICY OF THIS DEPARTMENT THAT RETALIATION AGAINST ANY MEMBER OF THE SERVICE FOR VOLUNTARILY PROVIDING INFORMATION REGARDING MISCONDUCT ANDCORRUPTIONWILLNOTBETOLERATED.
+### Procedure
 
-When a member of the service believes they are the victim of retaliation for voluntarily providing information regarding misconduct or corruption.
+When a member of the service believes they are the victim of retaliation for voluntarily providing information regarding misconduct or corruption:
 
-1. Notify Internal Affairs Bureau Command Center.
+#### Member of the Service
 
-2.
+1. Notify **Internal Affairs Bureau Command Center**
 
-3.
+#### Unit Receiving Notification
 
-4.
+2. Notify **Internal Affairs Bureau** and forward all pertinent information
+   - a. Make reasonable efforts to protect the **anonymity and confidentiality** of the employee making the allegation
 
-Notify Internal Affairs Bureau and forward all pertinent information.
+#### Member Concerned, IAB Command Center
 
-- a. Make reasonable efforts to protect the anonymity and confidentiality of the employee making the allegation.
+3. Record pertinent information and assign a **log number**
+4. Have an **immediate preliminary investigation** conducted to obtain all available facts and evidence
+   - a. Indicate results in log
 
-Record pertinent information and assign a log number.
+#### Note — EEO-Related Retaliation
 
-Have an immediate preliminary investigation conducted to obtain all available facts and evidence.
+Members of the service should comply with the provisions of **A.G. 332-01, "Employment Discrimination"** to lodge a complaint of retaliation regarding an equal employment opportunity issue. Allegations of retaliation involving EEO issues (employment discrimination, sexual harassment, etc.) **MUST** be referred to the **Office of Equal Employment Opportunity** for investigation.
 
-- a. Indicate results in log.
+> **Exam Alert:** Retaliation for reporting misconduct/corruption goes to **IAB**. Retaliation for **EEO matters** goes to **OEEO** under A.G. 332-01. Know which entity handles which type of retaliation — this is a frequent exam distinction.
 
-Members of the service should comply with the provisions of A.G. 332-01, 'Employment Discrimination,' to lodge a complaint of retaliation regarding an equal employment opportunity issue. Allegations of retaliation involving equal employment opportunity issues (employment discrimination, sexual harassment, etc.) MUST be referred to the Office of Equal Employment Opportunity for investigation.
+> **Sergeant Focus:** As a supervisor, if a member reports retaliation, you must understand the distinction: misconduct/corruption retaliation is investigated by IAB; EEO-related retaliation is investigated by OEEO. Direct the member accordingly.
 
-a.
+#### IAB Investigative Group
 
-a.
+5. Evaluate each complaint to determine whether the case may fall within the purview of the **Whistleblowers Law**
+6. Refer cases requiring further investigation concerning violations of the Whistleblowers Law to either the **Internal Affairs Bureau** or **Office of Equal Employment Opportunity**, as applicable
 
-## MEMBEROF THE SERVICE
+Only the **Internal Affairs Bureau** or the **Office of Equal Employment Opportunity** are authorized to conduct investigations involving allegations of retaliation against any member of the service for voluntarily having provided information regarding misconduct or corruption. Allegations which do not violate the Whistleblowers Law will be referred to the appropriate investigative unit concerned for additional action.
 
-## UNIT RECEIVING NOTIFICATION
+> **Exam Alert:** Only IAB or OEEO are authorized to investigate retaliation allegations under the Whistleblowers Law. Other investigative units may only handle allegations that do NOT violate the Whistleblowers Law.
 
-## MEMBER CONCERNED, IAB COMMAND CENTER
+7. Forward report through channels upon completion of investigation
 
-## NOTE
-
-NOTE
-
-IAB
-
-GROUP
-
-NOTE
-
-DATA
-
-equal employment opportunity, as appicable.
-
-Only the Internal Affairs Bureau or the Office of Equal Employment Opportunity ar
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-14              | 03/17/25          | R.O. 12          | 2 of 2  |
-
-## INTERNAL AFFAIRS BUREAU
-
-NOTE
-
-DEPUTY
-
-COMMISSIONER,
-
-INTERNAL
-
-## IAB INVESTIGATIVE GROUP
-
-5. Evaluate each complaint to determine whether the case may fall within the purview of the Whistleblowers Law.
-6. Refer cases requiring further investigation concerning violations of the Whistleblowers Law to either the Internal Affairs Bureau or Office of Equal Employment Opportunity, as applicable.
-
-Only the Internal Affairs Bureau or the Office of Equal Employment Opportunity are authorized to conduct investigations involving allegations of retaliation against any member of the service for voluntarily having provided information regarding misconduct or corruption. Allegations which do not violate the Whistleblowers Law will be referred to the appropriate investigative unit concerned for additional action.
-
-7. Forward report through channels upon completion of investigation.
-
-Chaplains Unit, Police Officers Providing Peer Assistance [POPPA], etc.) are available t
-
-NOTE
+#### Note — OEEO Confidentiality
 
 Due to the need to maintain the confidentiality of investigations to the extent possible, the Office of Equal Employment Opportunity will not be required to forward reports of employment discrimination retaliation. These reports will remain on file at the Office of Equal Employment Opportunity until such time that disclosure thereof is necessary.
 
-## DEPUTY COMMISSIONER, INTERNAL AFFAIRS
+#### Deputy Commissioner, Internal Affairs
 
-8. Forward report and recommendations to the Police Commissioner.
+8. Forward report and recommendations to the **Police Commissioner**
 
-## ADDITIONAL DATA
+### Additional Data
 
-Members of the service are reminded that resources (i.e., Employee Assistance Unit, Chaplains Unit, Police Officers Providing Peer Assistance [POPPA], etc.) are available to provide help in addressing a personal or professional problem.
+Members of the service are reminded that resources are available to provide help in addressing a personal or professional problem:
 
-To obtain additional resources, information and guidance, members can refer to the Personnel Bureau's Department Intranet homepage. Once on the homepage, members are directed to click on the 'Employee Assistance' folder in the 'Documents' Section.
+- **Employee Assistance Unit**
+- **Chaplains Unit**
+- **Police Officers Providing Peer Assistance (POPPA)**
 
-<!-- image -->
+To obtain additional resources, information, and guidance, members can refer to the Personnel Bureau's Department Intranet homepage. Once on the homepage, members are directed to click on the **"Employee Assistance"** folder in the **"Documents"** section.
 
-PROCEDURE
+> **Sergeant Focus:** Know the available resources for members experiencing retaliation or related stress. As a supervisor, you should be prepared to direct members to the Employee Assistance Unit, Chaplains Unit, or POPPA. This is both a leadership and exam topic.
 
-GRIEVANT
-
-PROCEDURE
-
-## GRIEVANT
-
-through Deputy Chiet.
-
-DEFINITIONS
-
-<!-- image -->
-
-## PURPOSE
-
-d.
-
-## DEFINITIONS
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
+> **See Also:** A.G. 332-01 — Employment Discrimination/Retaliation (for EEO-related retaliation)
 
 ---
 
-# Section 332 — GRIEVANCE - UNIFORMED MEMBER
+# Section 332 — Grievance — Uniformed Member
 
-## A.G. 332-15
+## A.G. 332-15: Grievance — Uniformed Member
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 01/07/26          | R.O. 6           | 1 of 3  |
+**Date Effective:** 01/07/26 | **Last Revision:** R.O. 6 | **Pages:** 3
 
-A claimed violation, misinterpretation or misapplication of the Guideline
+### Purpose
 
-To adjudicate grievances of uniformed members of the service - Police Officer through Deputy Chief.
+To adjudicate grievances of uniformed members of the service — **Police Officer through Deputy Chief**.
 
-GRIEVANCE - For the purpose of this procedure shall mean:
+### Definitions
 
-A claimed violation, misinterpretation or inequitable application of the provisions of the collective bargaining agreement;
+- **Grievance** — For the purpose of this procedure, a claimed:
+  - a. Violation, misinterpretation, or inequitable application of the provisions of the **collective bargaining agreement**
+  - b. Violation, misinterpretation, or misapplication of the **written rules, regulations, or procedures** of the Police Department affecting terms and conditions of employment (grievances shall **not** include disciplinary matters)
+  - c. Violation, misinterpretation, or misapplication of the **Guidelines for Interrogation of Members of the Police Department** as contained in the collective bargaining agreement
+  - d. Improper holding of an **open-competitive** rather than a **promotional** examination
+  - e. Assignment of the grievant to duties **substantially different** from those stated in the grievant's job title specification
 
-a.
+- **Commanding Officer** — Immediate commanding officer of the aggrieved employee
 
-b.
+- **Reviewing Officer** — The superior officer in charge of the next higher command or level above the commanding officer
 
-employee.
+- **Personnel Grievance Board** — Composed of:
+  - Commanding Officer, Office of Labor Relations (**Chair**)
+  - Chief of Department or designee
+  - Chief of Personnel or designee
+  - Grievant's individual union presidents or designee
 
-Aclaimed violation, misinterpretation or misapplication of the written rules, regulations or procedures of the Police Department affecting terms and conditions of employment. Grievances shall not include disciplinary matters;
+- **Grievant** — An employee or group of employees asserting a grievance, or the Union, or both, as the context requires
 
-- c. A claimed violation, misinterpretation or misapplication of the Guidelines for Interrogation of Members of the Police Department as contained in the collective bargaining agreement;
-- d. A claimed improper holding of an open-competitive rather than a promotional examination;
-- e. A claimed assignment of the grievant to duties substantially different from those stated in the grievants job title specification.
+> **Exam Alert:** Grievances do **not** include disciplinary matters. A grievance must be initiated within **90 days** of the occurrence or when the grievant should reasonably have learned of it, whichever is later. Know the five categories of grievance (a through e) — they are distinct from disciplinary proceedings.
 
-COMMANDING OFFICER - immediate commanding officer of the aggrieved employee.
-
-REVIEWING OFFICER - the superior officer in charge of the next higher command or level above the commanding officer.
-
-PERSONNEL GRIEVANCE BOARD - composed of the following members: Commanding Officer, Office of Labor Relations (Chair), Chief of Department or designee, Chief of Personnel or designee. The grievants shall be represented by their individual union presidents or designee.
-
-GRIEVANT - an employee or group of employees asserting a grievance or the Union or both, as the context requires.
+### Procedure
 
 When a uniformed member of the service has a grievance:
 
-1. Continue to perform assigned duties and obey lawful orders.
+1. Continue to perform assigned duties and obey **lawful orders**
 
-## STEP I
+> **Exam Alert:** The availability of the grievance or arbitration procedure does **not** justify a failure to follow lawful orders. A grievant must continue performing duties throughout the process.
 
-2. Present grievance to commanding officer either orally or in writing within 90 days of occurrence.
-- a. The grievant may permit employee representative to present grievance, if desired.
+#### Step I — Commanding Officer
 
-Alevery step of ine grevance proceaure, Ine grevant ana ine commanaing Ojicer Constaering In grievance shall work for a satisfactory adjustment. The supervisor shall have the right to summo
+2. Present grievance to commanding officer either **orally or in writing** within **90 days** of occurrence
+   - a. The grievant may permit an **employee representative** to present grievance, if desired
 
-any persons considered necessary for an equitable adjustment. Proceedings will be informal.
+**Commanding Officer:**
 
-## ADMINISTRATIVE GUIDE
+3. Carefully consider the grievance **objectively**, with a view toward harmonious interrelationships within the command and good order of the Department
+4. Advise grievant, within **five days** of submission of grievance, of decision reached
+5. Take necessary action, within scope of authority, to resolve grievance
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-15              | 01/07/26          | R.O. 6           | 2 of 3  |
+> **Sergeant Focus:** At every step of the grievance procedure, the grievant and the commanding officer considering the grievance shall work for a **satisfactory adjustment**. The supervisor shall have the right to summon any persons considered necessary for an equitable adjustment. Proceedings will be **informal**.
 
-## COMMANDING OFFICER 3.
+#### Step II — Reviewing Officer
 
-GRIEVANT
+6. Prepare **three copies** of the grievance within **ten days** of receiving the commanding officer's decision if further review is desired, including:
+   - a. Concise statement of grievance
+   - b. Results of proceedings during Step I
+7. Forward two copies to designated reviewing officer and retain one copy for personal record and use
 
-## NOTE
+**Reviewing Officer:**
 
-REVIEWING
+8. Forward one copy to grievant's commanding officer, requesting their comments
+9. Carefully consider grievance and make determination
+10. Advise grievant and commanding officer within **ten days** of decision reached
+11. Take necessary action within scope of authority to resolve grievance
 
-OFFICER
+> **Exam Alert:** Know the timelines: Step I response within **5 days**, Step II and III must be filed within **10 days** of receiving the prior step's decision. The reviewing officer must also respond within **10 days**.
 
-10.
+#### Step III — Personnel Grievance Board
 
-GRIEVANT
+12. Prepare **five copies** of the grievance within **ten days** of receiving reviewing officer's decision if further review is desired, including:
+    - a. A concise statement of the grievance
+    - b. The results of the proceedings during Step I and Step II
+    - Forward four copies through channels to the Chair, Personnel Grievance Board and retain one copy for personal record and use
 
-STEP III
+**Note:** Certain grievable disputes that have **Department-wide application** or are of such scope as to make adjustments at Step I or Step II **impracticable** may be instituted directly at **Step III** by filing the required written statement of the grievance to the Chair, Personnel Grievance Board or their designee, either on their own or through a union representative.
 
-GRIEVANT
+**Chair, Personnel Grievance Board:**
 
-12.
+13. Forward one copy of the grievance to the reviewing officer concerned, requesting their comments
+14. Convene meeting of the Board **at least once each month** to discuss and consider properly referred grievances
+15. Advise grievant, union representative, commanding officer, and reviewing officer of decision reached within **seven days**
+16. Take necessary steps to implement decisions resolving the grievance
+    - a. Issue where appropriate, through the Chief of Department, orders and instructions consistent with this procedure
 
-## REVIEWING OFFICER
+> **Sergeant Focus:** Know the Personnel Grievance Board composition: C.O. Office of Labor Relations (Chair), Chief of Department or designee, Chief of Personnel or designee, plus the grievant's union presidents or designee. The Board must convene at least **once per month**.
 
-NOTE
+#### Step IV — Police Commissioner
 
-Carefully consider the grievance objectively, with a view toward harmonious interrelationships within the command and good order of the Department.
+17. Refer grievance to the **Police Commissioner** for final determination if unable to adjust matter
 
-At every step of the grievance procedure, the grievant and the commanding officer considering the grievance shall work for a satisfactory adjustment. The supervisor shall have the right to summon any persons considered necessary for an equitable adjustment. Proceedings will be informal.
+### Additional Data
 
-4. Advise grievant, within five days of submission of grievance, of decision reached.
-5. Take necessary action, within scope of authority, to resolve grievance.
+- The Police Commissioner shall make a **final agency determination** within **ten working days** following receipt of the grievance, after appropriate consultation with all parties to the grievance, including the Chair, Personnel Grievance Board and/or Board members. Copies shall be sent to the grievant and the union.
 
-## STEP II
+- Within **twenty days** following receipt of any Police Commissioner's Step IV decision, the Union shall have the right to bring a grievance unresolved at Step IV to **impartial arbitration** pursuant to the New York City Collective Bargaining Law and the Consolidated Rules of the New York City Office of Collective Bargaining.
 
-6. Prepare three copies of the grievance within ten days of receiving the commanding officer's decision if further review is desired and include:
-- a. Concise statement of grievance and,
-- b. Results of proceedings during step I
-7. Forward two copies to designated reviewing officer and retain one copy for personal record and use.
+- The grievance procedure operates within the framework of, and is **not** intended to abolish or supersede, existing rules and procedures providing for additional methods of redress. These include the existing rights of a grievant to request an **interview with the Police Commissioner**.
 
-a.
+- Any questions concerning this procedure should be referred to the **Commanding Officer, Office of Labor Relations**.
 
-8. Forward one copy to grievant's commanding officer, requesting their comments. b.
-9. Carefully consider grievance and make determination.
-10. Advise grievant and commanding officer within ten days of decision reached.
-11. Take necessary action within scope of authority to resolve grievance.
+- The grievant shall have the right to present a grievance **free from coercion, interference, restraint, or reprisal**.
 
-thoroforo mh rouancos mm, ho institutod at Ston Il of tho orioanco neocoduro hu filino tl
+- The **informal resolution** of differences or grievances is urged and encouraged at all levels of supervision.
 
-## STEP III
+- An employee may present their own grievance through the first four steps **either individually** (with aid of their own counsel if they so choose) **or through the union**. The union shall have the right to have a **representative present at each step** of the grievance procedure.
 
-12.
+- A grievance must be initiated within **90 days** following the date on which the grievance arose or the date on which the grievant should reasonably have learned of the grievance, whichever date is the latest.
 
-- Prepare five copies of the grievance within ten days of receiving reviewing officers decision if further review is desired and include:
-- a. A concise statement of the grievance, and
-- b. The results of the proceedings during Step I and II. Forward four copies through channels to the Chair, Personnel Grievance
+> **Exam Alert:** Key timeline summary: **90 days** to initiate grievance, **5 days** for CO response (Step I), **10 days** to appeal (Steps II and III), **10 days** for reviewing officer response (Step II), **7 days** for Board decision (Step III), **10 working days** for Police Commissioner determination (Step IV), **20 days** for Union to seek arbitration after Step IV.
 
-Board and retain one copy for personal record and use.
+> **Sergeant Focus:** As a sergeant, you may be the commanding officer at Step I. You must respond within **5 days**, consider the grievance objectively, and work toward a satisfactory adjustment informally. Remember: grievances do not include disciplinary matters. The grievant has the right to an employee representative. Failing to follow lawful orders is never justified by the grievance process.
 
-There are certain grievable disputes which have Department-wide application or are of such a scope as to make adjustments at Step I or Step II of the grievance procedure impracticable, and therefore such grievances may be instituted at Step III of the grievance procedure by filing the required written statement of the grievance to the Chair, Personnel Grievance Board or their designee, either on their own, or through a union representative.
-
-14. Forward one copy of the grievance to the reviewing officer concerned, requesting their comments.
-15. Convene meeting of the Board at least once each month to discuss and consider properly referred grievances.
-
-8.
-
-GRIEVANT
-
-## NOTE
-
-## CHAIR, PERSONNEL GRIEVANCE BOARD
-
-a.
-
-b.
-
-13.
-
-(continued)
-
-CHAIR,
-
-STEP IV
-
-## ADMINISTRATIVE GUIDE
-
-GRIEVANCE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-15              | 01/07/26          | R.O. 6           | 3 of 3  |
-
-BOARD
-
-DATA
-
-## CHAIR,
-
-## PERSONNEL GRIEVANCE BOARD (continued)
-
-16. Advise grievant, union representative, commanding officer, and reviewing officer of decision reached within seven days.
-17. Take necessary steps to implement decisions resolving the grievance.
-- a. Issue where appropriate, through the Chief of Department, orders and instructions consistent with this procedure.
-
-grievant and the union.
-
-## STEP IV
-
-18. Refer grievance to the Police Commissioner for final determination if unable to adjust matter.
-
-intended to abolish or supersede, existing rules and procedures providing for addition
-
-## CHAIR, PERSONNEL GRIEVANCE BOARD
-
-## ADDITIONAL DATA
-
-orders.
-
-supervision.
-
-nrocedure
-
-The Police Commissioner shall make a final agency determination within ten working days following receipt of the grievance. This determination shall be made after appropriate consultation with any and all parties to the grievance, including the Chair, Personnel Grievance Board and/or Board members and copies shall be sent to the grievant and the union.
-
-Within twenty days following the receipt of any Police Commissioner's Step IV decision, the Union shall have the right to bring grievance unresolved at Step IV to impartial arbitration pursuant to the New York City Collective Bargaining Law and the Consolidated Rules of the New York City Office of Collective Bargaining.
-
-The grievance procedure is designed to operate within the framework of, and is not intended to abolish or supersede, existing rules and procedures providing for additional methods of redress. These include, but are not limited to, the existing rights of a grievant to request an interview with the Police Commissioner. Any questions concerning this procedure should be referred to the Commanding Officer, Office of Labor Relations.
-
-The availability of the grievance or arbitration procedure shall not justify a failure to follow lawful orders.
-
-The grievant shall have the right to present a grievance in accord with the procedure provided herein, free from coercion, interference, restraint or reprisal.
-
-The informal resolution of differences or grievances is urged and encouraged at all levels of supervision.
-
-An employee may present their own grievance through the first four steps of the grievance procedure listed below either individually (with aid of the employee's own counsel if the employee so chooses), or through the union, provided, however, that the union shall have the right to have a representative present at each step of the grievance procedure.
-
-Under the grievance procedure, a grievance must be initiated within 90 days following the date on which the grievance arose or the date on which the grievant should reasonably have learned of the grievance, whichever date is the latest.
-
-ana instrucuons consistent wim unis procedure.
-
-PROCEDURE
-
-MEMBER OF
-
-THE SERVICE
-
-<!-- image -->
-
-PURPOSE
-
-PROCEDURE
-
-excluding trips required for return of prisoners, subpoenas or investigations.
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
+> **See Also:** A.G. 318-11 — Interrogation of Members of the Service (grievance category c covers violations of interrogation guidelines); A.G. 332-01 — Employment Discrimination/Retaliation (separate process from the grievance procedure).
 ---
 
 # Section 332 — OFFICIAL TRIPS BY DEPARTMENT REPRESENTATIVES
 
 ## A.G. 332-16
 
-DATE EFFECTIVE:
+| DATE EFFECTIVE | LAST REVISION | PAGE |
+|----------------|---------------|------|
+| 12/31/24       | R.O. 78       | 1 of 4 |
 
-LAST REVISION:
-
-PAGE:
-
-12/31/24
-
-R.O. 78
-
-1 of 4
-
-a.
-
-b.
-
-c.
-
-d.
-
-e.
-
-## MEMBEROF THE SERVICE
-
-request.
-
-g.
-
-NOTE
-
-NOTE
-
-NOTE
-
-trip.
+## PURPOSE
 
 To obtain permission and/or funds to leave the City on official business excluding trips required for return of prisoners, subpoenas or investigations.
 
 When an official trip will result in a benefit to the City of New York and benefit may only be obtained by making such trip:
 
-1. Prepare a request on Typed Letterhead , addressed to Police Commissioner, seeking authorization to attend and appropriate funding for trip, including:
+## MEMBER OF THE SERVICE
 
-(2)
-
-- a. Identity (name, rank or title) and command of member(s) making trip.
-- b. Time and date of departure and return.
-- c. Destination (include organization or agency to be visited).
-- d. Hotel/office and telephone number where member can be reached.
-- e. Statement explaining how the trip will result in a benefit to the City of New York that cannot be obtained locally or by other means.
-- f. A complete and itemized estimate of expenditures to be incurred must be included (i.e., transportation, lodging, meals, registration), regardless of the source of funding.
-- (1) Miscellaneous expenses must be identified and listed.
-- (2) Backup material (i.e., brochures, registration fees, etc.) must be submitted with trip papers.
+1. Prepare a request on **Typed Letterhead**, addressed to Police Commissioner, seeking authorization to attend and appropriate funding for trip, including:
+   - a. Identity (name, rank or title) and command of member(s) making trip
+   - b. Time and date of departure and return
+   - c. Destination (include organization or agency to be visited)
+   - d. Hotel/office and telephone number where member can be reached
+   - e. Statement explaining how the trip will result in a benefit to the City of New York that cannot be obtained locally or by other means
+   - f. A complete and itemized estimate of expenditures to be incurred must be included (i.e., transportation, lodging, meals, registration), regardless of the source of funding
+     - (1) Miscellaneous expenses must be identified and listed
+     - (2) Backup material (i.e., brochures, registration fees, etc.) must be submitted with trip papers
+   - g. Rank/title and name of member designated in command of unit if unit commander makes trip
+   - h. Statement requesting that Director, Audits and Accounts Unit is authorized to advance necessary funds
 
 All expenditures must be in compliance with limits as set by the Office of the Comptroller. The Director, Audits and Accounts Unit will supply current limits, upon request.
 
-- g. Rank/title and name of member designated in command of unit if unit commander makes trip.
-- h. Statement requesting that Director, Audits and Accounts Unit is authorized to advance necessary funds.
+> **Exam Alert:** All trips must be within Office of the Comptroller guidelines, regardless of who is paying for the trip. **NO OVERTIME IS PERMITTED.**
 
-All trips must be within Office of the Comptroller guidelines, regardless of who is paying for the trip. NO OVERTIME IS PERMITTED.
+2. Prepare **Mayor's Form 1-2**:
+   - a. Enter 'Police Department' in box captioned 'Agency'
+   - b. Give a brief synopsis and justification for the trip in the box captioned 'Purpose of Trip and Benefit to City'
+   - c. Enter estimated cost for one person in area captioned 'Estimate of Cost of Trip Per Person,' for the following:
+     - (1) Travel - airline, train, City car or personal car
+       - (a) **No airplane travel is permitted** between the City of New York and Albany; nor between New York and Washington, D.C.
+     - (2) Hotel expenses (including taxes), as approved by the Audits and Accounts Unit
+     - (3) Meal expenses are not permitted for one-day trips, i.e., when a member leaves and returns to the City on the same day without a stayover; meal expenses for days of departure and return are allowed when travel requires tour to begin before 0700 hours and/or the tour ends after 1900 hours
 
-<!-- image -->
+> **Exam Alert:** Airline and train reservations must be made through the City's **DESIGNATED TRAVEL AGENCY**. As this contract is periodically awarded to a new vendor, contact Audits and Accounts Unit for the current authorized travel agency.
 
-## 2. Prepare Mayor's Form 1-2:
+> **Exam Alert:** No airplane travel is permitted between NYC and Albany, or between NYC and Washington, D.C.
 
-- a. Enter 'Police Department' in box captioned 'Agency'
-- b. Give a brief synopsis and justification for the trip in the box captioned 'Purpose of Trip and Benefit to City'
-- c. Enter estimated cost for one person in area captioned 'Estimate of Cost of Trip Per Person,' for the following:
+3. Prepare an **OFFICIAL LETTERHEAD (PD158-151)**, for Police Commissioner's signature, indicating details of trip (i.e., destination, reason, etc.), and addressed as follows:
 
-NOTE
+   Mr./Ms. (Name of Official)
+   Assistant to the Mayor
+   Office of the Mayor
+   City Hall
+   New York, New York 10007
 
-NOTE
+   - a. OFFICIAL LETTERHEAD must be undated and the closing should read:
+     Sincerely, (Name) Police Commissioner
 
-Airline and train reservations must be made through the City's DESIGNATED TRAVE
+Submit request, **Mayor's Form 1-2**, **OFFICIAL LETTERHEAD** (addressed to the Assistant to the Mayor) and backup material, if any, to commanding officer.
 
-AGENCY. As this contract is periodically awarded to a new vendor, contact Audits an
+> **Exam Alert:** Trip papers must be submitted to the Police Commissioner's Office no later than **twenty business days** prior to travel, or **thirty days**, if travel is out of country.
 
-## ADMINISTRATIVE GUIDE
+## COMMANDING OFFICER CONCERNED
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-16              | 12/31/24          | R.O. 78          | 2 of 4  |
+5. Endorse, indicating **APPROVAL/DISAPPROVAL**.
+   - a. If APPROVED, forward request, **Mayor's Form 1-2**, **OFFICIAL LETTERHEAD** (addressed to the Assistant to the Mayor) and backup material, if any, through channels, to the highest-ranking member concerned.
 
-## MEMBEROF THE SERVICE (continued)
-
-NOTE
-
-(3)
-
-- (1) Travel - airline, train, City car or personal car
-2. (a) No airplane travel is permitted between the City of New York and Albany; nor between New York and Washington, D.C.
-
-Airline and train reservations must be made through the City's DESIGNATED TRAVEL AGENCY. As this contract is periodically awarded to a new vendor, contact Audits and Accounts Unit for the current authorized travel agency.
-
-- (2) Hotel expenses (including taxes), as approved by the Audits and Accounts Unit
-- (3) Meal expenses are not permitted for one day trips, i.e., when a member leaves and returns to the City on the same day without a stayover; meal expenses for days of departure and return are allowed when travel requires tour to begin before 0700 hours and/or the tour ends after 1900 hours. City Hall
-3. Prepare an OFFICIAL LETTERHEAD (PD158-151) , for Police Commissioner's signature, indicating details of trip (i.e., destination, reason, etc.), and addressed as follows:
-
-Submit request, commanding officer.
-
-<!-- image -->
-
-NOTE
-
-Mr./Ms. (Name of Official) Assistant to the Mayor Office of the Mayor City Hall
-
-New York, New York 10007
-
-- a. OFFICIAL LETTERHEAD must be undated and the closing should read:
-
-Sincerely, (Name) Police Commissioner
-
-Submit request, Mayor's Form 1-2 , OFFICIAL LETTERHEAD (addressed to the Assistant to the Mayor) and backup material, if any, to commanding officer.
-
-Trip papers must be submitted to the Police Commissioner's Office no later than twenty business days prior to travel, or thirty days, if travel is out of country.
-
-COMMANDING OFFICER CONCERNED 5.
-
-Endorse, indicating APPROVAL/DISAPPROVAL.
-
-- a. If APPROVED, forward request, Mayor's Form 1-2 , OFFICIAL LETTERHEAD (addressed to the Assistant to the Mayor) and backup material, if any, through channels, to the highest-ranking member concerned.
-
-a.
-
-RANKING
-
-MEMBER
-
-NOTE
-
-LETTERHEAD (addressed to the Assistant to the Mayor) and backu material, if any, to the First Deputy Commissioner.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-16              | 12/31/24          | R.O. 78          | 3 of 4  |
-
-Counterterrorism Bureau,
-
-Deputy Commissioner, Intelligence and
-
-NOTE
-
-Deput
-
-If DISAPPROVED, an immediate telephone notification will be made to commanding officer of requesting member.
+> **Sergeant Focus:** As a commanding officer, you must endorse all official trip requests with a clear APPROVAL or DISAPPROVAL. If approved, ensure all required documents are forwarded through the proper chain of command without delay.
 
 ## HIGHEST RANKING MEMBER CONCERNED
 
-OFFICER,
+If DISAPPROVED, an immediate telephone notification will be made to commanding officer of requesting member.
 
-POLICE
+6. Endorse and forward request, **Mayor's Form 1-2**, **OFFICIAL LETTERHEAD** (addressed to the Assistant to the Mayor) and backup material, if any, to the First Deputy Commissioner.
 
-NOTE
-
-COMMISSIONER
-
-NOTE
-
-6. Endorse and forward request, Mayor's Form 1-2, OFFICIAL LETTERHEAD (addressed to the Assistant to the Mayor) and backup material, if any, to the First Deputy Commissioner.
-
-Forward all three copies (original white, pink and yellow) of the Mayor'
-
-Form 1-2 to Office of the Mayor for approval, if approved by Polic
-
-Highest ranking member concerned as specified in this procedure is the commanding officer in the chain of command one step below the Police Commissioner, i.e., First Deputy Commissioner, Intelligence and Counterterrorism Bureau, Deputy Commissioner, Legal Matters, Deputy Commissioner, Trials, Deputy Commissioner, Public Information, Deputy Commissioner, Strategic Initiatives, Chief of Department and Chief of Internal Affairs Bureau.
+Highest ranking member concerned as specified in this procedure is the commanding officer in the chain of command one step below the Police Commissioner, i.e., First Deputy Commissioner, Deputy Commissioner, Intelligence and Counterterrorism Bureau, Deputy Commissioner, Legal Matters, Deputy Commissioner, Trials, Deputy Commissioner, Public Information, Deputy Commissioner, Strategic Initiatives, Chief of Department and Chief of Internal Affairs Bureau.
 
 ## FIRST DEPUTY COMMISSIONER
 
-COMMANDING OFFICER, OFFICE OF POLICE COMMISSIONER
-
-a.
-
-NOTE
-
-10.
-
 7. Enter recommendation and forward all papers to Police Commissioner.
 
-8.
+## COMMANDING OFFICER, OFFICE OF POLICE COMMISSIONER
 
-Forward all three copies (original white, pink and yellow) of the Mayor's Form 1-2 to Office of the Mayor for approval, if approved by Police Commissioner.
+8. Forward all three copies (original white, pink and yellow) of the **Mayor's Form 1-2** to Office of the Mayor for approval, if approved by Police Commissioner.
 
 If APPROVED by the Office of the Mayor, the pink copy of Mayor's Form is returned to the Police Commissioner's Office for processing and forwarding to the Director, Audits and Accounts Unit.
 
 9. Process request as follows: if DISAPPROVED by Police Commissioner/Office of the Mayor:
-- a. Original - to originating command, through channels
-- b. Duplicate - filed in Police Commissioner's Office
+   - a. Original - to originating command, through channels
+   - b. Duplicate - filed in Police Commissioner's Office
 
 ## UPON COMPLETION OF TRIP
 
-## MEMBEROF THE SERVICE 10.
+### MEMBER OF THE SERVICE
 
-Prepare EXPENSE REPORT (PD102-061) and submit, with supporting documentation, to the Audits and Accounts Unit within ten days after completion of travel, regardless of the method of original payment or reimbursement.
+10. Prepare **EXPENSE REPORT (PD102-061)** and submit, with supporting documentation, to the Audits and Accounts Unit within **ten days** after completion of travel, regardless of the method of original payment or reimbursement.
 
-DIRECTOR, 11.
+> **Exam Alert:** The EXPENSE REPORT (PD102-061) must be submitted within **ten days** after completion of travel, regardless of how the trip was originally paid for or reimbursed.
 
-## AUDITS AND ACCOUNTS UNIT
+> **Sergeant Focus:** Ensure members under your command submit their expense reports within the ten-day deadline. The Director, Audits and Accounts Unit will initiate measures to ensure compliance if reports are not submitted in a timely manner.
 
-Initiate appropriate measures to ensure receipt of EXPENSE REPORTS and supporting documentation, if not submitted in a timely manner.
+### DIRECTOR, AUDITS AND ACCOUNTS UNIT
 
-If none is available at the command level, inquire at the member's respectiv bureau or overhead command
-
-## ADMINISTRATIVE GUIDE
-
-Typed Letterhead to Commanding Officer, Fleet Services Division requesting approval for th
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-16              | 12/31/24          | R.O. 78          | 4 of 4  |
-
-assignment of a Department vehicle, by CRALO, for the pending travel.
+11. Initiate appropriate measures to ensure receipt of **EXPENSE REPORTS** and supporting documentation, if not submitted in a timely manner.
 
 ## ADDITIONAL DATA
 
-site.
-
-CITY
+### Department Vehicle Procurement
 
 When a vehicle is to be utilized as the primary means of transportation to and from the destination (rather than by airline, railroad or bus) the member must ascertain the availability of a Department vehicle by inquiring in the following order:
+   - a. At their respective command
+   - b. If none is available at the command level, inquire at the member's respective bureau or overhead command
+   - c. If a vehicle is not available at the bureau/overhead command, the member should contact the **Confidential Rental and Lease Office (CRALO)**, Fleet Services Division
 
-- a. At their respective command
-- b. If none is available at the command level, inquire at the member's respective bureau or overhead command
-- c. If a vehicle is not available at the bureau/overhead command, the member should contact the Confidential Rental and Lease Office (CRALO), Fleet Services Division.
+If there is a vehicle available at Fleet Services Division, the member must submit a request on **Typed Letterhead** to Commanding Officer, Fleet Services Division requesting approval for the assignment of a Department vehicle, by CRALO, for the pending travel.
 
-If there is a vehicle available at Fleet Services Division, the member must submit a request on Typed Letterhead to Commanding Officer, Fleet Services Division requesting approval for the assignment of a Department vehicle, by CRALO, for the pending travel.
+> **Exam Alert:** The inquiry order for Department vehicles is: **command level, then bureau/overhead command, then CRALO/Fleet Services Division**. Know this sequence for the exam.
 
 This protocol does not apply to the rental of a vehicle upon arrival at a destination by airline or railroad where the vehicle is to be used only for local transportation at that site.
 
-DEBALENT
-
 Any questions regarding this procedure should be addressed to the Director, Audits and Accounts Unit.
 
-NEW
+### Department Aircraft
 
-Commanding officer of member required to leave the City on official business may request services of Department aircraft. Forward request to Chief of Department, including identity of member, time, date, and reason for flight, and statement from Commanding Officer, Aviation Unit, that aircraft is available .
+Commanding officer of member required to leave the City on official business may request services of Department aircraft. Forward request to Chief of Department, including identity of member, time, date, and reason for flight, and statement from Commanding Officer, Aviation Unit, that aircraft is available.
 
-<!-- image -->
-
-DEFINITIONS
-
-FULL RELEASE - Permits a union representative to engage in authorized unio
-
-<!-- image -->
-
-PROCEDURE
-
-SUPERVISORY
-
-HEAD
-
-NOTE
-
-## PURPOSE
-
-To allow union representatives time to conduct labor activities.
-
-## DEFINITIONS
-
-FULL RELEASE - Permits a union representative to engage in authorized union activities full time without loss of pay.
-
-PARTIAL RELEASE - Permits a union representative to devote a regular part of job time to authorized union activities without loss of pay.
-
-AD HOC RELEASE - Permits a union representative to conduct union activities for a specific situation or purpose with or without loss of pay.
-
-2.
-
-## PROCEDURE
-
-## COMMANDING
-
-## OFFICER/ SUPERVISORY HEAD
-
-NOTE
-
-NE
-
-OF
-
-When a union representative requests release time for union activities:
-
-1. Ascertain whether union representative is certified by the Commanding Officer, Office of Labor Relations for FULL, PARTIAL OR AD HOC release time.
-2. Assign FULL and PARTIAL release time representatives to Day Squad duty hours.
-
-Although uniformed union delegates at unit commands are considered PARTIAL RELEASE representatives, they will be treated as, and guided by provisions for, AD HOC RELEASE representatives.
-
-## MEMBEROF 3. Prepare Digital Leave of Absence Request as indicated: (1)
-
-## THE SERVICE
-
-- a. FULL RELEASE
-
-<!-- image -->
-
-- (1) Submit an electric copy at least five days prior to beginning of each month
-- (2) Indicate number of work days from 0001 hours, the first day of the month, until 2400 hours, the last day of the month
-3. ( 3) Check box 'Full Pay'
-- (4) Enter 'Full Release Under E.O. 75' and member's union title under "REASONS."
-
-## b. PARTIAL RELEASE
-
-- (1) Submit an electric copy at least five days prior to scheduled release time
-- (2) Indicate tour(s) or hours authorized
-- (3) Check box 'Full Pay'
-- (4) Enter 'Partial Release Under E.O. 75' and member's union title under "REASONS."
-- c. AD HOC RELEASE
-- (1) Submit an electric copy at earliest opportunity
-- (2) Indicate tour(s) or hours requested
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
+> **Sergeant Focus:** Know the full approval chain for official trips: Member prepares request and forms, Commanding Officer endorses, Highest Ranking Member concerned forwards to First Deputy Commissioner, First Deputy Commissioner recommends to Police Commissioner, Office of Police Commissioner forwards to Mayor. Track timelines carefully -- twenty business days domestic, thirty days international.
 
 ---
 
-# Section 332 — UNION RELEASE TIME
+# Section 332 — Union Release Time
 
 ## A.G. 332-17
 
-DATE EFFECTIVE:
+**Effective:** 01/07/26 | **Last Revision:** R.O. 6 | **Pages:** 1-3
 
-LAST REVISION:
+### Purpose
 
-PAGE:
+To provide a system for granting release time to union representatives for legitimate union activities.
 
-01/07/26
+### Procedure
 
-R.O. 6
+#### Member of the Service
 
-1 of 3
+1. Prepare **Digital Leave of Absence Request** for all release time.
+2. For Ad Hoc requests, include:
+   - (1) Check appropriate 'With Pay' or 'Without Pay' box
+   - (2) Enter union delegate title
+   - (3) Do NOT check either 'No Pay' or 'Full Pay' box
+   - (4) Enter 'Ad Hoc Release-E.O. 75,' union designation, particular activity and authority for release (e.g., FINEST or telephone message) under "REASONS."
 
-NOTE
+> **Exam Alert:** All Ad Hoc requests for leave with pay under Executive Order 75 will be approved **only with authorization from the Commanding Officer, Office of Labor Relations** by a FINEST or telephone message. Any other Ad Hoc leave under E.O. 75 without such authorization shall be deducted from the member's leave balance.
 
-NOTE
+Civilian members with the capability to enter leave of absence requests direct into CityTime are also required to prepare a Digital Leave of Absence Request.
 
-## MEMBEROF THE SERVICE
+An alternate delegate requesting release time will indicate certified delegate's name and reason such delegate is unable to attend. Uniformed union alternate delegates may be released only when the certified delegate is on **sick report**, has a **scheduled court appearance**, or is on **vacation out of the city**.
 
-COMMANDING 6.
+3. Submit to commanding officer/supervisory head, **NO LATER THAN FIVE DAYS AFTER END OF EACH MONTH**, two copies of **City of New York, Labor Management Joint Activity Report (OMLR-28)**, including:
+   - a. Released under E.O. 75 with or without pay
+   - b. Vacation leave
+   - c. Other leaves, with or without pay
+   - d. Sick leave
 
-OFFICER/
+> **Exam Alert:** Negative reports will be submitted. The monthly report is due within **5 days** after the end of each month.
 
-SUPERVISORY
+4. Do NOT use abbreviations not readily understood by persons outside the Department (e.g., IAB, CCRB, PBBS, etc.).
 
-HEAD
+#### Commanding Officer/Supervisory Head
 
-NOTE
+5. Review Digital Leave of Absence Request and City of New York, Labor Management Joint Activity Report(s) for accuracy.
+6. Verify and attest to accuracy of entries re: annual leave, sick leave and/or other authorized leaves of absence by signing name below delegate's signature on monthly City of New York, Labor Management Joint Activity Report.
+7. Ensure that member is **NOT granted overtime payments, compensatory time or meal allowance** in connection with union release time excusal.
 
-7.
+> **Exam Alert:** No overtime, compensatory time, or meal allowance may be granted for union release time. This is an absolute prohibition.
 
-NOTE
+8. Forward to Commanding Officer, Office of Labor Relations:
+   - a. An electronic copy of the Digital Leave of Absence Request and City of New York, Labor Management Joint Activity Report(s) for FULL and/or PARTIAL RELEASE representatives, not later than the **tenth day of each month**.
+   - b. Original Digital Leave of Absence Request for AD HOC RELEASE representatives, no later than **one week after approval**.
+9. File duplicate copies in member's personal folder.
+10. Submit report to the Commanding Officer, Office of Labor Relations identifying those members who fail to submit proper reports.
+    - a. The Commanding Officer, Office of Labor Relations will notify commanding officers/supervisory heads of what action, if any, is to be taken when members fail to submit required reports. Such action may include **de-certification and loss of pay** for the period in question.
 
-NOTE
-
-Civilian members of the service with the capability to enter leave of absence reques direct into CityTime, are also required to prepare a Digital Leave of Absence Request.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-17              | 01/07/26          | R.O. 6           | 2 of 3  |
-
-## MEMBEROF THE SERVICE (continued)
-
-## NOTE
-
-- (3) Do NOT check either 'No Pay' or 'Full Pay' box
-- (4) Enter 'Ad Hoc Release-E.O. 75,' union designation, particular activity and authority for release, e.g., FINEST or telephone message, under "REASONS."
-
-Civilian members of the service with the capability to enter leave of absence requests direct into CityTime, are also required to prepare a Digital Leave of Absence Request.
-
-An alternate delegate requesting release time will indicate certified delegate's name and reason such delegate is unable to attend. Uniformed union alternate delegates may be released only when the certified delegate is on sick report, or has a scheduled court appearance, or is on vacation out of the city.
-
-4. Submit to commanding officer/supervisory head, NO LATER THAN FIVE DAYS AFTER END OF EACH MONTH, two copies of City of New York, Labor Management Joint Activity Report (OMLR-28) , including:
-- a. Released under E.O. 75 with or without pay
-- b. Vacation leave
-- c. Other leaves, with or without pay
-- d. Sick leave.
-
-Negative reports will be submitted .
-
-5. Do NOT use abbreviations not readily understood by persons outside the Department, e.g., IAB, CCRB, PBBS, etc.
-
-## COMMANDING OFFICER/ SUPERVISORY HEAD 6. 7.
-
-8.
-
-Review
-
-Digital Leave of Absence Request
-
-Labor Management Joint Activity Report(s)
-
-and
-
-City of New York, for accuracy.
-
-Verify and attest to accuracy of entries re: annual leave, sick leave and/or other authorized leaves of absence by signing name below delegate's signature on monthly City of New York, Labor Management Joint Activity Report .
-
-- Ensure that member is NOT granted overtime payments, compensatory time or meal allowance in connection with union release time excusal.
-
-All Ad Hoc requests for leave with pay under Executive Order 75 will be approved only with authorization from the Commanding Officer, Office of Labor Relations by a FINEST or telephone message. Any other Ad Hoc leave under Executive Order 75 without such authorization shall be deducted from the member's leave balance .
-
-10. Forward to Commanding Officer, Office of Labor Relations:
-- a. An electronic copy of the Digital Leave of Absence Request and City of New York, Labor Management Joint Activity Report(s) for FULL and/or PARTIAL RELEASE representatives, not later than the tenth day of each month.
-
-a.
-
-(contnued)
-
-DATA
-
-laenurying inose members who tall to submit proper reports.
-
-a.
-
-The Commanding Officer, Office of Labor Relations will notit commanding officers/supervisory heads of what action, if any, i
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-17              | 01/07/26          | R.O. 6           | 3 of 3  |
-
-## COMMANDING
-
-## OFFICER/ SUPERVISORY HEAD (continued) 12.
-
-- b. Original Digital Leave of Absence Request for AD HOC RELEASE representatives, no later than one week after approval.
-11. File duplicate copies in member's personal folder.
-
-Submit report to the Commanding Officer, Office of Labor Relations identifying those members who fail to submit proper reports.
-
-- a. The Commanding Officer, Office of Labor Relations will notify commanding officers/supervisory heads of what action, if any, is to be taken when members fail to submit required reports. Such action may include de-certification and loss of pay for the period in question.
-
-## ADDITIONAL DATA
+### Additional Data
 
 The Commanding Officer, Office of Labor Relations will resolve all questions pertaining to union release time representatives.
 
-DEBALENT
-
-CITY
-
-<!-- image -->
-
-POLICE
-
-PROCEDURE
-
-DEPARTMENT
-
-JNIFORMED
-
-YORK
-
-MEMBER OF
-
-CITY
-
-HE SERVICE
-
-NEW
-
-duty by the Medical Division.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:  Employee Rights/Responsibilities
-
+> **Sergeant Focus:** As a supervisor, you must verify and sign the monthly Labor Management Joint Activity Report, ensure no overtime/comp/meal is granted for release time, and forward reports to the Office of Labor Relations by the 10th of each month. Members who fail to submit proper reports may face de-certification and loss of pay.
 ---
 
-# Section 332 — FIREARMS PROFICIENCY REQUIREMENT
+# Section 332 — Firearms Proficiency Requirement
 
 ## A.G. 332-18
 
-DATE EFFECTIVE:
+**Effective:** 02/16/22 | **Last Revision:** I.O. 16 | **Pages:** 1-3
 
-02/16/22
+### Purpose
 
-LAST REVISION:
+To ensure that uniformed members demonstrate and maintain minimum proficiency in the use of firearms.
 
-I.O. 16
+### Scope
 
-score.
+This procedure will apply when a uniformed member, who claims to be medically and/or psychologically unable to use firearms, is deemed fit for full duty by the Medical Division.
 
-UPON FAILURE OF UNIFORMED MEMBER OF THE SERVICE TO
-
-PURPOSE
-
-FIREARMS
-
-SCOPE
-
-AND TACTICS
-
-ECTION
-
-UPERVISOR,
-
-NVESTIGA-
-
-TIONS UNIT
-
-VOTE
-
-To ensure that uniformed members  demonstrate and maintain  minimum proficiency in the use of firearms.
-
-Notify Absence Control and Investigations Unit (ACIU) immediately.
-
-This  procedure  will  apply  when  a  uniformed  member,  who  claims  to  be medically  and/or  psychologically  unable  to  use  firearms,  is  deemed  fit  for  full duty by the Medical Division.
-
-PROCEDURE
+### Procedure
 
 Upon being deemed fit for full duty assignment:
 
-specialist designated by the Medical Division for examination.
+#### Uniformed Member of the Service
 
-UNIFORMED
+1. Report as directed by Commanding Officer, Medical Division to the **Firearms and Tactics Section** for firearms qualification.
+2. Demonstrate proficiency by achieving the Department's standard passing score.
 
-MEMBER  OF
+### Upon Failure of Uniformed Member of the Service to Qualify with Firearm(s)
 
-THE SERVICE
+#### Supervisor, Firearms and Tactics Section
 
-1. Report  as  directed  by  Commanding  Officer,  Medical  Division  to  the Firearms and Tactics Section for firearms qualification.
+3. Notify **Absence Control and Investigations Unit (ACIU)** immediately.
+4. Fax **FIREARMS SCORE SHEET (PD124-141)** to ACIU.
 
-2. Demonstrate proficiency by achieving the Department's standard passing score. Firearms.
+#### Supervisor, Absence Control and Investigations Unit
 
-a.
+5. Direct uniformed member of the service concerned to report to medical specialist designated by the Medical Division for examination.
+6. Maintain appropriate records of notifications and the results of said examination.
+7. Request member to complete **Notice of Failure to Qualify with Firearms**.
+8. Witness signature of member on Notice.
+   - a. Retain original for unit file
+   - b. Provide member concerned with copy.
+9. Advise member of the availability of remedial firearms training.
 
-b.
+> **Exam Alert:** Members failing to qualify within **ninety days** of signing the Notice of Failure to Qualify With Firearms will receive **CHARGES AND SPECIFICATIONS (PD468-121)** and face an administrative hearing under **Section 75 of the New York State Civil Service Law**, "Removal and Other Disciplinary Action." Members found to be incompetent after an administrative hearing will be **removed from the Department**.
 
-## UPON FAILURE OF UNIFORMED MEMBER OF THE SERVICE TO QUALIFY WITH FIREARM(S)
+### If Member Has Not Qualified Within 90 Days of Notice
 
-PAGE:
-
-9.
-
-- SUPERVISOR, 3. 4.
-
-FIREARMS AND TACTICS SECTION
-
-- Notify Absence Control and Investigations Unit (ACIU) immediately.
-
-- Fax FIREARMS SCORE SHEET (PD124-141) to ACIU.
-
-SUPERVISOR, 5.
-
-ABSENCE
-
-CONTROL AND
-
-INVESTIGA-
-
-Direct uniformed member of the service concerned to report to medical
-
-specialist designated by the Medical Division for examination.
-
-- 6.
-
-- Maintain  appropriate  records  of  notifications  and  the  results  of  said examination.
-
-7. Request  member  to  complete Notice  of  Failure  to  Qualify  with Firearms .
-
-8.
-
-9.
-
-Witness signature of member on Notice .
-
-- a. Retain original for unit file
-- b. Provide member concerned with copy.
-
-Advise member of the availability of remedial firearms training.
-
-Uniformed members must demonstrate and maintain minimum proficiency in the use of firearms. The  Department's  policy  is  that  minimum  proficiency  is  a  condition  of employment for uniformed members.  Members failing to qualify within ninety days of signing the Notice of Failure to Qualify With Firearms will receive CHARGES AND SPECIFICATIONS (PD468-121) and face an administrative hearing under Section 75 of  the  New  York  State  Civil  Service  Law,  'Removal  and  Other  Disciplinary  Action.' Members found to be incompetent after an administrative hearing will be removed from the Department.
-
-TIONS UNIT
-
-NOTE
-
-1 of 3
-
-VOTE
-
-Members of the service are reminded that existing Department programs provide hundred rounds of ammunition and the use of a Department firearms range for pract
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATEEFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|------------------|------------------|---------|
-| 332-18              | 02/16/22         | I.O. 16          | 2 of 3  |
-
-Commands will photocopy and utilize the Notice of Failure to Qualify With Firearm
-
-## IF MEMBER HAS NOT QUALIFIED WITHIN 90 DAYS OF NOTICE
+#### Commanding Officer
 
 10. Consult with Department Advocate's Office.
-11. Comply with A.G. 318-03, ' Preparation of Charges and Specifications or Schedule 'C' Command Discipline ' as appropriate.
+11. Comply with A.G. 318-03, "Preparation of Charges and Specifications or Schedule 'C' Command Discipline" as appropriate.
 
-Members of the service are reminded that existing Department programs provide one hundred rounds of ammunition and the use of a Department firearms range for practice. Members are also reminded that it is their responsibility  to  take  corrective  action  on their own time and at their own expense.  Instruction is available through the Firearms and Tactics Section by appointment.  Members may call to arrange for training.
+### Additional Data
 
-Commands will photocopy and utilize the Notice of Failure to Qualify With Firearms , depicted in Appendix 'A', as necessary.
+- Members of the service are reminded that existing Department programs provide **one hundred rounds of ammunition** and the use of a Department firearms range for practice.
+- Members are also reminded that it is their responsibility to take corrective action on their own time and at their own expense.
+- Instruction is available through the Firearms and Tactics Section by appointment.
+- Commands will photocopy and utilize the Notice of Failure to Qualify With Firearms, depicted in Appendix 'A', as necessary.
 
-XEDA MIN
+### Appendix 'A' — Notice of Failure to Qualify With Firearms
 
-<!-- image -->
+**Key elements of the Notice:**
 
-## SUPERVISOR, ABSENCE CONTROL AND INVESTIGATIONS UNIT
+- Member has failed to achieve the minimum passing score in most recent attempt at firearms qualifications
+- Member has not qualified with firearms since a specified date
+- Department has deemed member medically and/or psychologically fit to perform full duty with firearms
+- Firearms proficiency is an **essential function** of the job of police officer and is a **condition of employment**
+- Member is required to demonstrate and maintain minimum firearms proficiency within **ninety days** of notice
+- Failure to demonstrate minimum proficiency within the time limit will result in formal action under **Section 75 of the NYS Civil Service Law**
+- Department provides 100 rounds of ammunition and range access for practice
+- Additional remedial training available through Firearms and Tactics Section
 
-## NOTE
+> **Exam Alert:** Firearms proficiency is a **condition of employment** for uniformed members. The 90-day clock starts when the member signs the Notice of Failure to Qualify. Section 75 of the NYS Civil Service Law is the statutory basis for removal. Members get 100 rounds of ammunition and range access at Department expense for practice, but must take corrective action on their own time.
 
-TAKE NOTICE that you have failed to achieve the minimum passing score in your most recent attemp
-
-## ADMINISTRATIVE GUIDE
-
-· You have not qualified with firearms si
-
-| PROCEDURE NUMBER:   | DATEEFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|------------------|------------------|---------|
-| 332-18              | 02/16/22         | I.O. 16          | 3 of 3  |
-
-## APPENDIX 'A'
-
-## Notice of Failure to Qualify With Firearms
-
-Date:
-
-TAKE NOTICE that you have failed to achieve the minimum passing score in your most recent attempt at firearms qualifications on (date): . You have not qualified with firearms since (date): . This Department has deemed you medically and/or psychologically fit to perform full duty with firearms.
-
-Firearms  proficiency  is  an  essential  function  of  the  job  of  police  officer  and  is  a  condition  of  your employment as a uniformed member of the service. You are hereby required to demonstrate and maintain minimum firearms proficiency within ninety days of this notice.
-
-It is your responsibility to contact the Firearms and Tactics Section and take the firearms requalification course.  If you fail to do so, the Department will schedule an appointment for you to take this course prior to ninety days after the date of this notice.
-
-Your failure to demonstrate minimum proficiency within the above time limit will result in formal action being taken against you pursuant to Section 75 of the New York State Civil Service Law, 'Removal and Other Disciplinary Action.' If there is an affirmative finding of incompetence after an administrative hearing which is approved by the Police Commissioner, this action will result in your removal from the Department.
-
-You are reminded that existing Department programs provide one hundred rounds of ammunition and use of a Department range for practice.  In addition, you may contact the Firearms and Tactics Section to arrange for additional remedial firearms training. However, be aware that is your responsibility to take whatever steps are necessary for you to qualify with firearms including practice on your own time and at your own expense.
-
-Acknowledgement of subject uniformed member of the service.
-
-Rank
-
-Name (Last, First, M.I.) Print
-
-Signature
-
-Tax Registry #
-
-Date
-
-## Witness:
-
-Rank
-
-Name (Last, First, M.I.) Print
-
-Signature
-
-Tax Registry #
-
-Date
-
-PURPOSE
-
-DEFINITION
-
-SCOPE
-
-To permit members of the service to review their Central Personnel Index file.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section: Employee Rights/Responsibilities
-
+> **Sergeant Focus:** If a member under your supervision fails to qualify, you must ensure the ACIU is notified immediately and the PD124-141 score sheet is faxed. Monitor the 90-day timeline closely — if the member does not qualify, charges must be prepared. Know that Section 75 hearings can result in removal from the Department.
 ---
 
-# Section 332 — REVIEW OF CENTRAL PERSONNEL INDEX FILES
+# Section 332 — Review of Central Personnel Index Files
 
 ## A.G. 332-19
 
-DATE EFFECTIVE:
+---
 
-LAST REVISION:
-
-PAGE:
-
-08/12/25
-
-R.O. 71
-
-1 of 2
-
-by the Department, the Central Personnel Index file of each member of the servi
-
-## PURPOSE
+## Purpose
 
 To permit members of the service to review their Central Personnel Index file.
 
-## DEFINITION
+## Definition
 
-MEMBER OF
+**Central Personnel Index (CPI)** — A central repository of information from various administrative, disciplinary, and investigatory units throughout the Department.
 
-1.
+## Scope
 
-## SCOPE
+The Department uses the **Central Personnel Index (CPI)** system to make informed decisions about assignments, promotions, positions of special trust, and other administrative actions. To alleviate apprehension and concern among members of the service (uniformed and civilian) as to the types of information maintained by the Department, the **Central Personnel Index file** of each member of the service will be open to individual members for review.
 
-INTEGRITY
-
-CONTROL
-
-OFFICER
-
-## PROCEDURE
-
-CENTRAL PERSONNEL INDEX (CPI) - a central repository of information from various administrative, disciplinary and investigatory units throughout the Department.
-
-The Department uses the Central Personnel Index (CPI) system to make informed decisions about assignments, promotions, positions of special trust, and other administrative actions. To alleviate apprehension and concern among members of the service (uniformed and civilian) as to the types of information maintained by the Department, the Central Personnel Index file of each member of the service will be open to individual members for review.
-
-Utilize opportunity to reinforce policies and procedures, to promo
+## Procedure
 
 When a member of the service requests to review their Central Personnel Index file:
 
-Members of the service are not permitted to take their file out of reviewing office, or ma
+### Member of the Service
 
-## MEMBEROF THE SERVICE
+1. Request appointment to review their **Central Personnel Index file**.
 
-MEMBER OF
+### Integrity Control Officer
 
-## INTEGRITY CONTROL OFFICER
+2. Review member's file and **redact information** that may identify witnesses, complainants, or an active case, prior to review.
+3. Conduct review with requesting member **in private** and answer questions regarding entries.
+4. Utilize opportunity to **reinforce policies and procedures**, to promote integrity, and to deter conduct precipitating negative entries.
 
-COMMANDING
+> **Note:** Members of the service are **not permitted** to take their file out of the reviewing office, or make any photocopies of their file.
 
-6.
+> **Sergeant Focus:** The integrity control officer must redact identifying information before the member views the file. This protects witness and complainant identities while still allowing the member to review their own records. Ensure this step is completed before any review takes place.
 
-NOTE
+### Member of the Service (Appeal)
 
-## MEMBEROF THE SERVICE
+5. Appeal **in writing, on Typed Letterhead**, to commanding officer for investigation and review, if member believes that information contained in the Central Personnel Index file is **inaccurate or incomplete**.
 
-## COMMANDING OFFICER
+> **Exam Alert:** The appeal must be in writing on Typed Letterhead — a verbal complaint is not sufficient. The appeal is specifically for entries the member believes are inaccurate or incomplete, not merely unfavorable.
 
-1.
+### Commanding Officer
 
-Request appointment
+6. Confer with integrity control officer upon receipt of appeal, regarding its **validity**.
+7. Direct integrity control officer to conduct a **preliminary investigation** of grounds of appeal.
 
-Personnel Index file.
+> **Note:** As part of the preliminary investigation, the integrity control officer will contact the appropriate source command (i.e., **Internal Affairs Bureau, Personnel Orders Division, Medical Division, Department Advocate's Office**, etc.), for information concerning the Central Personnel Index file entry in question.
 
-Appeal in writing, on Typed Letterhead to commanding officer 1
+8. Inform appealing member of findings, if preliminary investigation indicates that the **entry is appropriate**.
+9. Endorse appeal to the appropriate command **through channels** for final determination, if preliminary investigation discloses member's appeal is **verified**.
 
-2. Review member's file and redact information that may identify witnesses, complainants, or an active case, prior to review.
-3. Conduct review with requesting member in private and answer questions regarding entries. -1:
-4. Utilize opportunity to reinforce policies and procedures, to promote integrity, and to deter conduct precipitating negative entries.
+> **Sergeant Focus:** The commanding officer has a dual role: if the preliminary investigation shows the entry is appropriate, the CO informs the member; if the appeal is verified, the CO endorses it through channels. Know both outcomes and the corresponding actions.
 
-Members of the service are not permitted to take their file out of reviewing office, or make any photocopies of their file.
+### Chief of Personnel / I.A.B. / Department Advocate's Office
 
-5.
+10. Review appeal and, if valid, take necessary **corrective action**.
+11. Inform member, through channels, of **action taken** and change in entry, if any.
+12. Endorse back to member through member's commanding officer with findings, if **invalid**.
 
-Appeal in writing, on Typed Letterhead to commanding officer for investigation and review, if member believes that information contained in the Central Personnel Index file is inaccurate or incomplete.
+## Additional Data
 
-6. Confer with integrity control officer upon receipt of appeal, regarding its validity.
-7. Direct integrity control officer to conduct a preliminary investigation of grounds of appeal.
+- A member of the service is permitted to view their Central Personnel Index file **once per calendar year**.
+- **Ranking officers** wishing to review their Central Personnel Index files will submit their request to **borough/bureau commander/supervisory head**.
+- Allegations of misconduct (**'M' Cases**) or corruption (**'C' Cases**) which result in a final disposition of **'exonerated'** or **'unfounded'** will be **sealed** in the member's Central Personnel Index by the **Internal Affairs Bureau**. Sealed allegations and command disciplines will only be available to the Internal Affairs Bureau for statistical evaluations and internal investigations. Additionally, these records will be made available to the **Legal Bureau** and the **Employee Assistance Unit**, as necessary, to enable those commands to perform their respective responsibilities.
 
-with integrity
+> **Exam Alert:** Members may review their CPI file only **once per calendar year** — not once per year from the last review, but once in each calendar year. Also, exonerated and unfounded M and C cases are sealed but NOT destroyed — they remain accessible to IAB for statistical evaluations and internal investigations.
 
-control officer
+> **Exam Alert:** Sealed allegations (exonerated/unfounded M and C cases) can still be accessed by the **Legal Bureau** and **Employee Assistance Unit** in addition to IAB. This is a common trick question — sealed does not mean completely inaccessible.
 
-to review
-
-NOTE
-
-Central
-
-COMMANDING 8.
-
-OFFICER
-
-Inform appealing member of findings, if preliminary investigati indicates that the entry is appropriate.
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-19              | 08/12/25          | R.O. 71          | 2 of 2  |
-
-## NOTE
-
-L.A.B./
-
-DEPARTMENT
-
-ADVOCATES
-
-OFFICE
-
-DATA
-
-As part of the preliminary investigation, the integrity control officer will contact the appropriate source command (i.e., Internal Affairs Bureau, Personnel Orders Division, Medical Division, Department Advocate's Office, etc.), for information concerning the Central Personnel Index file entry in question.
-
-## COMMANDING OFFICER (continued)
-
-8. Inform appealing member of findings, if preliminary investigation indicates that the entry is appropriate.
-
-9. Endorse appeal to the appropriate command through channels for final determination, if preliminary investigation discloses member's appeal is verified.
-
-## CHIEF OF PERSONNEL/ I.A.B./ DEPARTMENT ADVOCATES OFFICE 10. 11. 12.
-
-Review appeal and if valid, take necessary corrective action.
-
-Inform member, through channels, of action taken and change in entry, if
-
-any.
-
-Endorse
-
-back
-
-to
-
-member through member's commanding officer
-
-with
-
-findings, if invalid.
-
-## ADDITIONAL DATA
-
-A member of the service is permitted to view their Central Personnel Index file once per calendar year. Ranking officers wishing to review their Central Personnel Index files will submit their request to borough/bureau commander/supervisory head.
-
-CITY
-
-NE
-
-OF
-
-<!-- image -->
-
-Allegations of misconduct ('M' Cases) or corruption ('C' Cases) which result in a final disposition of 'exonerated' or 'unfounded' will be sealed in the member's Central Personnel Index by the Internal Affairs Bureau. Sealed allegations and command disciplines will only be available to the Internal Affairs Bureau for statistical evaluations and internal investigations. Additionally, these records will be made available to the Legal Bureau and the Employee Assistance Unit, as necessary, to enable those commands to perform their respective responsibilities.
-
-10.
-
-11.
-
-12.
-
-DEFINITION
-
-POLICE
-
-PROCEDURE
-
-CITY
-
-COMMANDING
-
-NEW
-
-OFFICER/UNIT
-
-SUPERVISOR
-
-COVERED EMPLOYEES - For the purpose of this procedure, those members of
-
-(FLSA).
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employee Rights/Responsibilities
-
+> **Sergeant Focus:** As a supervisor, you should be aware that members have the right to review their CPI file annually. If a member raises concerns about entries in their file, guide them through the proper appeal process — written appeal on Typed Letterhead to the commanding officer. Do not attempt to resolve CPI disputes informally.
 ---
 
-# Section 332 — FLSA GUIDELINES
+# Section 332 — FLSA Guidelines
 
 ## A.G. 332-20
 
-| DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|-------------------|------------------|---------|
-| 11/18/21          | I.O. 110         | 1 of 3  |
+### Purpose
 
-<!-- image -->
+To set forth the guidelines for compliance with the provisions of the **Fair Labor Standards Act (FLSA)**.
 
-## PURPOSE
+### Definition
 
-DEFINITION
+- **Covered Employees** — For the purpose of this procedure, those members of the service (uniformed and civilian) covered by the Fair Labor Standards Act (FLSA).
 
-PROCEDURE
+> **Exam Alert:** Know the distinction between "covered" and "exempt" employees under FLSA. Covered employees are entitled to overtime compensation; exempt employees (listed in Additional Data) are not. The exam frequently tests whether a specific civilian title is exempt from FLSA provisions.
 
-(1)
+---
 
-To set forth the guidelines for compliance with the provisions of the Fair Labor Standards Act (FLSA). non-Fair Labor Standards Act compensatory time earned under forty hours of time
+## Procedure
 
-COVERED EMPLOYEES - For the purpose of this procedure, those members of the  service  (uniformed  and  civilian)  covered  by  the  Fair  Labor  Standards  Act (FLSA).
+### Commanding Officer/Unit Supervisor
 
-actually worked per week.
+1. Have **three different compensatory time banks** established for all employees as follows:
 
-To record compensatory time earned by covered employees:
+#### a. Civilian Members of the Service
 
-UNIFORMED MEMBERS OF THE SERVICE
+- **(1)** All **pre-FLSA** compensatory time earned prior to April 15, 1986
+- **(2)** **Post-April 14, 1986, non-FLSA** compensatory time earned under forty hours of time actually worked per week
+- **(3)** **Post-April 14, 1986, FLSA** compensatory time earned after forty hours of time actually worked per week
 
-## COMMANDING OFFICER/UNIT SUPERVISOR 1.
+#### b. Uniformed Members of the Service
 
-Have three different compensatory time banks established for all employees as follows:
+- **(1)** All **pre-FLSA** compensatory time earned prior to April 15, 1986
+- **(2)** **Post-April 14, 1986, non-FLSA** compensatory time earned under one hundred and seventy-one hours of time actually worked in a twenty-eight day cycle
+- **(3)** **Post-April 14, 1986, FLSA** compensatory time earned after one hundred and seventy-one hours of time actually worked in a twenty-eight day period
 
-a. CIVILIAN MEMBERS OF THE SERVICE
+> **Exam Alert:** The FLSA overtime threshold differs between civilian and uniformed members: civilians trigger FLSA overtime after **40 hours per week**, while uniformed members trigger it after **171 hours per 28-day cycle**. This is a high-frequency exam question.
 
-(2)
+2. **Civilian Member of the Service** — Accrue, if a covered employee, up to **240 hours** (one hundred and sixty hours of overtime at time and one-half equals the two hundred and forty hours "cap").
 
-(3)
+3. **Uniformed Member of the Service** — Accrue up to **480 hours** (three hundred and twenty hours at time and one-half equals the four hundred and eighty hours "cap").
 
-Post-April 14, 1986, non-Fair Labor Standards Act
+> **Exam Alert:** The compensatory time caps are different: **240 hours** for civilians vs. **480 hours** for uniformed members. Remember the formula — the cap equals the overtime hours multiplied by 1.5 (160 x 1.5 = 240; 320 x 1.5 = 480).
 
-- (1) All pre-Fair  Labor  Standards  Act  compensatory  time earned prior to April 15, 1986.
-- (2) Post-April 14, 1986, non-Fair Labor Standards Act compensatory  time  earned  under  forty  hours  of  time actually worked per week. and
-- (3) Post-April 14, 1986, Fair Labor Standards Act compensatory time earned after forty hours of time actually worked per week.
+---
 
-## b. UNIFORMED MEMBERS OF THE SERVICE
+## Additional Data
 
-- (1) All pre-Fair  Labor  Standards  Act  compensatory  time earned prior to April 15, 1986.
-2. ( 2) Post-April 14, 1986, non-Fair Labor Standards Act compensatory time earned under one hundred and seventyone hours of time actually worked in a twenty eight day cycle.
-- (3) Post-April 14, 1986 Fair Labor Standards Act compensatory time earned after one hundred and seventy-one  hours  of  time  actually  worked  in  a  twenty eight day period.
+### The "Rolling Cap"
 
-CIVILIAN
+- The "cap," as stated in steps 2 and 3 above, is a **"rolling cap"** which began April 15, 1986 and is maintained during the term of an individual employee's employment
+- Once a covered civilian or uniformed member of the service has reached the "rolling cap," **cash overtime must be paid**
 
-MEMBER OF
+> **Exam Alert:** Once an employee reaches their rolling cap (240 hours for civilian, 480 hours for uniformed), the Department must pay **cash overtime** instead of additional compensatory time. The cap began on April 15, 1986 — this date may appear on the exam.
 
-<!-- image -->
+> **Sergeant Focus:** As a supervisor, you are responsible for monitoring whether your subordinates have reached their FLSA rolling cap. Once the cap is hit, all further overtime must be paid in cash — you cannot continue accruing comp time beyond the cap.
 
-CIVILIAN MEMBER OF THE SERVICE
+### Overtime Authorization
 
-2. Accrue, if a covered employee, up to 240 hours (one hundred and sixty hours of overtime at time and one-half equals the two hundred and forty hours "cap").
+- It is incumbent upon **all supervisors and managers** to ensure enforcement of overtime authorization requirements
 
-UNIFORMED MEMBER OF THE SERVICE 3.
+> **Sergeant Focus:** You must enforce overtime authorization requirements. Failure to do so can result in unpaid overtime claims against the Department and disciplinary action against the supervisor who authorized or permitted the unauthorized overtime.
 
-- Accrue up to four hundred and eighty hours (three hundred and twenty hours  at  time  and  one-half  equals  the  four  hundred  and  eighty  hours "cap").
+### Termination or Separation Payout
 
-2.
+A member of the service (uniformed or civilian) who has accrued FLSA compensatory time, upon termination or separation of employment, must be paid for the unused FLSA compensatory time at the rate of compensation not less than:
 
-authorization requirements.
-
-A member of the service (uniformed or civilian) who has accrued Fair Labor Standards
-
-## ADMINISTRATIVE GUIDE
-
-of the member's employment, or
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-20              | 11/18/21          | I.O. 110         | 2 of 3  |
-
-## ADDITIONAL DATA
-
-a.
-
-The "cap," as stated in steps 2 and 3 above, is a "rolling cap' which began April 15, 1986 and is maintained during the term of an individual employee's employment. Once a covered civilian or uniformed member of the service has reached the "rolling cap," cash overtime must be paid.
-
-It  is  incumbent  upon  all  supervisors  and managers to ensure enforcement of overtime authorization requirements.
-
-A member of the service (uniformed or civilian) who has accrued Fair Labor Standards Act compensatory time, upon termination or separation of employment, must be paid for the unused Fair Labor Standards Act compensatory time at the rate of compensation not less than:
-
-- a The average regular rate received by such member during the last three  years of the member's employment, or
-- b. The final regular rate received by such member, whichever is greater.
-
-Commanding  officers/supervisory  heads  shall  be  aware  of  the    following  general considerations:
-
-- a. Working time of covered employees must be carefully scheduled and monitored to avoid unpaid overtime claims
-- b. Employees  will  not  be  permitted  to  work  during  their  meal  periods  without written authorization
-- c. A  strict  system  of  record  keeping  of  employees'  time  worked  and  taken  is absolutely mandatory
-- d. Current terms and conditions of collective bargaining agreements will remain in full force and effect as long as they do not differ from the Fair Labor Standards Act.
-
-Employees must be compensated for "working time."  The work week for all employees, except  uniformed  members  of  the  service,  is  defined  as  the  seven  calendar  days beginning  at  0001  hours  Sunday  and  ending  2400  hours  the  following  Saturday  (one hundred  and  sixty-eight  hours).  Overtime  compensation  at  time  and  one-half  for  all hours actually worked in excess of forty hours in an established seven day work week is generally required for all non-exempt employees. Uniformed members will receive Fair Labor  Standards  Act  overtime after  actually  working  in  excess  of  one  hundred  and seventy-one hours  within  a  twenty  eight  day  period.  Supervisors  and  managers concerned must ensure that each covered employee records the employee's starting time at the beginning of the scheduled workday and at their scheduled finishing time.
-
-Act.
-
-Administrative Staff Analyst
-
-Appraiser
-
-Architect
-
-## ADMINISTRATIVE GUIDE
-
-Assistant Chemist
-
-Division/Employment Section
-
-Director, Civilianization
-
-Director, Civilian Participation
-
-Director, Crime Laboratory
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-20              | 11/18/21          | I.O. 110         | 3 of 3  |
-
-Division
-
-## ADDITIONAL The following civilian titles are exempt from the provisions of the Fair Labor Standards Act: Director, Strategic Technology Division
-
-Accountant
-
-Administrative Accountant
-
-Administrative Engineer
-
-Administrative Manager
-
-Administrative Staff Analyst
-
-Appraiser
-
-Architect
-
-Assistant Accountant
-
-Assistant Advocate
-
-Assistant Architect
-
-Assistant Building Custodian
-
-Assistant Chemist
-
-Assistant Commissioner
-
-Assistant Counsel
-
-Assistant Deputy Commissioner
-
-Assistant Deputy Director, Employment
-
-Section
-
-Assistant Mechanic Engineer
-
-Assistant Project Coordinator
-
-Assistant Purchasing Agent
-
-Assistant to Police Commissioner
-
-Associate Accountant
-
-Associate Chemist
-
-Associate Staff Analyst
-
-Staff Analyst
-
-Associate WC Benefits Examiner
-
-Associate Quality Assurance Specialist
-
-Attorney
-
-Benefits Examiner
-
-Building Custodian
-
-Case Management Nurse
-
-Chaplain
-
-Chemist
-
-Chemist Trainee
-
-Chief Clerk
-
-Chief Psychologist
-
-Civil Engineer
-
-Community Associate
-
-Community Coordinator
-
-Computer Aide, Level II and III  ONLY
-
-Computer Associate, Technical Support, all Levels
-
-Computer Associate Operations all Levels
-
-Computer Associate, Software, All Levels
-
-Computer Programming Analyst
-
-Computer Specialist, Software, All Levels
-
-Computer Systems Manager
-
-Confidential Investigator
-
-Coordinator of Canine Training
-
-Counsel to Police Commissioner
-
-Storekeeper
-
-Dentist
-
-Director, Crime Laboratory
-
-Deputy Commissioner
-
-Deputy Director, Employee Management
-
-Division/Employment Section
-
-Director, Civilianization
-
-Director, Civilian Participation
-
-Director, Crime Laboratory
-
-Director, Department Advocate
-
-Director, Fleet Services Unit
-
-Director, Information Technology   Services
-
-Division
-
-Director, Printing Section
-
-Director, Psychological Services
-
-Director, Strategic Technology Division
-
-Director, Training
-
-Electrical Engineer
-
-First Deputy Commissioner
-
-Laboratory Microbiologist, All Levels
-
-Motor Vehicle Supervisor
-
-Principal Administrative Associate, Level 3
-
-Principal Chemist
-
-Principal Fingerprint Technician
-
-Principal Statistician
-
-Principal Storekeeper
-
-Principal Program Research Analyst
-
-Project Coordinator
-
-Psychologist
-
-Purchasing Agent, All Levels
-
-Quantitative Analyst
-
-Retirement Benefits Counselor, Level 2
-
-Secretary of Department
-
-Senior Building Custodian
-
-Senior Custodial Assistant
-
-Senior Electrical Engineer
-
-Senior Motor Vehicle Supervisor
-
-Senior Psychologist
-
-Senior Storekeeper
-
-Staff Analyst
-
-Staff Nurse
-
-Statistician
-
-Stock Handler
-
-Storekeeper
-
-Supervising Chief Surgeon
-
-Supervising Human Resources Specialist
-
-Supervising Nutritionist
-
-Supervising Retirement Benefits Examiner
-
-Supervisor of Building Custodians
-
-Supervisor, Radio Repair Operations
-
-Surgeon
-
-X-Ray Technician
-
-## DATA (continued)
-
-Attorney
-
-Chaplain
-
-Chemist
-
-Chief Clerk
-
-Civil Engineer
-
-Psychologist
-
-POLICE
-
-DEPARTMENT
-
-CITY
-
-YORK
-
-Naw
-
-PROCEDURE
-
-applicants to perform the essential functions of their jobs and enjoy the benefit
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:
-
-Employees Rights/Responsibilities
-
+- **a.** The **average regular rate** received by such member during the **last three years** of the member's employment, or
+- **b.** The **final regular rate** received by such member
+
+**Whichever is greater.**
+
+> **Exam Alert:** Upon separation, unused FLSA comp time must be paid at the **greater** of: (a) the average regular rate over the last 3 years, or (b) the final regular rate. The key word is "greater" — not the current rate, not the average rate, but whichever is more favorable to the employee.
+
+### General Considerations for Commanding Officers/Supervisory Heads
+
+- **a.** Working time of covered employees must be carefully scheduled and monitored to avoid unpaid overtime claims
+- **b.** Employees will **not** be permitted to work during their meal periods without **written authorization**
+- **c.** A **strict system of record keeping** of employees' time worked and taken is absolutely mandatory
+- **d.** Current terms and conditions of collective bargaining agreements will remain in full force and effect as long as they do not differ from the FLSA
+
+> **Sergeant Focus:** These four considerations are direct supervisory responsibilities. Pay special attention to item (b) — employees may not work during meal periods without written authorization. If you allow it without authorization, you may be creating an unpaid overtime liability. Item (c) makes record keeping "absolutely mandatory" — the language is intentionally strong.
+
+### Work Week Definition and Overtime
+
+- Employees must be compensated for **"working time"**
+- The work week for all employees, **except uniformed members of the service**, is defined as the **seven calendar days beginning at 0001 hours Sunday and ending 2400 hours the following Saturday** (168 hours)
+- Overtime compensation at **time and one-half** for all hours actually worked in excess of **forty hours** in an established seven day work week is generally required for all non-exempt employees
+- **Uniformed members** will receive FLSA overtime after actually working in excess of **one hundred and seventy-one hours** within a **twenty-eight day period**
+- Supervisors and managers concerned must ensure that each covered employee records the employee's **starting time** at the beginning of the scheduled workday and at their **scheduled finishing time**
+
+> **Sergeant Focus:** You must ensure that each covered employee under your command records their starting and finishing times. Failure to maintain accurate time records creates liability for unpaid overtime claims and is a direct supervisory failure.
+
+---
+
+## Exempt Civilian Titles
+
+The following civilian titles are **exempt** from the provisions of the Fair Labor Standards Act:
+
+- Accountant
+- Administrative Accountant
+- Administrative Engineer
+- Administrative Manager
+- Administrative Staff Analyst
+- Appraiser
+- Architect
+- Assistant Accountant
+- Assistant Advocate
+- Assistant Architect
+- Assistant Building Custodian
+- Assistant Chemist
+- Assistant Commissioner
+- Assistant Counsel
+- Assistant Deputy Commissioner
+- Assistant Deputy Director, Employment Section
+- Assistant Mechanic Engineer
+- Assistant Project Coordinator
+- Assistant Purchasing Agent
+- Assistant to Police Commissioner
+- Associate Accountant
+- Associate Chemist
+- Associate Staff Analyst
+- Associate WC Benefits Examiner
+- Associate Quality Assurance Specialist
+- Attorney
+- Benefits Examiner
+- Building Custodian
+- Case Management Nurse
+- Chaplain
+- Chemist
+- Chemist Trainee
+- Chief Clerk
+- Chief Psychologist
+- Civil Engineer
+- Community Associate
+- Community Coordinator
+- Computer Aide, Level II and III ONLY
+- Computer Associate, Technical Support, all Levels
+- Computer Associate Operations, all Levels
+- Computer Associate, Software, All Levels
+- Computer Programming Analyst
+- Computer Specialist, Software, All Levels
+- Computer Systems Manager
+- Confidential Investigator
+- Coordinator of Canine Training
+- Counsel to Police Commissioner
+- Dentist
+- Deputy Commissioner
+- Deputy Director, Employee Management Division/Employment Section
+- Director, Civilianization
+- Director, Civilian Participation
+- Director, Crime Laboratory
+- Director, Department Advocate
+- Director, Fleet Services Unit
+- Director, Information Technology Services Division
+- Director, Printing Section
+- Director, Psychological Services
+- Director, Strategic Technology Division
+- Director, Training
+- Electrical Engineer
+- First Deputy Commissioner
+- Laboratory Microbiologist, All Levels
+- Motor Vehicle Supervisor
+- Principal Administrative Associate, Level 3
+- Principal Chemist
+- Principal Fingerprint Technician
+- Principal Statistician
+- Principal Storekeeper
+- Principal Program Research Analyst
+- Project Coordinator
+- Psychologist
+- Purchasing Agent, All Levels
+- Quantitative Analyst
+- Retirement Benefits Counselor, Level 2
+- Secretary of Department
+- Senior Building Custodian
+- Senior Custodial Assistant
+- Senior Electrical Engineer
+- Senior Motor Vehicle Supervisor
+- Senior Psychologist
+- Senior Storekeeper
+- Staff Analyst
+- Staff Nurse
+- Statistician
+- Stock Handler
+- Storekeeper
+- Supervising Chief Surgeon
+- Supervising Human Resources Specialist
+- Supervising Nutritionist
+- Supervising Retirement Benefits Examiner
+- Supervisor of Building Custodians
+- Supervisor, Radio Repair Operations
+- Surgeon
+- X-Ray Technician
+
+> **Exam Alert:** The exam may test whether a particular civilian title is exempt from FLSA or not. You do not need to memorize every title, but know the general categories: management, professional, administrative, and technical/specialist roles tend to be exempt. Clerical, operational, and manual labor titles tend to be covered.
 ---
 
 # Section 332 — REASONABLE ACCOMMODATIONS
 
-## A.G. 332-21
+Covers A.G. 332-21
 
-DATE EFFECTIVE:
+---
 
-LAST REVISION:
+## A.G. 332-21: Reasonable Accommodations
 
-PAGE:
+**Purpose:** To process and resolve all reasonable accommodation requests from employees and applicants.
 
-08/19/25
+### Definitions
 
-R.O. 74
+**Reasonable Accommodation** — Any modification or reasonable adjustment provided by the employer that assists employees and qualified applicants to perform the essential functions of their jobs and enjoy the benefits and privileges of employment. The accommodation cannot create an undue hardship to the Department.
 
-1 of 4
+---
 
-PURPOSE
+### Employees Requesting a Reasonable Accommodation (Other Than for Prayer or to Express Breast Milk)
 
-To process and resolve all reasonable accommodation requests from employees and applicants.
+#### EMPLOYEE
 
-## DEFINITIONS
-
-PROCEDURE
-
-EQUAL
-
-OPPORTUNITY
-
-## MEMBER OF THE SERVICE
-
-MEMBER OF
-
-THE SERVICE
-
-## OFFICE OF EQUAL EMPLOYMENT
-
-## OPPORTUNITY
-
-REASONABLE  ACCOMMODATION  -  Any  modification  or  reasonable adjustment  provided  by  the  employer  that  assists  employees  and  qualified applicants to perform the essential functions of their jobs and enjoy the benefits and  privileges  of  employment.  The  accommodation  cannot  create  an  undue hardship to the Department.
-
-When an employee or applicant requests a reasonable accommodation:
-
-## EMPLOYEES REQUESTING A REASONABLE ACCOMMODATION OTHER THAN FOR PRAYER OR TO EXPRESS BREAST MILK
-
-1. Complete all relevant captions of REASONABLE ACCOMMODATION  REQUEST  (PD407-015B) and,  if  necessary, attach supporting documents.
-- a. Prepare REASONABLE  ACCOMMODATION  REQUEST MEDICAL DOCUMENTATION (PD407-0113) for accommodation  based  on  a  physical  or  mental  disability,  if required.
+1. Complete all relevant captions of REASONABLE ACCOMMODATION REQUEST (PD407-015B) and, if necessary, attach supporting documents.
+   - a. Prepare REASONABLE ACCOMMODATION REQUEST MEDICAL DOCUMENTATION (PD407-0113) for accommodation based on a physical or mental disability, if required.
 2. Submit form(s) and documents via email to Office of Equal Employment Opportunity (OEEO).
+
+#### OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY
+
 3. Review request and confer with employee to assess employee's need(s).
-4. Confer with employee's operations coordinator/counterpart, if necessary, to  determine  if  reasonable  accommodation  will  have  any  effect  on command operations.
-5. Notify  employee  and  employee's  commanding  officer,  in  writing,  of determination.
+4. Confer with employee's operations coordinator/counterpart, if necessary, to determine if reasonable accommodation will have any effect on command operations.
+5. Notify employee and employee's commanding officer, in writing, of determination.
 
-## EMPLOYEES  REQUESTING  A  REASONABLE  ACCOMMODATION  TO EXPRESS BREAST MILK
+---
 
-## MEMBER OF THE SERVICE 6.
+### Employees Requesting a Reasonable Accommodation to Express Breast Milk
 
-- Notify OEEO of the need for an accommodation prior to returning to work, or as soon as practical.
-- 7.
+#### EMPLOYEE
 
-Complete all sections of REASONABLE  ACCOMMODATION REQUEST .
-
-- a. Indicate a description of anticipated schedule and time needed.
+6. Notify OEEO of the need for an accommodation prior to returning to work, or as soon as practical.
+7. Complete all sections of REASONABLE ACCOMMODATION REQUEST.
+   - a. Indicate a description of anticipated schedule and time needed.
 8. Submit form(s) and documents via email to OEEO.
-9. Notify immediate supervisor of REASONABLE ACCOMMODATION REQUEST .
+9. Notify immediate supervisor of REASONABLE ACCOMMODATION REQUEST.
 
-15.
+#### DESK OFFICER / IMMEDIATE SUPERVISOR
 
-16.
-
-17.
-
-18.
-
-## MEMBER OF THE SERVICE
-
-b.
-
-13.
-
-Confer with operations coordinator/counterpart if assistance is required i
-
-## PATROL GUIDE
-
-IMMEDIATE
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-21              | 08/19/25          | R.O. 74          | 2 of 4  |
-
-NOTE
-
-## IMMEDIATE SUPERVISOR
-
-## DESK OFFICER/ IMMEDIATE SUPERVISOR
-
-minutes.
-
-NOTE
-
-OFFICE OF
-
-EQUAL
-
-EMPLOYMENT
-
-OPPORTUNITY
-
-MEMBER OF
-
-Facilities."
-
-10. Notify commanding officer upon receipt of REASONABLE ACCOMMODATION REQUEST .
+10. Notify commanding officer upon receipt of REASONABLE ACCOMMODATION REQUEST.
 11. Grant preliminary approval of REASONABLE ACCOMMODATION REQUEST pending final written determination from OEEO.
 12. Confer with requesting member of the service to determine:
-- a. Appropriate schedule, and
-- b. Preferred location to express milk.
-13. Confer with operations coordinator/counterpart if assistance is required in complying with REASONABLE ACCOMMODATION REQUEST .
-14. Assist with locating an appropriate space that complies with A.G. 327-02, 'Management  of  Lactation  Pods  and  Lactation  Rooms  in  Department Facilities.'
+    - a. Appropriate schedule, and
+    - b. Preferred location to express milk.
+13. Confer with operations coordinator/counterpart if assistance is required in complying with REASONABLE ACCOMMODATION REQUEST.
+14. Assist with locating an appropriate space that complies with A.G. 327-02, "Management of Lactation Pods and Lactation Rooms in Department Facilities."
 
-An employee must be provided 30 minutes of paid break time during their scheduled tour to  express  breast  milk.  When  time  is  needed  in  excess  of  30  minutes,  employers  shall further permit an employee to use their existing paid break time or their meal time to express breast milk. Overtime will not be given for the sole purpose of expressing breast milk.  If  an  employee  elects  to  continue  to  work  details,  as  part  of  their  reasonable accommodation, the employee must continue to be accommodated and granted relief to express breast milk in a manner that is consistent with the employee's accommodation during  their  regular  assignment.  Employees  with  a  reasonable  accommodation  are exempt from being assigned to details/mobilizations outside of their command with the exception of Headquarters Security. Employees with a reasonable accommodation that are assigned to details within their command, should remain in close proximity to the command  to  ensure  accessibility  to  lactation  spaces..  When  immediate  relief  is  not available,  the  employee  may  be  asked  to  postpone  a  break  for  a  maximum  of  thirty minutes. all relevant sections of REASONABLI
+> **Exam Alert:** An employee must be provided **30 minutes of paid break time** during their scheduled tour to express breast milk. When time is needed in excess of 30 minutes, the employee may use existing paid break time or meal time. Overtime will **not** be given for the sole purpose of expressing breast milk.
 
-Members are reminded that OEEO has designated lactation spaces in various commands. Any questions regarding this note may be directed to the Office of Equal Employment Opportunity.
+> **Exam Alert:** Employees with a reasonable accommodation to express breast milk are **exempt from being assigned to details/mobilizations outside of their command**, with the exception of Headquarters Security. Employees assigned to details within their command should remain in close proximity to ensure accessibility to lactation spaces.
 
-## OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY 15. 16.
+> **Exam Alert:** When immediate relief is not available, the employee may be asked to postpone a break for a **maximum of thirty minutes**.
 
-Inform employee within five business days that request has been received.
+> **Sergeant Focus:** As a supervisor, you must **grant preliminary approval** of a breast milk accommodation request pending OEEO's final written determination. Do not deny or delay the request — preliminary approval must be granted while awaiting OEEO's review.
 
-Review request and confer with employee to assess employee's need(s).
+> **NOTE:** Members are reminded that OEEO has designated lactation spaces in various commands. Any questions regarding this note may be directed to the Office of Equal Employment Opportunity.
 
-17. Notify  employee  and  employee's  commanding  officer,  in  writing,  of determination.
+#### OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY
 
-## EMPLOYEES  REQUESTING  A  REASONABLE  ACCOMMODATION FOR PRAYER
+15. Inform employee within **five business days** that request has been received.
+16. Review request and confer with employee to assess employee's need(s).
+17. Notify employee and employee's commanding officer, in writing, of determination.
 
-18. Complete all relevant sections of REASONABLE ACCOMMODATION REQUEST .
-- a. Indicate a description of anticipated schedule and time needed.
-3. 19 Submit form(s) and documents via email to OEEO.
-20. Notify immediate supervisor of REASONABLE ACCOMMODATION REQUEST .
+> **Exam Alert:** OEEO must inform the employee within **five business days** that the request has been received. This is a specific timeline the exam may test.
 
-NEW  YORK  CITY  POLICE  DEPARTMENT
+---
 
-Preferred location to express milk.
+### Employees Requesting a Reasonable Accommodation for Prayer
 
-NOTE
+#### EMPLOYEE
 
-Time of day for prayer, and c.
+18. Complete all relevant sections of REASONABLE ACCOMMODATION REQUEST.
+    - a. Indicate a description of anticipated schedule and time needed.
+19. Submit form(s) and documents via email to OEEO.
+20. Notify immediate supervisor of REASONABLE ACCOMMODATION REQUEST.
 
-Location to pray.
+#### IMMEDIATE SUPERVISOR
 
-## PATROL GUIDE
-
-Commands that do not have a designated prayer space established by a previously file
-
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-21              | 08/19/25          | R.O. 74          | 3 of 4  |
-
-## IMMEDIATE SUPERVISOR
-
-EQUAL
-
-25.
-
-26.
-
-CANDIDATE
-
-ASSESSMENT
-
-DIVISION/
-
-MEDICAL
-
-## NOTE
-
-DIVISION/
-
-HUMAN
-
-DIVISION
-
-28.
-
-## OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY
-
-EQUAL
-
-21. Notify commanding officer upon receipt of REASONABLE ACCOMMODATION REQUEST .
+21. Notify commanding officer upon receipt of REASONABLE ACCOMMODATION REQUEST.
 22. Grant preliminary approval of REASONABLE ACCOMMODATION REQUEST pending final written determination from OEEO.
 23. Confer with requesting member of the service to determine:
-- a. Length and time of prayer,
-- b. Time of day for prayer, and
-- c. Location to pray.
-24. Confer with operations coordinator/counterpart if assistance is required in complying with REASONABLE ACCOMMODATION REQUEST .
-- a. Inform requesting member of location of designated prayer space.
+    - a. Length and time of prayer,
+    - b. Time of day for prayer, and
+    - c. Location to pray.
+24. Confer with operations coordinator/counterpart if assistance is required in complying with REASONABLE ACCOMMODATION REQUEST.
+    - a. Inform requesting member of location of designated prayer space.
 
-Commands that do not have a designated prayer space established by a previously filed reasonable accommodation shall make every effort to identify a space that is clean, welllit, private, and shielded from view (excluding a restroom).
+> **NOTE:** Commands that do not have a designated prayer space established by a previously filed reasonable accommodation shall make every effort to identify a space that is **clean, well-lit, private, and shielded from view** (excluding a restroom).
+
+> **Exam Alert:** A prayer space must be clean, well-lit, private, and shielded from view — and a restroom does **not** qualify as a prayer space. The exam may test this exclusion.
+
+> **Sergeant Focus:** As a supervisor, you must grant **preliminary approval** for prayer accommodation requests pending OEEO determination. You must also confer with the requesting member about the length, time, and location of prayer, and inform them of any designated prayer space.
+
+#### OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY
 
 25. Review request and confer with employee to assess employee's need(s).
-26. Notify  employee  and  employee's  commanding  officer, in  writing,  of determination.
+26. Notify employee and employee's commanding officer, in writing, of determination.
 
-30.
+---
 
-Notify applicant and hiring personnel, in writing, of the determination.
+### Applicants Requesting a Reasonable Accommodation
 
-## APPLICANTS REQUESTING A REASONABLE ACCOMMODATION
+#### CANDIDATE ASSESSMENT DIVISION / MEDICAL DIVISION / HUMAN RESOURCES DIVISION
 
-OPPORTUNITY
-
-DATA
-
-## CANDIDATE ASSESSMENT DIVISION/ MEDICAL DIVISION/ HUMAN RESOURCES DIVISION
-
-Direct applicant
-
-to complete
-
-relevant
-
-ACCOMMODATION REQUEST
-
-documents.
-
+27. Direct applicant to complete all relevant captions of REASONABLE ACCOMMODATION REQUEST, and if necessary, attach supporting documents.
 28. Submit form(s) and documents via email to OEEO.
 
-## OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY 29. 30.
+#### OFFICE OF EQUAL EMPLOYMENT OPPORTUNITY
 
-Review request and confer with applicant to assess the applicant's need(s). Notify applicant and hiring personnel, in writing, of the determination.
+29. Review request and confer with applicant to assess the applicant's need(s).
+30. Notify applicant and hiring personnel, in writing, of the determination.
 
-## ADDITIONAL DATA
+---
 
-Employees can be accommodated for their reasonable need to express breast milk for up to  three  years  following  childbirth.  The  Department  shall  designate  a  room  or  other location which shall be made available for use by such employee to express breast milk in accordance with the  provisions  of  A.G.  327-02,  'Management  of  Lactation  Pods  and Lactation Rooms in Department Facilities.'
+### Additional Data
 
-Interns (paid and unpaid), auxiliary police officers, and consultants are also permitted to submit a REASONABLE ACCOMMODATION REQUEST .
+- Employees can be accommodated for their reasonable need to express breast milk for up to **three years** following childbirth. The Department shall designate a room or other location which shall be made available for use by such employee to express breast milk in accordance with the provisions of A.G. 327-02, "Management of Lactation Pods and Lactation Rooms in Department Facilities."
 
-captions of
+- Interns (paid and unpaid), auxiliary police officers, and consultants are also permitted to submit a REASONABLE ACCOMMODATION REQUEST.
 
-REASONABLE
+- An employee or applicant may appeal the reasonable accommodation determination by forwarding an appeal request on **Typed Letterhead** addressed to the **Commanding Officer, Police Commissioner's Office**, and by attaching any additional documentation relevant to the request for an appeal. An employee or applicant who submits an appeal will receive a written response informing them of the outcome of said appeal.
 
-, and if necessary, to attach supporting
+- **Retaliation is prohibited** against any person requesting a reasonable accommodation. Any member of the service who engages in such retaliation or harassment will be subject to **disciplinary action**.
 
-27.
+- All documentation and information filed in support of an employee's or applicant's request for an accommodation is to be kept **strictly confidential**, except when supervisors and/or other necessary personnel need to be informed about work restrictions or other conditions related to the reasonable accommodation.
 
-27.
+> **Exam Alert:** Breast milk accommodation is available for up to **three years** following childbirth. This is a specific timeframe the exam may test.
 
-member of the service who engages in such retaliation or harassment will be subject t disciplinary action.
+> **Exam Alert:** Interns (paid and unpaid), auxiliary police officers, and consultants can also submit REASONABLE ACCOMMODATION REQUESTS — not just regular employees.
 
-## PATROL GUIDE
+> **Exam Alert:** Appeals of reasonable accommodation determinations must be submitted on **Typed Letterhead** to the **Commanding Officer, Police Commissioner's Office**. This is a specific routing the exam may test.
 
-| PROCEDURE NUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|---------------------|-------------------|------------------|---------|
-| 332-21              | 08/19/25          | R.O. 74          | 4 of 4  |
+> **Exam Alert:** Retaliation against anyone requesting a reasonable accommodation is **prohibited**. Any member who engages in retaliation or harassment is subject to **disciplinary action**. This is absolute language — no exceptions.
 
-conditions related to the reasonable accommodation.
+> **Exam Alert:** All accommodation documentation must be kept **strictly confidential**. The only exception is when supervisors or necessary personnel need to be informed about work restrictions or other conditions related to the accommodation.
 
-## ADDITIONAL DATA (continued)
-
-POLICE
-
-AHDA
-
-NEW
-
-An employee or applicant may appeal the reasonable accommodation determination by forwarding  an  appeal  request  on Typed  Letterhead addressed  to  the  Commanding Officer, Police Commissioner's Office, and by attaching any additional documentation relevant to the request for an appeal. An employee or applicant who submits an appeal will receive a written response informing them of the outcome of said appeal.
-
-Retaliation is prohibited against any person requesting a reasonable accommodation. Any member of the service who engages in such retaliation or harassment will be subject to disciplinary action.
-
-All  documentation  and  information  filed  in  support  of  an  employee's  or  applicant's request for an accommodation is to be kept strictly confidential , except when supervisors and/or other necessary personnel need to be informed about work restrictions or other conditions related to the reasonable accommodation.
-
-DEPART
-
-<!-- image -->
-
-POLICE
-
-PROCEDURE
-
-7
-
-YORK
-
-UNIFORMED
-
-MEMBER OF
-
-to regulale on auly employment or untormea members of te service performed with the Paid Detail Unit.
-
-<!-- image -->
-
-## ADMINISTRATIVE GUIDE
-
-Section:  Employee Rights/Responsibilities
-
+> **Sergeant Focus:** As a supervisor, you have specific responsibilities in the reasonable accommodation process: (1) notify the commanding officer, (2) grant preliminary approval pending OEEO determination, (3) confer with the requesting member, (4) confer with operations coordinator if needed, and (5) assist with locating appropriate space. Failure to grant preliminary approval or retaliating against a requesting member carries disciplinary consequences.
 ---
 
 # Section 332 — PAID DETAIL EMPLOYMENT
 
 ## A.G. 332-22
 
-DATE EFFECTIVE:
+| Date Effective | Last Revision | Page |
+|---|---|---|
+| 12/04/25 | R.O. 126 | 1 of 4 |
 
-12/04/25
+---
 
-LAST REVISION:
-
-R.O. 126
-
-PAGE:
-
-1 of 4
-
-AND PARTICIPATION AGREEMENT to commanding officer.
-
-NOTE
-
-OFFICER/
-
-PURPOSE
+## PURPOSE
 
 To regulate off duty employment of uniformed members of the service performed with the Paid Detail Unit.
 
-PROCEDURE
+## PROCEDURE
 
 When a uniformed member of the service below the rank of deputy chief wishes to engage in off duty employment with the Paid Detail Unit:
 
-UNIFORMED MEMBER  OF THE SERVICE
+## UNIFORMED MEMBER OF THE SERVICE
 
-1. Prepare PAID  DETAIL  ENROLLMENT  APPLICATION  AND PARTICIPATION AGREEMENT (PD 407-043) .
-
+1. Prepare **PAID DETAIL ENROLLMENT APPLICATION AND PARTICIPATION AGREEMENT** (PD 407-043).
 2. Deliver completed PAID DETAIL ENROLLMENT APPLICATION AND PARTICIPATION AGREEMENT to commanding officer.
 
-members who are designated Chronic Sick - Category "B" or who are on level two or
+> **Exam Alert:** Members wishing to seek off duty employment through the Paid Detail Unit **must be on full duty status** with no position limitations. Members designated **Chronic Sick - Category "B"** or on **level two or three monitoring** are excluded from participating. Probationary police officers must have at least **one full year of service** at the time of application (inclusive of time spent at the Police Academy's Recruit Training Section).
 
-application (inclusive of their time spent at the Police Academy's Recruit Training
+> **Sergeant Focus:** Executive members (captain and above) who wish to participate must be approved by the **Chief of Personnel** prior to participation. Ensure members in your command understand all eligibility requirements before they apply.
 
-4.
-
-CHIEF OF
-
-NOTE
-
-UNIFORMED
-
-MEMBER OF
-
-COMMANDING
-
-NOTE
-
-OFFICER/ CHIEF OF
-
-PERSONNEL
-
-vendor.
-
-DAI DIMATT
-
-Those uniformed members of the service wishing to seek off duty employment through the Paid Detail Unit must be on full duty status, with no position limitations. Additionally, members who are designated Chronic Sick -Category 'B' or who are on level two or three monitoring are excluded from participating in the Paid Detail  Program. Probationary police officers must have at least one full year of service at the time of application  (inclusive  of  their  time  spent  at  the  Police  Academy's  Recruit  Training Section). Executive members (captain and above) who wish to participate in the program must be approved by the Chief of Personnel, prior to participation.
+## COMMANDING OFFICER / CHIEF OF PERSONNEL
 
 3. Review application and determine if member is eligible.
-4. Ascertain that applicant understands 'Guidelines' and 'General Prohibitions' as outlined in 'Additional Data' statement.
+4. Ascertain that applicant understands **"Guidelines"** and **"General Prohibitions"** as outlined in the "Additional Data" statement.
 5. Confer with applicant's immediate supervisor.
 6. Notify applicant of decision to approve or disapprove application.
-7. Return APPROVED application to requesting member.
+7. Return **APPROVED** application to requesting member.
+8. File **DISAPPROVED** application in requesting member's personnel folder.
 
-1 ^
+> **Sergeant Focus:** As a supervisor, you may be asked to confer with the commanding officer regarding a member's eligibility. Be prepared to provide input on the member's duty status, attendance record, and any monitoring or Chronic Sick designation.
 
-8. File DISAPPROVED application in requesting member's  personnel folder.
+## UNIFORMED MEMBER OF THE SERVICE
 
-UNIFORMED MEMBER  OF THE SERVICE 9.
+9. Return APPROVED application, with Commanding Officer/Chief of Personnel's signature, along with a signed **W-9 form** via Department mail or in person to the Paid Detail Unit.
 
-Return APPROVED application,  with  Commanding  Officer/Chief  of Personnel's signature, along with a signed W -9 form via Department mail or in person to the Paid Detail Unit.
+> **Exam Alert:** W-9 forms **MUST** contain the requesting member's Social Security Number. The Paid Detail Unit will keep W-9 forms on file in the event they are requested by a particular vendor.
 
-NOTE
+## PAID DETAIL UNIT
 
-PAID DETAIL UNIT
+10. Review PAID DETAIL ENROLLMENT APPLICATION AND PARTICIPATION AGREEMENT.
+11. Approve or disapprove application and inform requesting member of decision.
+12. Notify approved members to appear in person, while off-duty, with **Department IDENTIFICATION CARD** (PD416-091), to the Paid Detail Unit, to set up account within the Paid Detail System (Internet Assignment System) application.
 
-W-9 forms MUST contain the requesting member's Social Security Number. The Paid Detail Unit will keep W-9 forms on file in the event they are requested by a particular vendor.
-
-10. Review PAID  DETAIL  ENROLLMENT  APPLICATION  AND PARTICIPATION AGREEMENT .
-11. Approve  or  disapprove  application  and  inform  requesting  member  of decision.
-12. Notify  approved  members  to  appear  in  person,  while  off-duty,  with Department IDENTIFICATION CARD (PD416-091) , to the Paid Detail Unit, to set-up account within the Paid Detail System  (Internet Assignment System) application.
-
-NEW  YORK  CITY  POLICE  DEPARTMENT
-
-5.
-
-6.
-
-16.
-
-## LIEUTENANT PLATOON COMMANDER
-
-roll call and overtime records to ensure there are no discrepancies.
-
-Include in command overtime self-inspection program.
-
-## ADMINISTRATIVE GUIDE
-
-PLATOON
-
-COMMANDER
-
-## INTEGRITY CONTROL OFFICER
-
-BUREAU
-
-DATA
-
-| PROCEDURENUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|--------------------|-------------------|------------------|---------|
-| 332-22             | 12/04/25          | R.O. 126         | 2 of 4  |
-
-active Paid Detail locations, including times of assignments.
+## LIEUTENANT (PLATOON COMMANDER)
 
 13. Access the Department's intranet webpage each month to ascertain Paid Detail activities of individual members assigned to command, including times and locations.
-- a. Select an appropriate representative sampling and compare against command roll call and overtime records to ensure there are no discrepancies.
-- b. Include in command overtime self-inspection program.
-
-to
+    - a. Select an appropriate representative sampling and compare against command roll call and overtime records to ensure there are no discrepancies.
+    - b. Include in command overtime self-inspection program.
 
 14. Access the Department's intranet webpage to ascertain active Paid Detail locations and times of assignment within the precinct, at start of tour.
-- a. Make  a  Command  Log  entry  indicating  results  of  inquiry  into active Paid Detail locations, including times of assignments.
+    - a. Make a **Command Log** entry indicating results of inquiry into active Paid Detail locations, including times of assignments.
+    - b. Print reference copy of Paid Detail assignments scheduled during tour and attach to roll call.
 
-GUIDELINES:
+> **Sergeant Focus:** Sergeants should be aware of Paid Detail assignments within their command. Monitoring Paid Detail activities against roll call and overtime records helps identify potential conflicts, fatigue issues, or policy violations. The command overtime self-inspection program is a key supervisory tool.
 
-- b. Print reference copy of Paid Detail assignments scheduled during tour and attach to roll call.
-
-## BOROUGH/ BUREAU ADJUTANT
-
-c.
-
-## ADDITIONAL DATA
-
-e.
+## BOROUGH / BUREAU ADJUTANT
 
 15. Maintain a list of executive members (captains and above) authorized to participate in the Paid Detail Program.
 16. Access the Department's intranet webpage each month to ascertain Paid Detail activities of individual executive members assigned to borough/bureau, including times and locations.
-- a. Select an appropriate representative sampling and compare against command  Paid  Detail  Assignment  Report  and EXECUTIVE WEEKLY TIME RECORD (PD433-1418) to  ensure  there  are no discrepancies.
+    - a. Select an appropriate representative sampling and compare against command Paid Detail Assignment Report and **EXECUTIVE WEEKLY TIME RECORD** (PD433-1418) to ensure there are no discrepancies.
 
-Members are required to make digital Activity Log entries at the commencement
+---
 
-GUIDELINES:
+## ADDITIONAL DATA
 
-goes on meal or takes police action,
+### GUIDELINES
 
-The  following  guidelines  apply  to  ALL  uniformed  members  performing  Paid  Detail employment:
+The following guidelines apply to **ALL** uniformed members performing Paid Detail employment:
 
-f.
+- **a.** Members must enter their last scheduled tour and next scheduled tour on the **PAID DETAIL CARD** (PD 407-168).
+- **b.** Members must perform their Paid Detail assignment in the patrol uniform of the day and adhere to A.G. 304-07, "Personal Appearance," A.G. 305-01, "General Uniform Regulations," A.G. 305-03, "Uniforms," and A.G. 305-08, "Required Equipment."
+- **c.** Members are required to have their Department radio on and tuned to the proper frequency while performing a Paid Detail assignment.
+- **d.** Members are required to make **digital Activity Log entries** at the commencement and conclusion of each Paid Detail assignment as well as any time the member goes on meal or takes police action.
 
-<!-- image -->
+> **Exam Alert:** Digital Activity Log entries are required at three key points: (1) commencement, (2) conclusion, and (3) whenever the member goes on meal or takes police action during a Paid Detail assignment.
 
-- a. Members must enter their last scheduled tour and next scheduled tour on the PAID DETAIL CARD (PD 407-168) ,
+- **e.** Members are required to take proper police action and must adhere to P.G. 208-01, "Law of Arrest."
+- **f.** Members on Paid Detail assignments who effect arrests will call the **patrol supervisor, precinct of occurrence**, to the scene.
+    - (1) In general, members performing a Paid Detail assignment will not be assigned to process arrests unless directed by an on-duty NYPD supervisor or they were personally involved in the underlying incident. Any arrest processing performed by a member on a Paid Detail assignment will be completed on **police overtime**.
 
-Membersmustperformtheir  Paid  Detailassignmentinthepatroluniformofthedayandadhere to A.G. 304-07, 'Personal Appearance,' A.G. 305-01, 'General Uniform Regulations,' A.G. 30503,'Uniforms,' and  A.G.  30508,'Required Equipment,'
+> **Sergeant Focus:** As a patrol supervisor, you may be called to the scene of a Paid Detail arrest. You must determine whether the Paid Detail member will process the arrest or if on-duty personnel will handle it. Paid Detail members generally do not process arrests unless directed by an on-duty NYPD supervisor.
 
-Members are required to have their Department radio on and tuned to the proper frequency, while performing a Paid Detail assignment,
+- **g.** Incidents which necessitate the response of the patrol supervisor require a notification to the Paid Detail Unit. Similarly, should members performing Paid Detail sustain an injury while taking police action, a notification to the Paid Detail Unit must also be made. If after hours, members must leave a detailed message.
+- **h.** The City of New York will represent any officer who is sued while working a Paid Detail, providing that the actions of the officer fall within the scope of **Section 50-k of the General Municipal Law**. The officer must be acting within the scope of their duty as a New York City police officer, be acting to further the interest of the municipality, and not violate rules or regulations of the Department.
 
-Members are required to make digital Activity Log entries at the commencement and conclusion of each Paid Detail assignment as well as any time the member goes on meal or takes police action,
+> **Exam Alert:** Section 50-k representation requires **all three** conditions: (1) acting within the scope of duty as an NYPD officer, (2) acting to further the interest of the municipality, and (3) not violating Department rules or regulations. If any condition is not met, the City may decline to represent the officer.
 
-Members are required to take proper police action and must adhere to P.G. 20801, 'Law of Arrest,'
+- **i.** An injury incurred while performing a Paid Detail assignment will **not** be considered line of duty unless the injury is sustained while a member is taking enforcement action. Line of duty status will not be granted to members who do not follow Department guidelines and/or are injured performing any non-enforcement work.
 
-- f. Members  on  Paid  Detail  assignments  who  effect  arrests  will  call  the  patrol supervisor, precinct of occurrence, to the scene,
-- (1) In general, members performing a Paid Detail assignment will not be assigned to process arrests unless directed by an on-duty NYPD supervisor or they were personally involved in the underlying incident. Anyarrest processing performed byamemberona Paid Detail assignment will becompletedonpoliceovertime.
-- g. Incidents  which  necessitate  the  response  of  the  patrol  supervisor,  require  a notification to the Paid Detail Unit. Similarly, should members performing Paid
+> **Exam Alert:** Line of duty status for Paid Detail injuries is granted **only** when the member is taking enforcement action. Injuries sustained during non-enforcement work on a Paid Detail assignment do **not** qualify for line of duty status.
 
-A Of the veneral Municipal Law. Ine ojjicer must be acung witnin the scope of their duty as a New York City police officer, be acting to further the interest of the
+- **j.** At the conclusion of a Paid Detail assignment, members of all ranks are required to present the **PAID DETAIL CARD** to a vendor representative for signature. The original (white) copy must be signed by a **designated supervisor** (CO, XO, or ICO) of the member concerned. The second (blue) copy is to be retained by the vendor for payroll purposes. The member concerned will retain the third (pink) copy for their records.
 
-municipality, and not violate rules or regulations of the Department,
+> **Sergeant Focus:** As a supervisor (CO, XO, or ICO), you are responsible for signing the white copy of the Paid Detail Card. Verify that entries are accurate before signing.
 
-## ADMINISTRATIVE GUIDE
+- **k.** Executive members of the service are to prepare a weekly **Paid Detail Assignment Report** to be submitted to their overhead command along with the **EXECUTIVE WEEKLY TIME RECORD**.
+- **l.** Members who improperly prepare the PAID DETAIL CARD or whose actions or omissions pose payment problems for the vendor may lose their eligibility in the Paid Detail Program.
+- **m.** Members who fail to follow any Department or Paid Detail Program rule, regulation, or guideline may be **banned** from returning to work for a specific vendor, **suspended** from eligibility, or **dropped** from the program. Additionally, they may face disciplinary action by the Department.
+- **n.** Members who need to cancel a Paid Detail assignment with **less than 48 hours' notice** may only do so in light of a police-related exigency (i.e., arrest, court, detail, mandatory training, etc.), sick report, or a documented emergency.
+- **o.** All members canceling an assignment with less than 48 hours' notice must make a notification to the Paid Detail Unit. If outside business hours, members must leave a detailed message. When the office is closed, members must leave a voicemail at extension and leave the following information: date and time member is calling, tax number, specific job and paid detail number of the assignment being canceled.
+- **p.** Members reporting sick must notify the **Paid Detail Unit** in addition to notifying the Sick Desk. After business hours, members are required to leave a detailed message.
+- **q.** No cancellations will be accepted for overtime notifications unless the notification is marked **"ordered"** and is signed by a supervisor at the member's command.
+- **r.** Upon notification of a cancellation, a supervisor from the Paid Detail Unit will determine what documentation must be provided. Members will be removed from the Paid Detail eligibility list until the documentation is received.
+- **s.** Failure to make a timely notification, or failure to appear at a Paid Detail assignment without good cause, may lead to suspension or removal from the program as determined by the Commanding Officer, Paid Detail Unit.
+- **t.** Members must sign in and out on the **NYPD Paid Detail Attendance Sheet** in addition to any log/sheet kept by individual vendors.
+- **u.** The vendor will provide the members with post location, meal and break policy, and any condition(s) that may require police attention.
+- **v.** Evidence indicating Paid Detail employment impairs a member's ability to perform assigned police duties is cause for **revocation** of approval to engage in Paid Detail employment.
+- **w.** Members are automatically **deactivated** when promoted, transferred, placed on monitoring, or are designated **Chronic Sick - Category "B."**
 
-| PROCEDURENUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|--------------------|-------------------|------------------|---------|
-| 332-22             | 12/04/25          | R.O. 126         | 3 of 4  |
+> **Exam Alert:** Automatic deactivation triggers: promotion, transfer, placement on monitoring, or Chronic Sick - Category "B" designation. Members must reapply after deactivation.
 
-At the conclusion of a Paid Detail assignment, members of all ranks are required to
+### GENERAL PROHIBITIONS
 
-## ADDITIONAL DATA (continued)
+- **a.** Uniformed members of the service are **not authorized** to work off duty, in uniform, other than on a Paid Detail assignment administered by the Department.
+- **b.** Members of all ranks may not perform more than **20 hours per week** of Paid Detail assignments and may not perform a Paid Detail assignment for longer than **10 hours in duration**. This includes members who wish to perform Paid Detail assignments while on vacation.
+    - (1) In the event a vendor asks a member to remain at the location beyond the scheduled tour, the member may do so if they wish but are by no means obligated. Should a member elect to stay, an immediate notification to the Paid Detail Unit must be made. However, in no case may a member continue to work within three hours of their regularly scheduled tour of duty or go beyond the monthly allocation of **80 hours**.
 
-K.
+> **Exam Alert:** Know the three key numerical limits for Paid Detail: **20 hours/week**, **10 hours per assignment**, and **80 hours/month**. These are frequent exam questions.
 
-т.
+- **c.** Members performing a Paid Detail assignment are not authorized to take their meal period during the **first or last hour and one-half** of their tour, except in emergency situations.
+- **d.** Members on leave (e.g., military, educational, family, etc.) and assigned to the Military and Extended Leave Desk (**MELD**) are prohibited from participating in the Paid Detail Program.
+- **e.** Members of all ranks on pre-separation leave are permitted to participate in the Paid Detail Program for no longer than **one year** from the date in which their separation leave begins.
+- **f.** Members are **NOT** permitted to work a Paid Detail assignment within **three hours** of the start of their regularly scheduled tour.
+- **g.** Members may **NOT** perform a Paid Detail assignment within **one hour** of the conclusion of their regularly scheduled tour.
+- **h.** Members may **NOT** request lost time in order to perform a Paid Detail assignment.
 
-n.
+> **Exam Alert:** The time restriction rules are critical: (1) **3 hours before** the start of a regular tour, (2) **1 hour after** the conclusion of a regular tour, (3) **No meal period** during the first or last 1.5 hours of a Paid Detail tour. These appear frequently on the exam.
 
-p.
+> **Sergeant Focus:** Under **no circumstances** may members switch a Paid Detail assignment or perform a Paid Detail assignment scheduled by another member. A Paid Detail assignment must be performed by the member who scheduled the assignment. Failure to comply with this directive will result in **immediate and indefinite suspension** from the Paid Detail Program.
 
-r.
-
-Detail sustain an injury while taking police action, a notification to the Paid Detail Unit must also be made. If after hours, members must leave a detailed message,
-
-- h. The City of New York will represent any officer who is sued while working a Paid Detail providing that the actions of the officer fall within the scope of section 50K of the General Municipal Law. The officer must be acting within the scope of their duty as a New York City police officer, be acting to further the interest of the municipality, and not violate rules or regulations of the Department,
-- i. An injury incurred while performinga Paid Detail assignmentwill not be considered line of duty unless the injury is sustained while a member is taking enforcement action.  Line  of  duty  status  will  not  be  granted  to  members  who  do  not  follow Department guidelines and/or are injured performing any non-enforcement work,
-- j. At the conclusion of a Paid Detail assignment, members of all ranks are required to present PAIDDETAILCARD to a vendor representative for signature. The original (white) copy must be signed by a designatedsupervisor (CO, XO, or ICO) of the member concerned. The second (blue) copy is to be retained by the vendor for payroll purposes. The member concernedwill retain the third (pink) copy for their records,
-- k. Executive members of the service are to prepare a weekly Paid Detail Assignment Report to  be  submitted  to  their  overhead  command  along  with EXECUTIVE WEEKLY TIME RECORD ,
-- l. Members who improperly prepare the PAID DETAIL CARD or whose actions or omissions pose payment problems for the vendor may lose their eligibility in the Paid Detail Program,
-- m. Members  who  fail  to  follow  any  Department  or  Paid  Detail  Program  rule, regulation,  or  guideline  may  be  banned  from  returning  to  work  for  a  specific vendor, suspended from eligibility, or dropped from the program. Additionally, they may face disciplinary action by the Department,
-- n. Members who need to cancel a Paid Detail assignment with less than 48 hours' notice may only do so in light of a police related exigency (i.e., arrest, court, detail, mandatory training, etc.), sick report, or a documented emergency,
-
-S.
-
-<!-- image -->
-
-- o. All members canceling an assignment with less than 48 hours' notice must make a notification to the Paid Detail Unit. If outside business hours, members must leave a detailedmessage. When the officeis closed, membersmust leave a voicemailat extension and leave the following information: date and time member is calling, tax number, specific  job and paid detail number of the assignmentbeing canceled, p. Members reporting sick must notify the Paid Detail Unit in addition to notifying the Sick Desk. After business hours,  members are required to  leave  adetailed message, q. No cancellations will be accepted for overtime notifications unless the notification is marked 'ordered' and is signed by a supervisor at the members command, r. Upon notification of a cancellation, a supervisor from the Paid Detail Unit will determine what documentation must be provided. Members will be removed from the Paid Detail eligibility list until the documentation is received,
-- s. Failure  to  make  a  timely  notification,  or  failure  to  appear  at  a  Paid  Detail assignment  without  good  cause,  may  lead  to  suspension  or  removal  from  the program as determined by the Commanding Officer, Paid Detail Unit,
-- t. Members must sign in and out on the NYPD Paid Detail Attendance Sheet in addition to any log/sheet kept by individual vendors,
-- u. The vendor will provide the members with post location, meal and break policy, and any condition(s) that may require police attention,
-
-montoring or are chronic sick -calegory D.
-
-GENERAL PROHIBITIONS:
-
-## ADMINISTRATIVE GUIDE
-
-| PROCEDURENUMBER:   | DATE EFFECTIVE:   | LAST REVISION:   | PAGE:   |
-|--------------------|-------------------|------------------|---------|
-| 332-22             | 12/04/25          | R.O. 126         | 4 of 4  |
-
-Detail assignments and may not perform a Paid Detail assignment for longer
-
-## ADDITIONAL DATA (continued)
-
-e.
-
-i.
-
-(1)
-
-- v. Evidence  indicating  Paid  Detail  employment  impairs  a  members'  ability  to perform assigned police duties is cause for revocation of approval to engage in Paid Detail employment, and
-- w. Members are automatically deactivated when promoted, transferred, placed on monitoring or are 'Chronic Sick -Category B.'
-
-the Paid Detail Unit must be made. However, in no case may a member
-
-## GENERAL PROHIBITIONS:
-
-duty or go beyond the monthly allocation of 80 hours.
-
-- a. Uniformed members of the service are not authorized to work off duty, in uniform, other than on a Paid Detail assignment administered by the Department.
-- b. Members of all ranks may not perform more than 20 hours per week of Paid Detail assignments and may not perform a Paid Detail assignment for longer than  10  hours  in  duration.  This  includes  members  who  wish  to  perform  Paid Detail assignments while on vacation.
-- (1) In the event a vendor asks a member to remain at the location beyond the scheduled tour, the member may do so if they wish but are by no means obligated. Should a member elect to stay, an immediate notification to the Paid Detail Unit must be made. However, in no case may a member continue to work within three hours of their regularly scheduled tour of duty or go beyond the monthly allocation of 80 hours.
-- c. Members performing a Paid Detail assignment are not authorized to take their meal period during the first or last hour and one-half of their tour, except in emergency situations. assignment.
-- d. Members on leave (e.g., military, educational, family, etc.) and assigned to the Military and Extended Leave Desk (MELD) are prohibited from participating in the Paid Detail Program.
-- e. Members of all ranks on pre-separation leave are permitted to participate in the Paid Detail Program for no longer than one year from the date in which their separation leave begins.
-- f. Members are NOT permitted to work a Paid Detail assignment within three hours of the start of their regularly scheduled tour.
-- g. Members may NOT perform a Paid Detail assignment within one hour of the conclusion of their regularly scheduled tour.
-- h. Members  may  NOT  request  lost  time  in  order  to  perform  a  Paid  Detail assignment.
-
-Under  no  circumstances  may  members  switch  a  Paid  Detail  assignment  or perform a Paid Detail assignment scheduled by another member. A Paid Detail assignment must be performed by the member who scheduled the assignment. Failure  to  comply  with  this  directive  will  result  in  immediate  and  indefinite suspension from the Paid Detai
-
+> **Sergeant Focus:** As a supervisor, be vigilant about monitoring Paid Detail compliance. Key areas to check: (1) members working within prohibited time windows, (2) failure to make Activity Log entries, (3) failure to sign Paid Detail Cards properly, (4) members exceeding hour limits, and (5) improper cancellations.
 ---
 
 # Section 332 — Employment Discrimination and Retaliation
