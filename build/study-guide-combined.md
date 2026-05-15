@@ -17505,6 +17505,122 @@ Individual arrests for criminal conduct may still be made by any supervisor with
 
 ---
 
+## Question 21
+During a special event, the Incident Commander determines that additional resources are needed. For a multi-borough event, who serves as the Incident Commander?
+
+<details><summary>Answer</summary>
+
+For a special event that spans **multiple patrol boroughs**, the **Chief of Patrol** serves as the Incident Commander. For multi-command events within a single borough, it is the **Patrol Borough Commander**. For single-command events, it is the **Precinct Commanding Officer**. (P.G. 213-15)
+
+</details>
+
+---
+
+## Question 22
+What is the minimum number of days before a special event that the Traffic Management Center must be notified?
+
+<details><summary>Answer</summary>
+
+The Traffic Management Center must be notified at least **7 days** prior to the event. For unscheduled events, notification must be made as soon as practicable, and the Operations Unit must also be notified. (P.G. 213-17)
+
+</details>
+
+---
+
+## Question 23
+At a First Amendment activity, a sergeant observes protesters blocking traffic. Can the sergeant order mass arrests to clear the roadway?
+
+<details><summary>Answer</summary>
+
+**No.** Only a **Senior Executive (deputy chief or higher)** or a **designee (captain or above)** can order mass arrests at First Amendment activities. A sergeant cannot order mass arrests. However, the sergeant may order **individual arrests** for criminal conduct (such as disorderly conduct) without higher approval. (P.G. 213-20)
+
+</details>
+
+---
+
+## Question 24
+How often must the Unusual Disorder Kit be inspected, and who is responsible for the inspection?
+
+<details><summary>Answer</summary>
+
+The Unusual Disorder Kit requires **semiannual inspection** in **January** and **July**. The **patrol supervisor** is responsible for ensuring the kit is inspected and all contents are accounted for. (P.G. 213-09)
+
+</details>
+
+---
+
+## Question 25
+What is the maximum number of prisoners that can be assigned to a single arresting officer during mass arrest processing?
+
+<details><summary>Answer</summary>
+
+An arresting officer can be assigned no more than **5 prisoners** during mass arrest processing. An arrest supervisor can be assigned no more than **4 arresting officers** to supervise. (P.G. 213-06)
+
+</details>
+
+---
+
+## Question 26
+A prisoner has been in processing at the MAPC for 90 minutes without food. Is this a violation of procedure?
+
+<details><summary>Answer</summary>
+
+**Yes.** Prisoners must be provided food if held **more than 2 hours** at the MAPC. At 90 minutes, food is not yet required, but the sergeant should monitor the time to ensure food is provided before the 2-hour mark is reached. (P.G. 213-06)
+
+</details>
+
+---
+
+## Question 27
+What color hat does an NLG legal observer wear, and are they permitted through police lines?
+
+<details><summary>Answer</summary>
+
+**NLG (National Lawyers Guild)** legal observers wear **bright green hats**. **NYCLU** legal observers wear **blue hats/vests**. Both must be permitted **free access through police lines**. (P.G. 213-20)
+
+</details>
+
+---
+
+## Question 28
+What is the current citywide security alert level for New York City?
+
+<details><summary>Answer</summary>
+
+NYC is maintained at **ORANGE (High)**, which is the fourth of five levels. Changes to the alert level are communicated via **FINEST Message**. (P.G. 213-18)
+
+</details>
+
+---
+
+## Question 29
+List the five citywide security alert levels from lowest to highest.
+
+<details><summary>Answer</summary>
+
+1. **GREEN** — Low
+2. **BLUE** — Guarded
+3. **YELLOW** — Elevated
+4. **ORANGE** — High
+5. **RED** — Severe
+
+(P.G. 213-18)
+
+</details>
+
+---
+
+## Question 30
+What is the barrier exclusion distance from a parade route on through streets?
+
+<details><summary>Answer</summary>
+
+**100 feet** exclusion from the parade route on through streets, and **25 feet** on the parade route from corners. Barrier configuration must NOT unreasonably restrict pedestrian access. (P.G. 213-15)
+
+</details>
+
+---
+
 # Section 214 — Quality of Life Matters
 
 ## Overview
@@ -19017,6 +19133,179 @@ The referral **cannot** be made anonymously. The correct procedure is:
 5. Put the new service request number in **"Notes to Customer"** before finalizing the old request
 
 (P.G. 214-35)
+
+</details>
+
+---
+
+## Question 23
+A location has had 3 unnecessary alarms in a 3-month period. What action is taken, and when can police response be reinstated?
+
+<details><summary>Answer</summary>
+
+The location is classified as a **chronic abuser**. A **TERMINATION NOTICE (PD310-121)** is served. Police response can be reinstated after a minimum of **48 hours** from service of the notice. The CO may also require an alarm system or premises security survey before reinstatement. (P.G. 214-08)
+
+</details>
+
+---
+
+## Question 24
+How long must a vehicle alarm sound before MOS can take enforcement action, and how is the violation time recorded?
+
+<details><summary>Answer</summary>
+
+MOS can take action after the vehicle alarm has been audible for **3 minutes**. The time of violation recorded on the OATH summons is the **end** of the 3-minute observation period. The mail-in fine is $280 and the maximum penalty is $2,100. (P.G. 214-24)
+
+</details>
+
+---
+
+## Question 25
+Can MOS deactivate a building alarm that has been sounding for 20 minutes?
+
+<details><summary>Answer</summary>
+
+**No.** MOS are **NOT permitted** to deactivate **building alarms**. For building alarms that continue for **15 or more minutes**, MOS may issue a summons. However, MOS **may** attempt to deactivate **vehicle alarms** (within the first 10 minutes, without intentionally damaging the vehicle). (P.G. 214-25)
+
+</details>
+
+---
+
+## Question 26
+A person has lived in an apartment for 25 days without a lease. The landlord changes the locks while they are at work. Is this an unlawful eviction under P.G. 214-12?
+
+<details><summary>Answer</summary>
+
+**No.** The law applies to tenants who have occupied the unit for **30 or more consecutive days**. At 25 days, the person does not meet the occupancy threshold, even without a lease. This would be a civil matter, not an unlawful eviction under the Patrol Guide. (P.G. 214-12)
+
+</details>
+
+---
+
+## Question 27
+What are the return date requirements for unlawful eviction summonses?
+
+<details><summary>Answer</summary>
+
+All return dates must be at least **21 days** out:
+- **Manhattan/Bronx:** Tuesday
+- **Brooklyn/Queens:** Thursday
+- **Staten Island:** First Wednesday of the month
+
+(P.G. 214-12)
+
+</details>
+
+---
+
+## Question 28
+A dog bites a postal carrier and runs into the residence. The owner refuses entry. What actions are authorized?
+
+<details><summary>Answer</summary>
+
+The **DANGEROUS ANIMAL/BITE REPORT (PD311-152)** must be prepared. The **desk officer** must notify the **Department of Health and Mental Hygiene by phone**. If the animal poses an **imminent physical injury** threat and there is **no opportunity to retreat**, a firearm may be used. Otherwise, ESU should be requested to capture the animal. The animal is **NEVER** placed in the trunk of a Department vehicle. (P.G. 214-33)
+
+</details>
+
+---
+
+## Question 29
+What defines a "Chronic 311 Condition" and what triggers an immediate response?
+
+<details><summary>Answer</summary>
+
+- **Chronic 311 Condition:** **5 or more** requests in a **28-day period** for the same condition at the same location
+- **Immediate response trigger:** **5 or more** calls within an **8-hour period**
+
+When an immediate response is triggered, the desk officer must manually refresh the 311 system at least every hour, and the CO directs daily callbacks (minimum 2 attempts per caller). (P.G. 214-35)
+
+</details>
+
+---
+
+## Question 30
+A nightclub has refused to attend community nightlife meetings. Is this sufficient grounds for a C.U.R.E. operation?
+
+<details><summary>Answer</summary>
+
+**No.** Refusal to attend nightlife meetings is specifically listed as **NOT sufficient grounds** for a C.U.R.E. operation. Other insufficient grounds include: property crimes beyond the establishment's control, and crimes where security acted properly. Valid grounds include complaint reports, summonses, arrests, 911/311 calls, general disorder, aided cases from intoxication/overdose, and a documented pattern of problems. (P.G. 214-39)
+
+</details>
+
+---
+
+## Question 31
+What is the required lead time for serving a C.U.R.E. NOTICE, and who must approve the operation?
+
+<details><summary>Answer</summary>
+
+The **C.U.R.E. NOTICE (PD635-121)** must be served at least **30 days** prior to the operation. The **Chief of Patrol** must approve or disapprove through written endorsement. The operation is coordinated by the **Legal Bureau's Civil Enforcement Unit** and overseen by the **Mayor's Office of Nightlife**. (P.G. 214-39)
+
+</details>
+
+---
+
+## Question 32
+During a lawful eviction, the city marshal asks MOS to help break down the door. What should the sergeant direct?
+
+<details><summary>Answer</summary>
+
+The sergeant should direct that MOS will **NOT assist** in breaking the door or damaging property. The police role is to **preserve peace and protect life/property ONLY**. Execution of the warrant is the **sole responsibility** of the city marshal/sheriff. The marshal must force entry in the **least disruptive way**. (P.G. 214-13)
+
+</details>
+
+---
+
+## Question 33
+A derelict vehicle with NY plates is found. It is not needed as evidence. What is the process for plate removal?
+
+<details><summary>Answer</summary>
+
+1. Remove the registration plates
+2. Prepare the **REGISTRATION PLATE REMOVAL NOTICE (PD571-120)**
+3. Notify the **Stolen Property Inquiry Unit** (required in ALL cases)
+4. Notify the owner to pick up plates within **5 days**
+5. If unclaimed after 5 days: forward plates and typed letterhead to **DMV**
+6. Desk officer assigns a check **5 days later** to verify if vehicle is still present
+7. If still there: notify the **Department of Sanitation** for removal
+
+(P.G. 214-29)
+
+</details>
+
+---
+
+## Question 34
+MOS discover potentially obscene material at a bookstore. What is the correct chain of action?
+
+<details><summary>Answer</summary>
+
+MOS must **NOT** take enforcement action. They must **immediately notify the patrol supervisor**. The patrol supervisor must:
+1. Respond to the scene
+2. Determine if the material meets legal criteria
+3. Make an Activity Log entry
+4. **Consult the Legal Bureau**
+
+**No enforcement** is permitted without specific direction from the Legal Bureau. The critical distinction is between PL Article 235 (requires judicial determination) and PL 245.11 (Class A misdemeanor allowing summary enforcement). (P.G. 214-11)
+
+</details>
+
+---
+
+## Question 35
+What types of disputes are NOT eligible for the Mediation Referral Program?
+
+<details><summary>Answer</summary>
+
+**NOT eligible:**
+- Criminal conduct
+- Unlawful evictions
+- Intimate partners or family members
+- Child abuse or neglect
+- Parties with an Order of Protection between them
+- Any dispute involving threat of violence or criminal allegations
+
+The program uses **REFERRAL TO MEDIATION (PD613-181)** with serial number in **YYYY-XXX-NNNN** format. The **Special Ops Lt** conducts a weekly inspection of the precinct mediation file. (P.G. 214-40)
 
 </details>
 
@@ -37971,34 +38260,255 @@ Loss of an ID Card, Summons, Summons Book, or Department-issued smartphone are a
 
 ## Source
 - **Administrative Guide Section:** 319
-- **Source PDF:** A.G. 319-08
+- **Source PDFs:** Public Admin Guide1.pdf (297 pages)
 - **Priority:** Low
 
 ## Learning Objectives
 - Know the procedure for reporting and documenting civilian member on-duty injuries
 - Identify the 5 required forms for civilian injury reporting
-- Understand notification timelines for Civilian Employee Services Unit
+- Understand sick leave reporting and absence control procedures
+- Understand disciplinary procedures for civilian employees
+- Know the civilian lateness policy
 
 ## Procedures
 
 | Procedure | Title | Status |
 |-----------|-------|--------|
+| A.G. 319-07 | Civilian Member Reporting Sick | completed |
 | A.G. 319-08 | Civilian Member - Injury | completed |
-| A.G. 319-15 | (Not available) | blocked |
+| A.G. 319-11 | Civilian Employee - Discipline | completed |
+| A.G. 319-19 | Civilian Member - Lateness Policy | completed |
 
 ## Chapter Files
 
 | File | Content |
 |------|---------|
+|  | A.G. 319-07: Sick leave reporting, absence control steps (O-IV), documentation requirements, six-month periods |
 |  | A.G. 319-08: Injury reporting, 5 required forms, notification timelines, Workers Compensation |
-|  | Forms list, key timeframes, Chief of Personnel authority |
-|  | 4 multiple-choice questions covering civilian injury reporting |
+|  | A.G. 319-11: Civilian employee disciplinary procedures, warning requirements |
+|  | Forms list, key timeframes, absence control steps, Chief of Personnel authority |
+|  | Multiple-choice questions covering civilian injury reporting and sick leave procedures |
 
 ## Sergeant Focus Areas
 - **7-day deadline:** Civilian member must report injury within 7 days
 - **5 forms:** WCS-110, WCS-100, WCS-120, DP2002, Time Usage 49
 - **Notification:** Civilian Employee Services Unit immediately (business hours) or 0900 next day; copies within 24 hours
 - **Leave authority:** Chief of Personnel grants leave with pay for first week (Workers Compensation)
+- **Absence Control Steps:** Sub-managerial civilians tracked in 6-month periods (Jan-Jun, Jul-Dec); reset requires next period with ≤2 documented absences
+- **Documentation:** All warnings must be initialed by both interviewer and member
+
+---
+
+# Section 319 — Civilian Member Reporting Sick
+
+## A.G. 319-07: Civilian Member Reporting Sick
+
+**Date Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Pages:** 1-2
+
+### Purpose
+
+To establish procedures for civilian members reporting sick absences and to ensure proper documentation and tracking.
+
+### Procedure
+
+#### Civilian Member Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Notify supervisor **as soon as possible** when unable to report for duty due to illness |
+| 2 | Report sick through **official Department system** (e.g., sick leave reporting system) |
+| 3 | Upon return to duty, provide **medical documentation** if required per absence control procedures |
+
+#### Supervisor Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Document sick notification in command records |
+| 2 | Track absences on **ABSENCE AND TARDINESS RECORD** |
+| 3 | Conduct **interview** upon member's return if absence was unscheduled |
+| 4 | Enter interview details under "INVESTIGATION INTERVIEW Details & Action Taken" on absence record |
+| 5 | Indicate whether documentation was presented under "Doctor's Note" caption |
+
+### Absence Control Steps (Sub-Managerial Civilian Members)
+
+For civilian members who utilize more than **one undocumented sick leave** for the period January 1 through June 30 or July 1 through December 31:
+
+| Step | Trigger | Action |
+|------|---------|--------|
+| O | Baseline | No action |
+| I | After 1st undocumented absence | Conduct 1st discussion |
+| II | After 2nd undocumented absence | Conduct 2nd discussion |
+| III | After 3rd undocumented absence | Written warning |
+| IV | After 4th undocumented absence | Final warning/disciplinary consideration |
+
+> **Exam Alert:** Sub-managerial civilian members are subject to absence control steps based on **undocumented** sick leave absences within a **six-month period** (Jan-Jun or Jul-Dec). A member is removed from sanction status and returned to Step O if they complete the **next** sick leave period with **two or fewer** documented sick leave absences.
+
+> **Sergeant Focus:** As a supervisor, you must track civilian member absences on the ABSENCE AND TARDINESS RECORD. Every warning given must be entered on the "INTERVIEW" portion and **initialed by both the interviewer and the member**. The CO must verify interviews were conducted by initialing under the "C.O." caption, and the member initials under "EMPL."
+
+### Key Rules
+
+| Rule |
+|------|
+| Medical documentation may be required after each sick absence |
+| Unscheduled leave absences must be interviewed upon return |
+| Absence control steps reset after a clean six-month period (2 or fewer documented absences) |
+| All warnings must be documented and initialed by both parties |
+
+> **Memory Aid — ABSENCE CONTROL STEPS:** Think **"1-2-3-Final"** for undocumented sick leaves in a 6-month period: **1st** = discussion, **2nd** = 2nd discussion, **3rd** = written warning, **4th** = final. Reset requires a **clean next period** with ≤2 documented absences.
+
+> **See Also:** A.G. 319-08 — Civilian Member Injury (different reporting requirements for on-duty injuries). A.G. 319-11 — Civilian Employee Discipline (for attendance issues that warrant formal discipline). A.G. 319-19 — Civilian Member Lateness Policy.
+
+---
+
+# Section 319 — Civilian Employee Discipline
+
+## A.G. 319-11: Civilian Employee - Discipline
+
+**Date Effective:** 01/07/26 | **Last Revision:** R.O. 12 | **Pages:** 1-4
+
+### Purpose
+
+To establish procedures for disciplining civilian employees and to ensure consistent application of corrective measures across commands.
+
+### Scope
+
+This procedure applies to all civilian members of the service except as otherwise specified. Disciplinary action may be warranted when attendance records indicate unacceptable absenteeism or other conduct issues.
+
+### Progressive Discipline Steps
+
+| Step | Action | Documentation |
+|------|--------|---------------|
+| 1 | **Verbal Warning** | Entry in interview portion of record |
+| 2 | **Written Warning** | Typed Letterhead to member's file |
+| 3 | **Final Warning** | Copy to Civilian Employee Services Unit |
+| 4 | **Disciplinary Charges** | May result in suspension or termination |
+
+### Supervisor Responsibilities
+
+| Responsibility | Details |
+|----------------|---------|
+| **Document Everything** | All warnings must be entered on ABSENCE AND TARDINESS RECORD |
+| **Both Parties Initial** | Interviewer AND member must initial and date each warning |
+| **CO Verification** | Commanding officer must initial under "C.O." caption |
+| **Member Acknowledgment** | Member initials under "EMPL." caption |
+
+### Unacceptable Attendance Indicators
+
+| Indicator | Description |
+|-----------|-------------|
+| **Pattern Absenteeism** | Repeated absences on same day of week, before/after days off, or holidays |
+| **Excessive Undocumented Absences** | More than 1 undocumented sick leave per 6-month period |
+| **Failure to Report Properly** | Not following A.G. 319-07 sick notification procedures |
+| **Documentation Issues** | Repeated failure to provide medical documentation when required |
+
+### Commanding Officer Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Review all unscheduled leave absences |
+| 2 | Verify interviews were conducted properly |
+| 3 | Initial and date entries under "C.O." caption |
+| 4 | Have member initial and date under "EMPL." caption |
+| 5 | Determine if circumstances warrant formal discipline |
+| 6 | Forward disciplinary recommendations through channels |
+
+> **Exam Alert:** All warnings must be **initialed by both parties** — the interviewer and the member. If a member refuses to initial, this must be documented. The CO must verify by initialing under the "C.O." caption on the ABSENCE AND TARDINESS RECORD.
+
+> **Sergeant Focus:** As a supervisor, you may warn a member that their attendance record is considered **unacceptable** when facts indicate unacceptable absenteeism. This warning must be entered on the INTERVIEW portion and initialed by both parties. You can issue warnings independently of the absence control steps.
+
+> **Memory Aid — DISCIPLINE DOCUMENTATION:** **B.I.C.E.** — **B**oth parties initial, **I**nterview documented, **C**O verifies, **E**ntry on record. All four elements must be present for proper documentation.
+
+### Key Rules
+
+| Rule |
+|------|
+| Warnings may be given for attendance issues even if absence control steps are not yet triggered |
+| Member's refusal to initial must be documented as "Member refused to sign" with witness |
+| Disciplinary action requires progressive steps unless misconduct is severe |
+| Civilian Employee Services Unit must be consulted before formal charges |
+
+> **See Also:** A.G. 319-07 — Civilian Member Reporting Sick (underlying procedure for sick leave). A.G. 319-08 — Civilian Member Injury (separate from discipline). A.G. 319-19 — Civilian Member Lateness Policy (specific to tardiness).
+
+---
+
+# Section 319 — Civilian Member Lateness Policy
+
+## A.G. 319-19: Civilian Member - Lateness Policy
+
+**Date Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Pages:** 1-2
+
+### Purpose
+
+To establish procedures for handling civilian member lateness and ensure consistent application across commands.
+
+### Five-Minute Grace Period
+
+| Rule | Details |
+|------|---------|
+| **Grace Period** | 5 minutes at beginning of scheduled tour |
+| **Classification** | Lateness within 5 minutes = "excused" |
+| **No Deduction** | No leave deduction for grace period lateness |
+
+**Example:**
+- Civilian member with 0900 hours start time reports at 0905 = **NOT late**
+- Civilian member with 0900 hours start time reports at 0906 = **6 minutes of lateness charged**
+
+### Transportation Exception
+
+| Condition | Action |
+|-----------|--------|
+| Lateness caused by transportation circumstances beyond member's control | Classified as "excused" |
+| Member may be required to furnish proof | Supervisor may request documentation |
+| Request for excusal shall not be unreasonably denied | Must have valid basis for refusal |
+| Refusal may be appealed | Appeal to Commanding Officer, Office of Labor Relations, through channels |
+
+### Supervisor Duties
+
+| Step | Action |
+|------|--------|
+| 1 | Determine whether lateness is "excused" or "unexcused" |
+| 2 | Conduct interview with member regarding Department's lateness policy |
+| 3 | Document lateness on ABSENCE AND TARDINESS RECORD |
+| 4 | Notify member of leave deduction within 2 days of unexcused lateness |
+
+### Leave Deduction for Unexcused Lateness
+
+| Rule | Details |
+|------|---------|
+| **Deduction Rate** | Minute-for-minute basis |
+| **Source Order** | 1. Compensatory time, then 2. Annual leave balance |
+| **Notification** | Within 2 days of unexcused lateness |
+| **Who Notifies** | Member's immediate supervisor |
+
+> **Exam Alert:** Unexcused lateness is deducted **minute-for-minute** from **compensatory time first**, then from **annual leave** if no comp time is available. The member must be notified within **2 days** by their immediate supervisor.
+
+> **Sergeant Focus:** As a supervisor, you must determine whether lateness is excused or unexcused. Transportation issues beyond the member's control (e.g., subway delays, bus breakdowns) should generally be excused if proof is provided. Do not unreasonably deny excusal requests — refusals can be appealed through channels to the Office of Labor Relations.
+
+### Disciplinary Action
+
+| Circumstance | Action |
+|--------------|--------|
+| Unexcused lateness of excessive length | Disciplinary action may be taken |
+| Overall attendance record warrants action | May act prior to 7th occurrence in 12 months |
+| Pattern of lateness | Progressive discipline per A.G. 319-11 |
+
+> **Key Rule:** These regulations do **not prohibit** disciplinary action for excessive unexcused lateness or poor overall attendance records, even before the 7th occurrence in a 12-month period.
+
+> **Memory Aid — LATENESS EXCUSED:** **G.R.A.C.E.** — **G**race period (5 min), **R**easonable excusal, **A**ppeal allowed, **C**omp time first, **E**xcused for transport issues.
+
+### Key Rules
+
+| Rule |
+|------|
+| 5-minute grace period at start of tour = excused lateness |
+| Lateness beyond 5 minutes = full time charged (e.g., 0906 start = 6 minutes charged) |
+| Transportation issues beyond member's control may be excused |
+| Member may be required to provide proof of transport issues |
+| Unexcused lateness deducted minute-for-minute from comp time, then annual leave |
+| Supervisor must notify member of deduction within 2 days |
+| Disciplinary action allowed for excessive lateness or poor attendance patterns |
+
+> **See Also:** A.G. 319-07 — Civilian Member Reporting Sick (absence control procedures). A.G. 319-11 — Civilian Employee Discipline (progressive discipline steps).
 
 ---
 
@@ -38152,6 +38662,142 @@ The Chief of Personnel is empowered to grant leave with pay for the first week's
 **C) 5**
 
 Five forms: Employee Statement Form (FISA WCS-110), Supervisor's Report of Injury (FISA WCS-100), Witness Statement Form (FISA WCS-120), Employee Option Form (DP2002), and Time Usage 49. (A.G. 319-08)
+
+</details>
+
+---
+
+**5. A civilian member with a 0900 hours start time reports at 0904. How is this classified?**
+
+- A) 4 minutes of unexcused lateness
+- B) 4 minutes of excused lateness
+- C) Not late — within grace period
+- D) 1 minute of unexcused lateness
+
+<details><summary>Answer</summary>
+
+**C) Not late — within grace period**
+
+A 5-minute grace period is granted at the beginning of a scheduled tour. Lateness within 5 minutes is classified as "excused" with no leave deduction. A member starting at 0900 who reports at 0905 is NOT late. (A.G. 319-19)
+
+</details>
+
+---
+
+**6. A civilian member with a 0900 hours start time reports at 0907 due to a subway delay. The member provides proof. How much lateness is charged?**
+
+- A) 7 minutes
+- B) 2 minutes (beyond 5-minute grace)
+- C) 0 minutes — excused for transport issues
+- D) 7 minutes, but marked as excused
+
+<details><summary>Answer</summary>
+
+**C) 0 minutes — excused for transport issues**
+
+Lateness caused by transportation circumstances beyond the member's control is classified as "excused" when proof is furnished. The member reports at 0907 (7 minutes late), but with proof of subway delay, no leave is deducted. (A.G. 319-19)
+
+</details>
+
+---
+
+**7. Unexcused lateness is deducted on a minute-for-minute basis from:**
+
+- A) Annual leave only
+- B) Compensatory time only
+- C) Compensatory time first, then annual leave
+- D) Sick leave first, then compensatory time
+
+<details><summary>Answer</summary>
+
+**C) Compensatory time first, then annual leave**
+
+Deduction for unexcused lateness is made minute-for-minute from any compensatory time standing to the member's credit first, then from annual leave balance if no comp time is available. (A.G. 319-19)
+
+</details>
+
+---
+
+**8. A supervisor must notify a member of leave deduction for unexcused lateness within:**
+
+- A) 24 hours
+- B) 48 hours
+- C) 2 days
+- D) 5 days
+
+<details><summary>Answer</summary>
+
+**C) 2 days**
+
+The supervisor must have the member's immediate supervisor notify the member of the amount of leave deducted within 2 days of unexcused lateness. (A.G. 319-19)
+
+</details>
+
+---
+
+**9. A refusal to excuse a lateness due to transportation issues may be appealed to:**
+
+- A) The Chief of Personnel
+- B) The Commanding Officer, Office of Labor Relations, through channels
+- C) The Deputy Commissioner of Management and Budget
+- D) The Civilian Employee Services Unit
+
+<details><summary>Answer</summary>
+
+**B) The Commanding Officer, Office of Labor Relations, through channels**
+
+A request for excusal shall not be unreasonably denied. A refusal to excuse a lateness may be appealed to the Commanding Officer, Office of Labor Relations, through channels. (A.G. 319-19)
+
+</details>
+
+---
+
+**10. All warnings for civilian employee discipline must be initialed by:**
+
+- A) The interviewer only
+- B) The member only
+- C) Both the interviewer and the member
+- D) The CO and the member
+
+<details><summary>Answer</summary>
+
+**C) Both the interviewer and the member**
+
+All warnings must be entered on the ABSENCE AND TARDINESS RECORD and initialed by both parties — the interviewer AND the member. If the member refuses to initial, this must be documented. (A.G. 319-11)
+
+</details>
+
+---
+
+**11. The commanding officer verifies warnings by initialing under which caption?**
+
+- A) "SUPER."
+- B) "C.O."
+- C) "VERIFY"
+- D) "APPROVED"
+
+<details><summary>Answer</summary>
+
+**B) "C.O."**
+
+The CO must verify interviews were conducted properly by initialing and dating entries under the "C.O." caption. The member initials under "EMPL." (A.G. 319-11)
+
+</details>
+
+---
+
+**12. Disciplinary action for civilian employee attendance issues may be taken:**
+
+- A) Only after 7 occurrences in 12 months
+- B) Only after progressive discipline steps are exhausted
+- C) Prior to the 7th occurrence if lateness is excessive or attendance record warrants
+- D) Only with Civilian Employee Services Unit approval
+
+<details><summary>Answer</summary>
+
+**C) Prior to the 7th occurrence if lateness is excessive or attendance record warrants**
+
+These regulations do not prohibit disciplinary action when unexcused lateness is of excessive length or when the overall attendance record warrants action prior to the 7th occurrence in 12 months. (A.G. 319-19)
 
 </details>
 
@@ -39510,11 +40156,232 @@ If the member lives outside the city, the D.O. requests ICCU to notify local PD 
 
 ---
 
+**8. A UMOS reports sick. When must the member notify the command?**
+
+- A) At least 1 hour before the tour starts
+- B) As soon as possible
+- C) Within 2 hours of the tour start
+- D) By the midpoint of the tour
+
+<details><summary>Answer</summary>
+
+**B) As soon as possible**
+
+A member reporting sick must notify the command as soon as possible before the start of the tour. This allows the command to make staffing adjustments. (P.G. 324-03)
+
+</details>
+
+---
+
+**9. How many consecutive days of sick leave require a doctor's certificate?**
+
+- A) 1 day
+- B) 2 days
+- C) 3 days
+- D) 5 days
+
+<details><summary>Answer</summary>
+
+**C) 3 days**
+
+A doctor's certificate is required for sick leave of 3 or more consecutive days. The certificate must be submitted upon return to duty. (P.G. 324-03)
+
+</details>
+
+---
+
+**10. A member requests excusal from duty for a court appearance as a defendant. Who has the authority to approve?**
+
+- A) The patrol supervisor
+- B) The platoon commander
+- C) The commanding officer
+- D) Excusal is not permitted — the member must appear on their own time
+
+<details><summary>Answer</summary>
+
+**D) Excusal is not permitted — the member must appear on their own time**
+
+Members appearing in court as defendants are not entitled to excusal with pay. They must appear on their own time. Excusal with pay is only for certain official appearances. (P.G. 324-11)
+
+</details>
+
+---
+
+**11. Which of the following is NOT a valid reason for excusal with pay?**
+
+- A) Jury duty
+- B) Subpoenaed as a witness in a criminal case
+- C) Court appearance as a defendant
+- D) Grand jury appearance
+
+<details><summary>Answer</summary>
+
+**C) Court appearance as a defendant**
+
+Court appearances as a defendant are NOT valid for excusal with pay. Valid reasons include: jury duty, subpoenaed as a witness (criminal or grand jury), and certain other official proceedings. (P.G. 324-11)
+
+</details>
+
+---
+
+**12. A member is injured in the line of duty and requires medical leave. What form documents the injury?**
+
+- A) CD-72
+- B) Workers' Compensation Claim Form
+- C) On-Line Reporting System (OLRS) injury report
+- D) All of the above
+
+<details><summary>Answer</summary>
+
+**D) All of the above**
+
+Line of duty injuries require multiple forms: CD-72 (for medical treatment), Workers' Compensation documentation, and entry in the On-Line Reporting System. All are required for proper documentation and benefits processing. (P.G. 324-05)
+
+</details>
+
+---
+
+**13. Compensatory time off must be used within how many months of accrual?**
+
+- A) 6 months
+- B) 12 months
+- C) 18 months
+- D) 24 months
+
+<details><summary>Answer</summary>
+
+**B) 12 months**
+
+Compensatory time off must be used within 12 months of accrual or it will be forfeited. Members should monitor their comp time balances and request usage before expiration. (P.G. 324-07)
+
+</details>
+
+---
+
+**14. A member wishes to use vacation time. What is the minimum advance notice required?**
+
+- A) 24 hours
+- B) 48 hours
+- C) 5 days
+- D) As soon as possible, but subject to command staffing needs
+
+<details><summary>Answer</summary>
+
+**D) As soon as possible, but subject to command staffing needs**
+
+Vacation requests must be made as soon as possible, but approval is subject to command staffing needs. The commanding officer has discretion to approve or deny based on operational requirements. (P.G. 324-09)
+
+</details>
+
+---
+
+**15. When a member is on terminal leave, which of the following is TRUE?**
+
+- A) The member may work overtime
+- B) The member may be assigned to regular duty tours
+- C) The member is only available for emergency situations
+- D) The member may use accrued comp time
+
+<details><summary>Answer</summary>
+
+**C) The member is only available for emergency situations**
+
+Members on terminal leave are excluded from regular duty assignments and are only available for emergency situations (natural disasters, etc.) or court must-appear notifications. (P.G. 324-15)
+
+</details>
+
+---
+
+**16. A member's spouse dies. How many days of death leave are granted for an immediate family member?**
+
+- A) 3 days
+- B) 5 days
+- C) 7 days
+- D) 10 days
+
+<details><summary>Answer</summary>
+
+**B) 5 days**
+
+Five days of death leave are granted for the death of an immediate family member (spouse, child, parent, sibling). The leave must be taken consecutively and begins on the day of death. (P.G. 324-13)
+
+</details>
+
+---
+
+**17. Which of the following relatives is NOT considered "immediate family" for death leave purposes?**
+
+- A) Grandparent
+- B) Brother
+- C) Stepchild
+- D) Cousin
+
+<details><summary>Answer</summary>
+
+**D) Cousin**
+
+Cousins are NOT considered immediate family for death leave purposes. Immediate family includes: spouse, children, parents, siblings, grandparents, step-relations living in the same household, and in-laws. (P.G. 324-13)
+
+</details>
+
+---
+
+**18. A member is summoned for jury duty. What documentation must be provided to the command?**
+
+- A) The jury summons
+- B) A letter from the court
+- C) Daily attendance certification from the court
+- D) All of the above
+
+<details><summary>Answer</summary>
+
+**D) All of the above**
+
+Members summoned for jury duty must provide: the jury summons, any letter from the court, and daily attendance certification. The command needs documentation to verify the member's court attendance for payroll purposes. (P.G. 324-11)
+
+</details>
+
+---
+
+**19. When must a member return from jury duty to report to the command?**
+
+- A) Immediately upon release from court
+- B) Only if released before the midpoint of the tour
+- C) The member is excused for the entire day
+- D) As directed by the command based on court release time
+
+<details><summary>Answer</summary>
+
+**D) As directed by the command based on court release time**
+
+Members on jury duty must report to the command as directed. Generally, if released before the midpoint of the tour, the member should report. If released after, the member may remain excused. (P.G. 324-11)
+
+</details>
+
+---
+
+**20. A member is charged with a traffic violation while operating a Department vehicle. Is excusal with pay granted for the court appearance?**
+
+- A) Yes, always
+- B) Yes, if the violation occurred in the line of duty
+- C) No, unless the violation was not a result of negligent operation
+- D) No, never
+
+<details><summary>Answer</summary>
+
+**C) No, unless the violation was not a result of negligent operation**
+
+Excusal with pay for traffic violations while operating a Department vehicle is NOT granted if the violation resulted from negligent operation. If the member was not negligent, excusal may be granted. (P.G. 324-11)
+
+</details>
+
+---
+
 # Section 329 — Career Development
 
 ## Source
 - **Administrative Guide Section:** 329
-- **Source PDFs:** A.G. 329-06, A.G. 329-07
+- **Source PDFs:** Public Admin Guide2.pdf (320 pages), A.G. 329-06, A.G. 329-07
 - **Priority:** Low
 
 ## Learning Objectives
@@ -39522,18 +40389,27 @@ If the member lives outside the city, the D.O. requests ICCU to notify local PD 
 - Understand LEOSA certification requirements for retired members
 - Know the property return matrix for retiring and resigning members
 - Understand resignation procedures, reinstatement rules, and vacation accrual impact
+- Understand departmental recognition award presentation procedures
 
 ## Procedures
 
 | Procedure | Title | Status |
 |-----------|-------|--------|
+| A.G. 329-01 | Presentation of Departmental Recognition Awards | completed |
+| A.G. 329-03 | Departmental Recognition – Uniformed Members | completed |
 | A.G. 329-06 | Discontinuance of Police Service — Retirement or Vested Interest | completed |
 | A.G. 329-07 | Discontinuance of Police Service — Resignation | completed |
+| A.G. 329-08 | Pistol License for Retiring Member of the Service | completed |
+| A.G. 329-09 | Request for Personnel Transfers or Background Checks | completed |
 
 ## Chapter Files
 
 | File | Content |
 |------|---------|
+|  | A.G. 329-01: Award presentation procedures, Typed Letterhead requirements, 30-day presentation window |
+|  | A.G. 329-03: Departmental recognition requests, committee composition, investigation requirements, Integrity Review Board |
+|  | A.G. 329-08: Pistol license application for retiring members, fingerprint requirements, Certificate of Service |
+|  | A.G. 329-09: Personnel transfer requests, background checks, PD406-040 and PD449-160 forms |
 |  | A.G. 329-06: Terminal leave computation, Tier 2/3 reporting, LEOSA, property return; A.G. 329-07: Resignation procedures, reinstatement rules, Operations Unit notifications |
 |  | Terminal leave, LEOSA, key forms, timeframes, terminal leave restrictions, resignation rules |
 |  | 12 multiple-choice questions covering retirement and resignation procedures |
@@ -39544,6 +40420,347 @@ If the member lives outside the city, the D.O. requests ICCU to notify local PD 
 - **LEOSA:** Requires qualification within 12 months, 20+ years service or LOD injury, good standing
 - **Resignation:** Bars reinstatement except Police Commissioner within 1 year; firearms to borough Property Clerk ONLY
 - **Property accountability:** Benefits not returned until ALL property accounted for
+- **Award presentations:** Typed Letterhead to borough commander, present within 30 days, formal ceremony preferred
+- **Recognition committees:** 5 members (2 ranking + 3 nonsupervisory); separate PD439-162 for each member
+- **Pistol license:** Retiring members complete PD643-041 prior to last tour; 3 photos (1½" square, within 30 days)
+- **Personnel transfers:** PD406-040 requires conferral with Personnel Orders + last performance evaluation attached
+
+---
+
+# Section 329 — Departmental Recognition Awards
+
+## A.G. 329-01: Presentation of Departmental Recognition Awards
+
+**Date Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Pages:** 1-2
+
+### Purpose
+
+To add personal significance to departmental recognition and expedite the presentation of awards to uniformed members of the service.
+
+### Procedure — When Award is Published in Personnel Orders
+
+#### Commanding Officer
+
+| Step | Action |
+|------|--------|
+| 1 | Review Personnel Orders announcing departmental recognition awards |
+| 2 | Have clerical member prepare **Typed Letterhead report** to borough commander requesting breast bars |
+| 3 | Report must include: |
+|   | - Date and number of Personnel Order |
+|   | - Rank, name, shield number, tax registry number of recipients |
+|   | - Type and number of bars required (plain or with numeral) |
+| 4 | Forward report through channels to borough commander |
+
+#### Clerk Borough Office
+
+| Step | Action |
+|------|--------|
+| 1 | Receive Typed Letterhead from command |
+| 2 | Verify Personnel Order information |
+| 3 | Prepare breast bars for distribution |
+| 4 | Forward bars to requesting command |
+
+#### Commanding Officer (Upon Receipt of Bars)
+
+| Step | Action |
+|------|--------|
+| 1 | Schedule award presentation ceremony |
+| 2 | Present breast bars to recipient(s) in front of assembled command |
+| 3 | Document presentation in command records |
+| 4 | Ensure recipient wears bars properly on uniform |
+
+### Award Presentation Guidelines
+
+| Guideline | Details |
+|-----------|---------|
+| **Timing** | Presentation should occur within **30 days** of receiving breast bars |
+| **Setting** | Formal assembly or roll call preferred |
+| **Documentation** | Photograph recommended for command records |
+| **Uniform** | Recipient must be in proper uniform for presentation |
+
+### Types of Departmental Recognition
+
+| Award | Criteria |
+|-------|----------|
+| **Meritorious Service** | Outstanding performance of duty |
+| **Excellent Police Duty** | Superior action above normal expectations |
+| **Conspicuous Police Duty** | Heroic or highly commendable act |
+| **Community Service** | Outstanding contribution to community |
+
+> **Exam Alert:** The Typed Letterhead report requesting breast bars must include **three key elements**: (1) Personnel Order date/number, (2) recipient details (rank, name, shield, tax registry), and (3) bar type/quantity. Missing any element delays processing.
+
+> **Sergeant Focus:** As a supervisor, you should ensure awards are presented promptly and formally. Delayed presentations diminish the recognition's impact. Schedule the presentation within 30 days and conduct it in front of the assembled command to maximize morale benefit.
+
+> **Memory Aid — AWARD REPORT:** **R.A.N.K.** — **R**eport on Typed Letterhead, **A**ward type specified, **N**ame/shield/tax registry included, **K**eep copy in command records.
+
+### Key Rules
+
+| Rule |
+|------|
+| Breast bars must be requested on Typed Letterhead through borough commander |
+| Presentation should be formal and timely (within 30 days) |
+| Recipient must wear bars properly according to uniform regulations |
+| Command maintains records of all award presentations |
+
+> **See Also:** A.G. 329-03 — Departmental Recognition Uniformed Members (detailed criteria). A.G. 329-06 — Retirement (awards may factor into terminal leave considerations).
+
+---
+
+# Section 329 — Departmental Recognition (Uniformed Members)
+
+## A.G. 329-03: Departmental Recognition – Uniformed Members of the Service
+
+**Date Effective:** 04/04/25 | **Last Revision:** R.O. 18 | **Pages:** 1-4
+
+### Purpose
+
+To process requests for Departmental recognition for uniformed members of the service.
+
+### Procedure — When Member Submits Recognition Request
+
+#### Coordinator/Immediate Supervisor
+
+| Step | Action |
+|------|--------|
+| 1 | Prepare **DEPARTMENTAL RECOGNITION REQUEST (PD439-162)** |
+| 2 | Prepare **separate request** for each member involved |
+| 3 | Deliver completed forms to operations coordinator, precinct of occurrence, or command counterpart |
+
+#### Operations Coordinator
+
+| Step | Action |
+|------|--------|
+| 1 | Assign precinct/command serial number to all requests |
+| 2 | Use **same serial number** if multiple members involved in same incident |
+| 3 | Assign request to ranking officer for investigation |
+| 4 | Be guided by bureau chief/counterpart direction for undercover/confidential operations |
+
+#### Ranking Officer (Investigation)
+
+Conduct investigation including:
+
+| Step | Action |
+|------|--------|
+| 1 | Check Department records |
+| 2 | Interview members involved (including patrol supervisor or other supervisory personnel, when appropriate) |
+| 3 | Interview witnesses (in person or by telephone) |
+| 4 | Obtain signed statements from witnesses, when possible |
+| 5 | Convert oral statements to signed written statements, when applicable |
+| 6 | Attach statements to request |
+| 7 | Attach all Department forms/records prepared in connection with incident |
+| 8 | Deliver completed forms to Precinct/Command Recognition Committee |
+
+#### Precinct/Command Recognition Committee
+
+| Step | Action |
+|------|--------|
+| 1 | Conduct review of investigation |
+| 2 | Make initial recommendation to commanding officer |
+| 3 | May refer request to Bureau Recognition Committee if expertise required |
+| 4 | Forward endorsed request to commanding officer, precinct of occurrence, or command counterpart |
+
+#### Commanding Officer/Counterpart
+
+| Step | Action |
+|------|--------|
+| 1 | Review all requests |
+| 2 | Approve/disapprove and forward, as appropriate |
+
+### Recognition Committee Composition
+
+| Committee | Composition |
+|-----------|-------------|
+| **Precinct/Patrol Borough** | 5 uniformed members: 2 ranking officers (1 = chairperson) + 3 nonsupervisory officers (may include precinct detective squad member) |
+| **Other Commands** | Housing Bureau, Detective Bureau, Transit Bureau, Deputy Commissioner, Community Affairs Bureau, Chief of Transportation, Chief of Special Operations — same composition as above |
+| **Bureau Recognition** | Established for complex or unusual cases |
+
+> **Exam Alert:** Departmental Recognition Committees must have **five uniformed members**: **two ranking officers** (one designated as chairperson) and **three nonsupervisory officers**. The same precinct/command serial number is used when **multiple members** are involved in the **same incident**.
+
+> **Sergeant Focus:** As a supervisor, you may be assigned to investigate recognition requests. Your investigation must include: checking Department records, interviewing all members and witnesses, obtaining signed statements, and attaching all related forms. The completeness of your investigation directly impacts the committee's ability to make fair recommendations.
+
+### Types of Departmental Recognition
+
+| Award | Criteria |
+|-------|----------|
+| **Medal of Honor** | Highest award for extraordinary and distinguished service |
+| **Meritorious Service** | Outstanding performance of duty |
+| **Excellent Police Duty** | Superior action above normal expectations |
+| **Conspicuous Police Duty** | Heroic or highly commendable act |
+| **Integrity Awards** | Bribery-related arrests or demonstrating commitment to integrity policy |
+
+### Integrity Review Board Recognition
+
+| Requirement | Details |
+|-------------|---------|
+| **Eligibility** | Uniformed member who was offered/accepted bribe AND effected arrest or charged defendant with bribery |
+| **Arrest Report Supplement** | Required when arresting officer is NOT the member offered the bribe |
+| **Recognition Type** | Meritorious Police Duty per A.G. 329-03 |
+| **Career Impact** | May recommend interviews for investigative track unit assignments |
+| **18-Month Law** | Should NOT affect decision to grant interview to deserving member |
+
+> **Key Rule:** The Integrity Review Board may recommend interviews for investigative track assignments for members effecting bribery arrests or other acts of high integrity. The "Eighteen Month Detective Designation Law" should **not** diminish efforts to properly reward exemplary conduct.
+
+> **Memory Aid — RECOGNITION REQUEST:** **R.E.Q.U.E.S.T.** — **R**anking officer investigates, **E**ach member gets separate form, **Q**uick delivery to coordinator, **U**se same serial for same incident, **E**ndorsements through channels, **S**igned statements attached, **T**horough review by committee.
+
+### Key Rules
+
+| Rule |
+|------|
+| Separate DEPARTMENTAL RECOGNITION REQUEST required for each member |
+| Same incident = same precinct/command serial number |
+| Ranking officer conducts investigation including witness interviews |
+| Recognition committees: 2 ranking officers + 3 nonsupervisory officers |
+| Bureau committees handle complex/unusual cases |
+| Integrity awards require member was offered/accepted bribe |
+| Arrest Report Supplement required if arresting officer wasn't bribe target |
+
+> **See Also:** A.G. 329-01 — Presentation of Departmental Recognition Awards (award presentation procedures). A.G. 329-23 — Civilian Recognition Report (PD439-1516 for civilian members).
+
+---
+
+# Section 329 — Pistol License for Retiring Member
+
+## A.G. 329-08: Pistol License for Retiring Member of the Service
+
+**Date Effective:** 01/23/23 | **Last Revision:** R.O. 3 | **Pages:** 1-2
+
+### Purpose
+
+To expedite the issuance of a pistol license to a uniformed member of the service retiring.
+
+### Procedure — Prior to Last Tour of Duty
+
+#### Retiring Member of the Service
+
+| Step | Action |
+|------|--------|
+| 1 | Obtain pistol license from local police authority if **non-resident** of City |
+| 2 | Prepare **PISTOL LICENSE APPLICATION (PD643-041)** complying with directions on form |
+| 3 | Request commanding officer to endorse reverse side under "Investigating Officer's Recommendation" |
+| 4 | Obtain **three head-type photographs**, 1½ inch square (taken within 30 days of application) |
+| 5 | **Non-residents:** Four photographs required |
+
+#### Application Copy Requirements
+
+| Residency | Copies Required |
+|-----------|-----------------|
+| **New York City Resident** | 2 copies |
+| **Non-Resident of NYC** | 3 copies |
+
+#### Clerical Member
+
+| Step | Action |
+|------|--------|
+| 1 | Fingerprint retiring member using: |
+|   | - **NON-CRIMINAL FINGERPRINT RECORD (PD423-144)** |
+|   | - **New York State Non-Criminal Fingerprint Card (O13 OOIN)** |
+|   | - **F.B.I. Applicant Form (FD258)** |
+
+#### Retiring Member (Continued)
+
+| Step | Action |
+|------|--------|
+| 1 | Report to **Identification Unit, Police Headquarters** with fingerprints for processing |
+| 2 | Report to **Payroll/Pension Section** to obtain **Certificate of Service** with medical endorsement |
+| 3 | **Non-residents:** Obtain additional copy of Certificate of Service for local police authority |
+
+> **Exam Alert:** Retiring members must prepare **PISTOL LICENSE APPLICATION (PD643-041)** **prior to their last tour of duty**. Photographs must be taken within **30 days** of application. **NYC residents** need 2 copies; **non-residents** need 3 copies plus 4 photographs.
+
+> **Sergeant Focus:** As a supervisor, you may be asked to endorse the retiring member's pistol license application. The commanding officer endorses under "Investigating Officer's Recommendation" on the reverse side. Ensure the member completes all steps before their last tour — fingerprints at Identification Unit and Certificate of Service from Payroll/Pension Section.
+
+### Required Forms
+
+| Form | Purpose |
+|------|---------|
+| **PD643-041** | Pistol License Application |
+| **PD423-144** | Non-Criminal Fingerprint Record |
+| **O13 OOIN** | New York State Non-Criminal Fingerprint Card |
+| **FD258** | F.B.I. Applicant Form |
+| **Certificate of Service** | Obtained from Payroll/Pension Section with medical endorsement |
+
+> **Memory Aid — PISTOL LICENSE:** **L.I.C.E.N.S.E.** — **L**ast tour deadline, **I**nvestigating officer endorses, **C**ertificate of Service required, **E**ndorsement on reverse, **N**on-residents need extra copies, **S**quare photos (1½"), **E**xpedited processing.
+
+### Key Rules
+
+| Rule |
+|------|
+| Application must be completed prior to last tour of duty |
+| Photographs must be 1½ inch square, taken within 30 days |
+| NYC residents: 2 application copies; Non-residents: 3 copies + 4 photos |
+| Fingerprints processed at Identification Unit, Police Headquarters |
+| Certificate of Service obtained from Payroll/Pension Section |
+| Non-residents obtain additional Certificate of Service copy for local authority |
+
+> **See Also:** A.G. 329-06 — Discontinuance of Police Service Retirement (terminal leave procedures). A.G. 329-07 — Discontinuance of Police Service Resignation (property return requirements).
+
+---
+
+# Section 329 — Request for Personnel Transfers
+
+## A.G. 329-09: Request for Personnel Transfers or Background Checks
+
+**Date Effective:** 11/18/21 | **Last Revision:** I.O. 110 | **Pages:** 1-2
+
+### Purpose
+
+To request the transfer of personnel (both uniformed and civilian) for assignment to specialized units and other commands, and to make background information readily available to commanding officers.
+
+### Procedure — When Requesting Assignment of Particular Member
+
+#### Commanding Officer
+
+| Step | Action |
+|------|--------|
+| 1 | Prepare **REQUEST FOR PERSONNEL (PD406-040)** |
+| 2 | For police officers, enter one of the following statements under "Results of Conferral" with Personnel Orders Division: |
+
+#### Results of Conferral Statements
+
+| Scenario | Statement |
+|----------|-----------|
+| **Member meets criteria** | "The Personnel Orders Division was contacted on (date) and (name) advised the officer met the criteria." |
+| **No requests on file** | "The Personnel Orders Division was contacted on (date) and (name) advised no Transfer Requests were on file for that position/unit." |
+| **Multiple requests received** | "The Personnel Orders Division was contacted and (number) requests from members of the service were submitted, (number) members were interviewed, and none were found to meet the requirements of this position/unit." |
+| **Exception requested** | Request for exception to unit/position criteria, and state reason(s) for exception. |
+| 3 | Obtain copy of member's **last performance evaluation** and attach to form |
+
+#### When Results of Central Personnel Index Background Request Are Received
+
+| Step | Action |
+|------|--------|
+| 1 | Review **CENTRAL PERSONNEL INDEX BACKGROUND REQUEST (PD449-160)** results |
+| 2 | Use background information to inform assignment decisions |
+| 3 | Maintain confidentiality of personnel records |
+
+> **Exam Alert:** When preparing **REQUEST FOR PERSONNEL (PD406-040)**, the commanding officer must enter the appropriate "Results of Conferral" statement based on contact with Personnel Orders Division. The member's **last performance evaluation** must be obtained and attached to the form.
+
+> **Sergeant Focus:** As a supervisor requesting personnel assignments, you must first confer with Personnel Orders Division and document the results accurately. The four standard statements cover: (1) member meets criteria, (2) no requests on file, (3) multiple requests but none qualified, and (4) exception request with reasons. Always attach the member's last performance evaluation.
+
+### Required Forms
+
+| Form | Purpose |
+|------|---------|
+| **PD406-040** | Request for Personnel (transfer requests) |
+| **PD449-160** | Central Personnel Index Background Request |
+
+### Distribution of Background Request
+
+The **CENTRAL PERSONNEL INDEX BACKGROUND REQUEST (PD449-160)** is distributed as indicated on the form to obtain comprehensive background information on members being considered for specialized assignments.
+
+> **Memory Aid — PERSONNEL REQUEST:** **R.E.Q.U.E.S.T.** — **R**eview background first, **E**valuation attached, **Q**uery Personnel Orders, **U**nit criteria documented, **E**xception reasons stated, **S**tatement of conferral required, **T**ransfer form (PD406-040).
+
+### Key Rules
+
+| Rule |
+|------|
+| REQUEST FOR PERSONNEL (PD406-040) required for all transfer requests |
+| Conferral with Personnel Orders Division must be documented |
+| One of four standard statements entered under "Results of Conferral" |
+| Member's last performance evaluation must be attached |
+| Exception requests must state specific reasons |
+| CENTRAL PERSONNEL INDEX BACKGROUND REQUEST (PD449-160) used for background checks |
+
+> **See Also:** A.G. 329-03 — Departmental Recognition (recognition committee composition). A.G. 329-23 — Civilian Recognition Report (civilian member transfers).
 
 ---
 
@@ -40016,6 +41233,244 @@ The desk officer assigns a sergeant and clerical member of the service to open t
 **D) The member's union representative**
 
 Operations Unit notifies: Communications Section (FINEST Message), Internal Affairs Bureau, Payroll Section, Police Pension Fund, and Human Resources Division. The union representative is not on this notification list. (A.G. 329-07)
+
+</details>
+
+---
+
+**13. A Departmental Recognition Committee must be composed of:**
+
+- A) 3 ranking officers and 2 nonsupervisory officers
+- B) 2 ranking officers (one as chairperson) and 3 nonsupervisory officers
+- C) 5 ranking officers
+- D) 4 nonsupervisory officers and 1 ranking officer
+
+<details><summary>Answer</summary>
+
+**B) 2 ranking officers (one as chairperson) and 3 nonsupervisory officers**
+
+Departmental Recognition Committees are composed of five uniformed members: two ranking officers (one designated as chairperson) and three nonsupervisory officers (which may include a precinct detective squad member). (A.G. 329-03)
+
+</details>
+
+---
+
+**14. When multiple members are involved in the same incident, how many DEPARTMENTAL RECOGNITION REQUEST forms are required?**
+
+- A) One form listing all members
+- B) One form per member
+- C) One form per rank
+- D) One form for up to 3 members
+
+<details><summary>Answer</summary>
+
+**B) One form per member**
+
+A separate DEPARTMENTAL RECOGNITION REQUEST (PD439-162) must be prepared for each member of the service involved, even if they were part of the same incident. (A.G. 329-03)
+
+</details>
+
+---
+
+**15. When multiple members are involved in the same incident, the precinct/command serial number assigned should be:**
+
+- A) Different for each member
+- B) The same for all members
+- C) Sequential numbers for each member
+- D) Assigned only to the ranking officer
+
+<details><summary>Answer</summary>
+
+**B) The same for all members**
+
+If more than one member of the service is involved in the same incident, the same precinct/command serial number will be used for all requests. (A.G. 329-03)
+
+</details>
+
+---
+
+**16. Who is responsible for conducting the investigation of a Departmental Recognition Request?**
+
+- A) The precinct commander
+- B) The operations coordinator
+- C) A ranking officer assigned by the operations coordinator
+- D) The Recognition Committee chairperson
+
+<details><summary>Answer</summary>
+
+**C) A ranking officer assigned by the operations coordinator**
+
+The operations coordinator assigns the request to a ranking officer for investigation. The ranking officer conducts the investigation including checking records, interviewing members and witnesses, and obtaining signed statements. (A.G. 329-03)
+
+</details>
+
+---
+
+**17. Which of the following is NOT part of the ranking officer's investigation of a recognition request?**
+
+- A) Checking Department records
+- B) Interviewing the patrol supervisor
+- C) Obtaining signed statements from witnesses
+- D) Making the final approval decision
+
+<details><summary>Answer</summary>
+
+**D) Making the final approval decision**
+
+The ranking officer conducts the investigation but does NOT make the final approval. The investigation includes: checking records, interviewing members (including patrol supervisor), interviewing witnesses, obtaining signed statements, and attaching all forms. The commanding officer makes the final approval. (A.G. 329-03)
+
+</details>
+
+---
+
+**18. To be eligible for Integrity Review Board recognition, the uniformed member must:**
+
+- A) Have effected any felony arrest
+- B) Have been offered/accepted a bribe AND effected the arrest or charged the defendant with bribery
+- C) Have witnessed another officer accepting a bribe
+- D) Have made 10 or more integrity-related arrests in a year
+
+<details><summary>Answer</summary>
+
+**B) Have been offered/accepted a bribe AND effected the arrest or charged the defendant with bribery**
+
+To receive recognition from the Integrity Review Board, the uniformed member must be the individual who was offered/accepted the bribe AND either effected the arrest for bribery or charged the defendant with the additional crime of bribery. (A.G. 329-03)
+
+</details>
+
+---
+
+**19. When the arresting officer is NOT the member offered the bribe, what is required?**
+
+- A) A separate recognition form
+- B) An ARREST REPORT SUPPLEMENT delineating the circumstances
+- C) Approval from the Chief of Department
+- D) The arresting officer cannot receive recognition
+
+<details><summary>Answer</summary>
+
+**B) An ARREST REPORT SUPPLEMENT delineating the circumstances**
+
+When the arresting officer is not the uniformed member offered the bribe, an ARREST REPORT SUPPLEMENT must be prepared delineating the circumstances surrounding the additional charge of bribery. (A.G. 329-03)
+
+</details>
+
+---
+
+**20. A retiring member must complete the pistol license application:**
+
+- A) Within 30 days after retirement
+- B) Prior to their last tour of duty
+- C) On their last tour of duty
+- D) After obtaining the Certificate of Service
+
+<details><summary>Answer</summary>
+
+**B) Prior to their last tour of duty**
+
+A uniformed member desiring a pistol license must complete the application prior to their last tour of duty. This includes preparing PD643-041, obtaining photographs, and getting fingerprints processed. (A.G. 329-08)
+
+</details>
+
+---
+
+**21. How many photographs are required for a NYC resident retiring member's pistol license application?**
+
+- A) 2
+- B) 3
+- C) 4
+- D) 6
+
+<details><summary>Answer</summary>
+
+**B) 3**
+
+NYC residents require 3 head-type photographs (1½ inch square). Non-residents require 4 photographs. Photos must be taken within 30 days of application. (A.G. 329-08)
+
+</details>
+
+---
+
+**22. Where must a retiring member report for fingerprint processing?**
+
+- A) The borough Property Clerk
+- B) The Payroll/Pension Section
+- C) Identification Unit, Police Headquarters
+- D) The precinct of occurrence
+
+<details><summary>Answer</summary>
+
+**C) Identification Unit, Police Headquarters**
+
+The retiring member must report to the Identification Unit, Police Headquarters with fingerprints for processing. Forms used include PD423-144, NYS O13 OOIN card, and FBI FD258. (A.G. 329-08)
+
+</details>
+
+---
+
+**23. The Certificate of Service with medical endorsement is obtained from:**
+
+- A) The Identification Unit
+- B) The Payroll/Pension Section
+- C) The Police Pension Fund
+- D) The Operations Coordinator
+
+<details><summary>Answer</summary>
+
+**B) The Payroll/Pension Section**
+
+The retiring member reports to the Payroll/Pension Section to obtain the Certificate of Service with medical endorsement. Non-residents need an additional copy for their local police authority. (A.G. 329-08)
+
+</details>
+
+---
+
+**24. When requesting personnel transfers, the commanding officer must confer with:**
+
+- A) The Chief of Personnel
+- B) Personnel Orders Division
+- C) The borough commander
+- D) The Civilian Employee Services Unit
+
+<details><summary>Answer</summary>
+
+**B) Personnel Orders Division**
+
+The commanding officer must confer with Personnel Orders Division and document the results under "Results of Conferral" on the REQUEST FOR PERSONNEL (PD406-040) form. (A.G. 329-09)
+
+</details>
+
+---
+
+**25. Which form is used for Central Personnel Index Background Requests?**
+
+- A) PD406-040
+- B) PD439-162
+- C) PD449-160
+- D) PD643-041
+
+<details><summary>Answer</summary>
+
+**C) PD449-160**
+
+CENTRAL PERSONNEL INDEX BACKGROUND REQUEST (PD449-160) is prepared and distributed as indicated on the form to obtain background information on members being considered for specialized assignments. (A.G. 329-09)
+
+</details>
+
+---
+
+**26. What must be attached to the REQUEST FOR PERSONNEL (PD406-040)?**
+
+- A) The member's training records
+- B) The member's last performance evaluation
+- C) A copy of the member's precinct assignment history
+- D) The Recognition Committee recommendation
+
+<details><summary>Answer</summary>
+
+**B) The member's last performance evaluation**
+
+The commanding officer must obtain a copy of the member's last performance evaluation and attach it to the REQUEST FOR PERSONNEL form. (A.G. 329-09)
 
 </details>
 
